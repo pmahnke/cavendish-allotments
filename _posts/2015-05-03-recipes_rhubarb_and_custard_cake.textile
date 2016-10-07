@@ -38,7 +38,7 @@ _Recipe from Good Food Magazine_
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-03-recipes_rhubarb_and_custard_cake in site.data.2015-05-03-recipes_rhubarb_and_custard_cake %}
   <li>

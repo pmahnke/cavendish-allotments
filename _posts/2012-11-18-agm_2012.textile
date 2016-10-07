@@ -17,7 +17,7 @@ Anyone unable to attend the AGM can e-mail ( "enquiries@cavendish-allotments.org
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2012-11-18-agm_2012 in site.data.2012-11-18-agm_2012 %}
   <li>

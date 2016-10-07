@@ -27,7 +27,7 @@ _Refs Garden Organic autumn 2015_
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-use_of_sprays in site.data.2015-11-05-use_of_sprays %}
   <li>

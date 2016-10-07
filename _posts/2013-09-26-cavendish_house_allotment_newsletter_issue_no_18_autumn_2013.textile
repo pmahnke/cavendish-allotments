@@ -5,7 +5,7 @@ permalink: /2013/09/cavendish_house_allotment_newsletter_issue_no_18_autumn_2013
 category: News
 date: 2013-09-26 20:20:19
 excerpt: |
-    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no18_201309-1-1.jpg"><img alt="cavendish_newsletter_no18_201309-1-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no18_201309-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    <a href="/assets/images/cavendish_newsletter_no18_201309-1-1.jpg"><img alt="cavendish_newsletter_no18_201309-1-1.jpg" src="/assets/images/cavendish_newsletter_no18_201309-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
     
     In this issue:
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no18_201309-1-1.jpg"><img alt="cavendish_newsletter_no18_201309-1-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no18_201309-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+<a href="/assets/images/cavendish_newsletter_no18_201309-1-1.jpg"><img alt="cavendish_newsletter_no18_201309-1-1.jpg" src="/assets/images/cavendish_newsletter_no18_201309-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
 
 In this issue:
 
@@ -23,13 +23,13 @@ In this issue:
 * AGM announcement
 * Recipe: Catherine Berwick's Parsnip and Maple Syrup Cake
 
-* <a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no18_201309-1.pdf">Download newsletter</a> [pdf]
+* <a href="/assets/images/cavendish_newsletter_no18_201309-1.pdf">Download newsletter</a> [pdf]
 
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013 in site.data.2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013 %}
   <li>

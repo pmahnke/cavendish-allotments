@@ -19,7 +19,7 @@ Whichever date it is, when you are sowing seeds now, please sow a few extra to b
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-04-04-future_events in site.data.2007-04-04-future_events %}
   <li>

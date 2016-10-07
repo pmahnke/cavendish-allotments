@@ -40,7 +40,7 @@ _Sue (20)_
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-09-17-good_crops_bad_crops in site.data.2007-09-17-good_crops_bad_crops %}
   <li>

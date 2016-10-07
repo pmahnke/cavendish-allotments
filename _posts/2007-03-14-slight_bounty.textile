@@ -29,7 +29,7 @@ excerpt: |
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-03-14-slight_bounty in site.data.2007-03-14-slight_bounty %}
   <li>

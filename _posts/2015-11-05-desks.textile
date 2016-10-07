@@ -16,7 +16,7 @@ There are two desks in the car park that have been donated,  to go to good homes
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-desks in site.data.2015-11-05-desks %}
   <li>

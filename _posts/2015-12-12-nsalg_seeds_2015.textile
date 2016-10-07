@@ -23,7 +23,7 @@ If you are interested get in touch with Toni as soon as possible via "enquiries@
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-12-12-nsalg_seeds_2015 in site.data.2015-12-12-nsalg_seeds_2015 %}
   <li>

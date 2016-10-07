@@ -19,7 +19,7 @@ We have recently been notified that this only covers individuals who are members
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-money_matters in site.data.2010-10-01-money_matters %}
   <li>

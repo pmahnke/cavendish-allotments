@@ -7,7 +7,7 @@ date: 2008-07-14 13:47:15
 
 ---
 
-<img alt="two_taps.jpg" src="http://www.cavendish-allotments.org.uk/images/two_taps-thumb.jpg" width="205" height="210" class="right"/>
+<img alt="two_taps.jpg" src="/assets/images/two_taps-thumb.jpg" width="205" height="210" class="right"/>
 
 The water works has started and should be finished by early next week.
 
@@ -20,7 +20,7 @@ The mains pressure will be increased, so watering should be quicker.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2008-07-14-water_works_has_started in site.data.2008-07-14-water_works_has_started %}
   <li>

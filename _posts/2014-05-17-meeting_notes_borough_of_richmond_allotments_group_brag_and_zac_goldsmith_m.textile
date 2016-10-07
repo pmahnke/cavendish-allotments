@@ -55,7 +55,7 @@ h3. Present:
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m in site.data.2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m %}
   <li>

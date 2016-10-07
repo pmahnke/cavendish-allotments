@@ -18,7 +18,7 @@ However, help is needed!
 For further details visit www.2×2opera.co.uk
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-03-14-plant_your_beans in site.data.2007-03-14-plant_your_beans %}
   <li>

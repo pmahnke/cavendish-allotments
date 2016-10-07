@@ -17,7 +17,7 @@ Join fellow plot holders on Cavendish House Allotment Site Sunday afternoon 20<s
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-03-09-seed_swap_sunday_20_march_2016 in site.data.2016-03-09-seed_swap_sunday_20_march_2016 %}
   <li>

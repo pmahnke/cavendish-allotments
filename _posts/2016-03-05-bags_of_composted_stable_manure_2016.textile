@@ -28,7 +28,7 @@ on behalf of the committee.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-03-05-bags_of_composted_stable_manure_2016 in site.data.2016-03-05-bags_of_composted_stable_manure_2016 %}
   <li>

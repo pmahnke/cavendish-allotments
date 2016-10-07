@@ -17,7 +17,7 @@ Do you have fruit trees with surplus windfalls? Rather than leave to rot on the 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-windfalls in site.data.2015-11-05-windfalls %}
   <li>

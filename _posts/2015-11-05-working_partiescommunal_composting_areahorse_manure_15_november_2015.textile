@@ -18,7 +18,7 @@ There will be another on 15<sup>th</sup> November 2015 at 3pm when all offers of
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015 in site.data.2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015 %}
   <li>

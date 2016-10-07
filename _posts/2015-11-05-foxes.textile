@@ -15,7 +15,7 @@ You may have seen a young fox on the site over the summer, appearing quite tame.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-foxes in site.data.2015-11-05-foxes %}
   <li>

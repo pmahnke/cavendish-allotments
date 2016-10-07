@@ -14,7 +14,7 @@ There are now to be more guidelines and information given to plot-holders about 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-04-28-the_ne_corner_composting_area in site.data.2011-04-28-the_ne_corner_composting_area %}
   <li>

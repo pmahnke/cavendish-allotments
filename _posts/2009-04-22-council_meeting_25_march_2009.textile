@@ -12,7 +12,7 @@ Two committee members attended an Allotment Site User Group meeting on 25 March.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-council_meeting_25_march_2009 in site.data.2009-04-22-council_meeting_25_march_2009 %}
   <li>

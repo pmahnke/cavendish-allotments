@@ -37,7 +37,7 @@ Do send us photos of any reptiles you see on your allotment.
 ??Rosemary??
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-amphibian_and_reptile_workshop in site.data.2015-11-05-amphibian_and_reptile_workshop %}
   <li>

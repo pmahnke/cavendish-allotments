@@ -19,7 +19,7 @@ Financial contributions will go towards projects such as raised beds and tree pr
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-25-june_social_7_june_2015 in site.data.2015-05-25-june_social_7_june_2015 %}
   <li>

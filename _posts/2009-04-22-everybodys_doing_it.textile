@@ -7,7 +7,7 @@ date: 2009-04-22 11:05:48
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/flotus_garden2_blog.html" onclick="window.open('http://www.cavendish-allotments.org.uk/flotus_garden2_blog.html','popup','width=525,height=350,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/flotus_garden2_blog-thumb.jpg" width="150" height="100" alt="FLOTUS gardening" class="photo right" /></a>
+<a href="http://www.cavendish-allotments.org.uk/flotus_garden2_blog.html" onclick="window.open('http://www.cavendish-allotments.org.uk/flotus_garden2_blog.html','popup','width=525,height=350,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets/images/flotus_garden2_blog-thumb.jpg" width="150" height="100" alt="FLOTUS gardening" class="photo right" /></a>
 
 The National Trust says it is to create 1,000 new allotments over the next three years on Trust-managed properties, such as farmland and unused areas of country house gardens. And, even across the pond, the Obamas are going to have some of the White House lawn ploughed up to make a vegetable garden where food will be grown for the family and staff. It will be about the size of a 4 rod plot (100 m<sup>2</sup>) and will include salads, vegetables to cook plus companion planting. You can see more on the "White House website":http://www.whitehouse.gov/blog/09/03/20/Spring-Gardening/ or "The New York Times website":http://www.nytimes.com/2009/03/20/dining/20garden.html?_r=1&scp=1&sq=white%20house%20kitchen%20garden&st=cse.
 
@@ -15,7 +15,7 @@ The National Trust says it is to create 1,000 new allotments over the next three
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-everybodys_doing_it in site.data.2009-04-22-everybodys_doing_it %}
   <li>

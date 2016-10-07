@@ -19,7 +19,7 @@ Please contact a committee member by leaving a message on  07505 668268, or emai
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-03-useful_things_to_borrowuse in site.data.2015-05-03-useful_things_to_borrowuse %}
   <li>

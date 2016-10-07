@@ -15,7 +15,7 @@ h3. Waiting list - CLOSED
 
 Our waiting is managed by *Richmond Council* and list is _*closed*_ for the foreseeable future as we have approximately seven years of people on the list.
 
-If you need to get in touch with the Council, please "see the Council's webpage":http://www.richmond.gov.uk/allotments on Allotments, or use the following contact information. 
+If you need to get in touch with the Council, please "see the Council's webpage":http://www.richmond.gov.uk/allotments on Allotments, or use the following contact information.
 
 h4. Richmond Council Allotments Officer contact details
 
@@ -34,21 +34,3 @@ TW1 3BZ
 h3. Cavendish Allotment contact details
 
 If you need to get in touch with the the Cavendish Allotment Committee, we have an answer phone at: 07505 668268.  We will attempt to respond to all calls within 48 hours.  You can also email us at "enquiries@cavendish-allotments.org.uk":mailto:enquiries@cavendish-allotments.org.uk.
-
-
-
-
-<h2>Comments</h2>
-<ul>
-{% for 2011-01-09-contact_us in site.data.2011-01-09-contact_us %}
-  <li>
-
-    {{ 2011-01-09-contact_us.comment }}
-
-    <cite>{{ 2011-01-09-contact_us.author }} on {{ 2011-01-09-contact_us.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
-
-

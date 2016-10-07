@@ -36,7 +36,7 @@ Mike & Barbara Fitt/Paul Akers (allotment gardening in a small space)
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-08-06-get_growing_with_the_royal_parks in site.data.2009-08-06-get_growing_with_the_royal_parks %}
   <li>

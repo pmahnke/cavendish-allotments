@@ -14,7 +14,7 @@ There is a joining fee for the TGA of 25p and the annual fee is &pound;2.00 for 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-twickenham_gardening_association in site.data.2007-06-23-twickenham_gardening_association %}
   <li>

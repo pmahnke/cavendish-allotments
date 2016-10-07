@@ -18,7 +18,7 @@ We look forward to a productive partnership!
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-09-17-do_you_need_an_angel in site.data.2007-09-17-do_you_need_an_angel %}
   <li>

@@ -10,13 +10,13 @@ date: 2011-03-20 10:57:35
 The _Cavendish Communal Greenhouse_ has the potential to be a resource shared by everyone using the allotments on the site.  The greenhouse was donated on the understanding that it could be used communally, including use by people with disabilities.  We hope that you will wish to use it, support others and keep it well maintained.
 
 So we can all share these facilities, the committee has the following guidance.  Please
-<a href="http://www.cavendish-allotments.org.uk/CavendishCommunalGreenhouse.pdf">download this file</a>. [pdf]
+<a href="/assets/images/CavendishCommunalGreenhouse.pdf">download this file</a>. [pdf]
 
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-03-20-communal_greenhouse in site.data.2011-03-20-communal_greenhouse %}
   <li>
@@ -24,9 +24,7 @@ So we can all share these facilities, the committee has the following guidance. 
     {{ 2011-03-20-communal_greenhouse.comment }}
 
     <cite>{{ 2011-03-20-communal_greenhouse.author }} on {{ 2011-03-20-communal_greenhouse.date }}</cite>
-    
+
   </li>
 {% endfor %}
 </ul>
-
-

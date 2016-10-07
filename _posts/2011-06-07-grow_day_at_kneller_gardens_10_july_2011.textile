@@ -37,7 +37,7 @@ Show people how easy growing can be and how contagious it can become!
 </em>
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-06-07-grow_day_at_kneller_gardens_10_july_2011 in site.data.2011-06-07-grow_day_at_kneller_gardens_10_july_2011 %}
   <li>

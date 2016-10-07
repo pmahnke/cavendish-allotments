@@ -7,7 +7,7 @@ date: 2010-10-01 09:02:58
 
 ---
 
-<img alt="Paul and Michael working on the glass house" src="http://www.cavendish-allotments.org.uk/cav_glass_house-thumb.jpg" width="500" height="248" class="photo center" /></a>
+<img alt="Paul and Michael working on the glass house" src="/assets/images/cav_glass_house-thumb.jpg" width="500" height="248" class="photo center" /></a>
 
 A greenhouse has been erected in the car park. This is a recent generous donation and has been assembled by a very hard-working Paul Leonard with some volunteer help.  Paul writes: 
 
@@ -25,7 +25,7 @@ Things to think about include:
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-under_glass in site.data.2010-10-01-under_glass %}
   <li>

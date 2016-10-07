@@ -44,7 +44,7 @@ _Peter Lowman_
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-03-05-the_no_dig_method in site.data.2016-03-05-the_no_dig_method %}
   <li>

@@ -12,7 +12,7 @@ Our AGM will be held on Sunday 14 November at 2pm prompt until 4, in the upstair
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-make_a_date_agm in site.data.2010-10-01-make_a_date_agm %}
   <li>

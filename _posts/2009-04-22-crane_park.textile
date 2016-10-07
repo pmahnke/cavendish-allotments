@@ -12,7 +12,7 @@ In a London-wide competition to gain government funding for its boroughs' local 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-crane_park in site.data.2009-04-22-crane_park %}
   <li>

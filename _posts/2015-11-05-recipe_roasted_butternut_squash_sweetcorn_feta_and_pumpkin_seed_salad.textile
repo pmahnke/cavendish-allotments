@@ -7,7 +7,7 @@ date: 2015-11-05 21:43:04
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/salad-ottolenghi.jpg"><img alt="salad-ottolenghi.jpg" src="http://www.cavendish-allotments.org.uk/salad-ottolenghi-thumb.jpg" width="250" height="150"  class="photo right"  /></a>
+<a href="/assets/images/salad-ottolenghi.jpg"><img alt="salad-ottolenghi.jpg" src="/assets/images/salad-ottolenghi-thumb.jpg" width="250" height="150"  class="photo right"  /></a>
 
 
 * 1 large butternut squash, cut in half lengthways, seeds scooped out, skin on and cut into 3cm x 8cm wedges
@@ -33,7 +33,7 @@ date: 2015-11-05 21:43:04
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad in site.data.2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad %}
   <li>

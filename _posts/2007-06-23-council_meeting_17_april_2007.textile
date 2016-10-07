@@ -23,7 +23,7 @@ Two committee members attended the meeting in York House where maintenance was d
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-council_meeting_17_april_2007 in site.data.2007-06-23-council_meeting_17_april_2007 %}
   <li>

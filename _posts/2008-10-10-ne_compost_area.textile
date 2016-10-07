@@ -16,7 +16,7 @@ The work of a few volunteers over the summer has been appreciated but it is now 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2008-10-10-ne_compost_area in site.data.2008-10-10-ne_compost_area %}
   <li>

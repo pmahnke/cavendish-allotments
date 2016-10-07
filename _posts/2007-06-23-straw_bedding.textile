@@ -16,7 +16,7 @@ We have also received our third lorry load of wood chip from the council which p
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-straw_bedding in site.data.2007-06-23-straw_bedding %}
   <li>

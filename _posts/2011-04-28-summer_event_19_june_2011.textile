@@ -7,14 +7,14 @@ date: 2011-04-28 09:57:31
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/allotment_openday2.html" onclick="window.open('http://www.cavendish-allotments.org.uk/allotment_openday2.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/allotment_openday2-thumb.jpg" width="150" height="112" alt="Open Day 2" class="photo right" /></a>
+<a href="http://www.cavendish-allotments.org.uk/allotment_openday2.html" onclick="window.open('http://www.cavendish-allotments.org.uk/allotment_openday2.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets/images/allotment_openday2-thumb.jpg" width="150" height="112" alt="Open Day 2" class="photo right" /></a>
 
 Our social event will be on Sunday 19 June, from 12 noon onwards. As always, there will be a barbeque, drinks, good food and sales of plants, with everything at very reasonable prices. Will you start thinking now about keeping aside any tools, surplus garden-related items and equipment, seeds and plants to donate, please? Whatever you don't want, someone else will. For the barbeque, bring any meat you wish to have cooked.  Donations of all kinds of food - savouries, salads, cakes, desserts, etc - will be much appreciated. Bring on the day, or talk to a committee member beforehand.
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-04-28-summer_event_19_june_2011 in site.data.2011-04-28-summer_event_19_june_2011 %}
   <li>

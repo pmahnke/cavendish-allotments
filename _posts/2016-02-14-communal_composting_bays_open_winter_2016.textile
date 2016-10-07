@@ -22,7 +22,7 @@ _It's free and ideal as a soil conditioner._
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-02-14-communal_composting_bays_open_winter_2016 in site.data.2016-02-14-communal_composting_bays_open_winter_2016 %}
   <li>

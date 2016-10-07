@@ -18,7 +18,7 @@ What do people think about having an autumn BBQ event? Let us know in the commen
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-06-20-pictures_from_the_2010_social_day_1 in site.data.2010-06-20-pictures_from_the_2010_social_day_1 %}
   <li>

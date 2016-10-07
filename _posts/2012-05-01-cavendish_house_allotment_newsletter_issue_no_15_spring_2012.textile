@@ -5,7 +5,7 @@ permalink: /2012/05/cavendish_house_allotment_newsletter_issue_no_15_spring_2012
 category: News
 date: 2012-05-01 20:47:36
 excerpt: |
-    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1.jpg"><img alt="cavendish_newsletter_no15_201204-4--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    <a href="/assets/images/cavendish_newsletter_no15_201204-4--1.jpg"><img alt="cavendish_newsletter_no15_201204-4--1.jpg" src="/assets/images/cavendish_newsletter_no15_201204-4--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
     
     In this issue:
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1.jpg"><img alt="cavendish_newsletter_no15_201204-4--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1-thumb.jpg" width="150" height="212"  class="photo right"  /></a>
+<a href="/assets/images/cavendish_newsletter_no15_201204-4--1.jpg"><img alt="cavendish_newsletter_no15_201204-4--1.jpg" src="/assets/images/cavendish_newsletter_no15_201204-4--1-thumb.jpg" width="150" height="212"  class="photo right"  /></a>
 
 In this issue:
 
@@ -27,7 +27,7 @@ In this issue:
 * Drought Busting Tips
 * Recipe: Warm Broad Bean and Halloumi Salad
 
-<a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no15_201204-4%20.pdf">Download newsletter</a> [pdf]
+<a href="/assets/images/cavendish_newsletter_no15_201204-4%20.pdf">Download newsletter</a> [pdf]
 
 
 
@@ -35,7 +35,7 @@ In this issue:
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012 in site.data.2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012 %}
   <li>

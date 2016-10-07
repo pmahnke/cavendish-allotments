@@ -7,7 +7,7 @@ date: 2011-10-11 21:59:58
 
 ---
 
-<a href="/images//newsletter_14_plastic.jpg" title="See larger version of - Plastic Islands"><img src="/images//newsletter_14_plastic_thumb.jpg" width="150" height="99" alt="Plastic Islands" class="photo right" /></a>
+<a href="/images//newsletter_14_plastic.jpg" title="See larger version of - Plastic Islands"><img src="/assets/images/newsletter_14_plastic_thumb.jpg" width="150" height="99" alt="Plastic Islands" class="photo right" /></a>
 
 Somewhere in the Pacific, the Atlantic and the Indian Oceans, there are some very large islands, hundreds of square miles in area. Ocean currents swirl around them and the trade winds blow over them. But no one can visit or take a holiday there; there are no airports, or roads or buildings; they can't even be walked on. They are made almost entirely of floating plastic rubbish. There's some shipping and harbour rubbish, tyres and netting, but most of it is plastic - bags and sacks, bottles, flip-flops, toys, food containers, polystyrene packaging and polythene film, etc, etc - some of the detritus of our modern consumer culture.
 
@@ -25,7 +25,7 @@ If you wish to know more, the Marine Conservation Society leads on marine litter
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-10-11-new_found_lands in site.data.2011-10-11-new_found_lands %}
   <li>

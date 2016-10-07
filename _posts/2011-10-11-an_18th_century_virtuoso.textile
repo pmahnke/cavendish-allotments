@@ -7,7 +7,7 @@ date: 2011-10-11 22:03:25
 
 ---
 
-<a href="/images//newsletter_14_shales.jpg" title="See larger version of - Reverend Stephen Hales"><img src="/images//newsletter_14_shales_thumb.jpg" width="150" height="147" alt="Reverend Stephen Hales" class="photo right" /></a>
+<a href="/images//newsletter_14_shales.jpg" title="See larger version of - Reverend Stephen Hales"><img src="/assets/images/newsletter_14_shales_thumb.jpg" width="150" height="147" alt="Reverend Stephen Hales" class="photo right" /></a>
 
 You may not have heard of him but gardeners owe a lot to the Reverend Stephen Hales. He is the father of plant physiology, and modern biology is built on many of his observations and experiments on living plants. Born in 1677, he was the curate of Teddington Church from 1709 to his death in 1761. Among his many discoveries he found that sap flows from roots to leaves (i.e., transpiration) and that leaves need light to grow and they absorb air (i.e., photosynthesis). His paper in 1719 to the Royal Society was 'Upon the Effect of ye Sun's warmth on raising ye Sap in trees'. Until his work on measuring sap pressure, velocity and circulation (inventing a trough to collect gases and gauges to measure pressure), it was thought that sap circulation was similar to that of blood in the body.
 
@@ -21,7 +21,7 @@ And in addition to tending to his flock's spiritual needs, he checked the limesc
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-10-11-an_18th_century_virtuoso in site.data.2011-10-11-an_18th_century_virtuoso %}
   <li>

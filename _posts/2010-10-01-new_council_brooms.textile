@@ -13,7 +13,7 @@ A year or so ago, the council's administration practices for allotments were rev
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-new_council_brooms in site.data.2010-10-01-new_council_brooms %}
   <li>

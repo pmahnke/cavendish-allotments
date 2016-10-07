@@ -12,7 +12,7 @@ Following the success of the event on 1 July we are having another one on Sunday
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-09-17-late_summer_social_event_7_october in site.data.2007-09-17-late_summer_social_event_7_october %}
   <li>

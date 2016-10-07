@@ -7,7 +7,7 @@ date: 2009-04-22 11:23:08
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/cavendish_pear.html" onclick="window.open('http://www.cavendish-allotments.org.uk/cavendish_pear.html','popup','width=725,height=394,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/cavendish_pear-thumb.jpg" width="500" height="271" alt="Cavendish Pear" class="photo center" /></a>
+<a href="http://www.cavendish-allotments.org.uk/cavendish_pear.html" onclick="window.open('http://www.cavendish-allotments.org.uk/cavendish_pear.html','popup','width=725,height=394,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets/images/cavendish_pear-thumb.jpg" width="500" height="271" alt="Cavendish Pear" class="photo center" /></a>
 
 
 Newly dug and raked earth looks wonderful -- full of promise for the coming growing season. It offers a chance, repeated every spring, to try something new, rearrange the plot's layout and relish the growth of permanent plants like fruit canes, bushes and trees. And perhaps this year there'll be more sun!
@@ -37,7 +37,7 @@ Please take account of them when you are disposing of waste from your own plot. 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-welcome_the_new_season in site.data.2009-04-22-welcome_the_new_season %}
   <li>

@@ -27,7 +27,7 @@ Thames Water Utilities Limited has given notice to all of its customers, that th
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2012-04-02-thames_water_hosepipe_ban_starts_4_april_2012 in site.data.2012-04-02-thames_water_hosepipe_ban_starts_4_april_2012 %}
   <li>

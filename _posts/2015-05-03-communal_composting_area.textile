@@ -26,7 +26,7 @@ See the "London Wildlife Trust website":http://www.wildlondon.org.uk/ for more i
 * <em>Photo of stag beetle by "Graham Bancroft":https://www.flickr.com/photos/grahambancroft/5931121106</em>
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-03-communal_composting_area in site.data.2015-05-03-communal_composting_area %}
   <li>

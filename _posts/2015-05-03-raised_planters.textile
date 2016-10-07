@@ -17,7 +17,7 @@ Contact a committee member as below if you would like to discuss or register int
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-03-raised_planters in site.data.2015-05-03-raised_planters %}
   <li>

@@ -23,7 +23,7 @@ The gardening magazines include:
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-02-14-the_cavendish_library in site.data.2016-02-14-the_cavendish_library %}
   <li>

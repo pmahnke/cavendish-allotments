@@ -7,7 +7,7 @@ date: 2011-04-28 09:51:32
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/Plot_Post.jpg"><img alt="Plot_Post.jpg" src="http://www.cavendish-allotments.org.uk/Plot_Post-thumb.jpg" width="150" height="193" class="photo right" /></a>
+<a href="/assets/images/Plot_Post.jpg"><img alt="Plot_Post.jpg" src="/assets/images/Plot_Post-thumb.jpg" width="150" height="193" class="photo right" /></a>
 
 Many plot markers have been lost over the years. New ones are being made by Paul and Yolanda and others, formed of a post with a numbered tile attached. These will be positioned at the front boundary of each plot. So, in the words of the old BT advert, 'Now we all know where we are!'.
 
@@ -18,7 +18,7 @@ A lidded incinerator has been bought, available for any plot-holder to use on th
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-04-28-other_new_initiatives in site.data.2011-04-28-other_new_initiatives %}
   <li>

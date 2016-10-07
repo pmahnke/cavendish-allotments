@@ -12,7 +12,7 @@ Paul and others have worked hard to put up the donated greenhouse. This is inten
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-04-28-the_new_greenhouse in site.data.2011-04-28-the_new_greenhouse %}
   <li>

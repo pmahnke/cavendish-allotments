@@ -22,7 +22,7 @@ Any comments and contributions will be greatly appreciated, so please email the 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-the_committee in site.data.2007-06-23-the_committee %}
   <li>

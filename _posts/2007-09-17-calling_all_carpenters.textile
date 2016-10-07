@@ -12,7 +12,7 @@ Our noticeboard is falling to bits! A request was made to the council but all fu
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-09-17-calling_all_carpenters in site.data.2007-09-17-calling_all_carpenters %}
   <li>

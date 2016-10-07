@@ -7,7 +7,7 @@ date: 2016-01-17 20:01:47
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/glass_house_sale.jpg"><img alt="glass_house_sale.jpg" src="http://www.cavendish-allotments.org.uk/images/glass_house_sale-thumb.jpg" width="150" height="202"  class="photo right"  /></a>
+<a href="/assets/images/glass_house_sale.jpg"><img alt="glass_house_sale.jpg" src="/assets/images/glass_house_sale-thumb.jpg" width="150" height="202"  class="photo right"  /></a>
 
 Loxley octagonal cedar glasshouse made with toughened safety glass. Wood is
 100% Western Red Cedar, fades to silver grey.
@@ -45,7 +45,7 @@ Please note - base not included but we can build this for you at additional cost
 -- posted January 2016
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale in site.data.2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale %}
   <li>

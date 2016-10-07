@@ -24,7 +24,7 @@ h4. More Information
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may in site.data.2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may %}
   <li>

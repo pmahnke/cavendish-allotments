@@ -28,7 +28,7 @@ _Refreshments available_
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2013-09-27-agm_24_november_2013 in site.data.2013-09-27-agm_24_november_2013 %}
   <li>

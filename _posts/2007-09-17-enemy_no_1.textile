@@ -12,7 +12,7 @@ According to The Guardian weather reports, this summer has been the wettest for 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-09-17-enemy_no_1 in site.data.2007-09-17-enemy_no_1 %}
   <li>

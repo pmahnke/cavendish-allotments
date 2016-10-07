@@ -16,7 +16,7 @@ Further information and advice will be produced about composting, based on that 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-whats_been_going_on in site.data.2010-10-01-whats_been_going_on %}
   <li>

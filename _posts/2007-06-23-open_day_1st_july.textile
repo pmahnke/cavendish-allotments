@@ -16,7 +16,7 @@ The gates will be open from noon. Members of the public who wish to look round a
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-open_day_1st_july in site.data.2007-06-23-open_day_1st_july %}
   <li>

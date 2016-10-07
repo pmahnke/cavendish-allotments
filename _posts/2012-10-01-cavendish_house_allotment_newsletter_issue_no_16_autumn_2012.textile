@@ -5,7 +5,7 @@ permalink: /2012/10/cavendish_house_allotment_newsletter_issue_no_16_autumn_2012
 category: News
 date: 2012-10-01 20:43:10
 excerpt: |
-    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1.jpg"><img alt="cavendish_newsletter_no16_201209-2-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    <a href="/assets/images/cavendish_newsletter_no16_201209-2-1.jpg"><img alt="cavendish_newsletter_no16_201209-2-1.jpg" src="/assets/images/cavendish_newsletter_no16_201209-2-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
     
     
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1.jpg"><img alt="cavendish_newsletter_no16_201209-2-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+<a href="/assets/images/cavendish_newsletter_no16_201209-2-1.jpg"><img alt="cavendish_newsletter_no16_201209-2-1.jpg" src="/assets/images/cavendish_newsletter_no16_201209-2-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
 
 
 
@@ -29,13 +29,13 @@ In this issue:
 * What to do on your allotment this Autumn
 * Recipe: Sarah Blackmore's Beetroot Cake
 
-<a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no16_201209-2.pdf">Download newsletter</a> [pdf]
+<a href="/assets/images/cavendish_newsletter_no16_201209-2.pdf">Download newsletter</a> [pdf]
 
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012 in site.data.2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012 %}
   <li>

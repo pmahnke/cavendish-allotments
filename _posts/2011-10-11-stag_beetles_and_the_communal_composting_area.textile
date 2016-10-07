@@ -7,7 +7,7 @@ date: 2011-10-11 21:51:53
 
 ---
 
-<a href="/images//newsletter_14_stag1.jpg" title="See larger version of - adult Stag Beetle stamp"><img src="/images//newsletter_14_stag1_thumb.jpg" width="150" height="150" alt="adult Stag Beetle stamp" class="photo right" /></a>
+<a href="/images//newsletter_14_stag1.jpg" title="See larger version of - adult Stag Beetle stamp"><img src="/assets/images/newsletter_14_stag1_thumb.jpg" width="150" height="150" alt="adult Stag Beetle stamp" class="photo right" /></a>
 
 While digging out well-rotted compost from one of the communal composting bays this summer, we came across some enormous grubs. Three inches long, with white bodies and orange heads they were buried deep within the compost. A knowledgeable member of the committee recognized them as larvae of the stag beetle, a globally threatened species, protected under the Wildlife and Countryside Act 1981. These magnificent beetles are in serious decline and SW London is one of the few UK areas in which they are now found.
 
@@ -21,7 +21,7 @@ Since then, a number of plot-holders have reported seeing both the beetles and l
 
 Stag beetles are Britain's largest terrestrial beetle, named because the male's huge jaws look just like a stag's antlers.
 
-<a href="/images//newsletter_14_stag2.jpg" title="See larger version of - stag beetle grub"><img src="/images//newsletter_14_stag2_thumb.jpg" width="150" height="97" alt="stag beetle grub" class="photo right" /></a>
+<a href="/images//newsletter_14_stag2.jpg" title="See larger version of - stag beetle grub"><img src="/assets/images/newsletter_14_stag2_thumb.jpg" width="150" height="97" alt="stag beetle grub" class="photo right" /></a>
 
 
 Males can be up to 7 cm (2.5 inches) long; females are smaller, without the characteristic male "antlers". Both sexes have a shiny black head and thorax (chest) and their wing-cases are chestnut brown. They are quite harmless - their large jaws are designed to ward off other male stag beetles. You are most likely to see males in flight on warm summer evenings between May and August, while they look for a mate. Females lay their eggs near decaying wood below ground: these hatch into the larvae which feed on this rotting wood. Fully grown larvae may be up to 11 cm (4.5 inches) in length. They spend five to seven years as grubs underground.
@@ -32,7 +32,7 @@ If you would like to know more about them or report a sighting please contact: "
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-10-11-stag_beetles_and_the_communal_composting_area in site.data.2011-10-11-stag_beetles_and_the_communal_composting_area %}
   <li>

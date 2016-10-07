@@ -5,7 +5,7 @@ permalink: /2014/05/cavendish_house_allotment_newsletter_issue_no_19_spring_2014
 category: News
 date: 2014-05-27 09:11:46
 excerpt: |
-    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no19_201405-1-1.jpg"><img alt="cavendish_newsletter_no19_201405-1-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no19_201405-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    <a href="/assets/images/cavendish_newsletter_no19_201405-1-1.jpg"><img alt="cavendish_newsletter_no19_201405-1-1.jpg" src="/assets/images/cavendish_newsletter_no19_201405-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
     
     
     In this issue:
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no19_201405-1-1.jpg"><img alt="cavendish_newsletter_no19_201405-1-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no19_201405-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+<a href="/assets/images/cavendish_newsletter_no19_201405-1-1.jpg"><img alt="cavendish_newsletter_no19_201405-1-1.jpg" src="/assets/images/cavendish_newsletter_no19_201405-1-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
 
 
 In this issue:
@@ -31,12 +31,12 @@ In this issue:
 * Jam Yesterday, Jam Tomorrow
 * Recipes: Asparagus and Gruyere Tart
 
-* <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no19_201405-1.pdf">Download newsletter</a> [pdf]
+* <a href="/assets/images/cavendish_newsletter_no19_201405-1.pdf">Download newsletter</a> [pdf]
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014 in site.data.2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014 %}
   <li>

@@ -7,7 +7,7 @@ date: 2007-06-23 17:22:30
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/poppies.html" onclick="window.open('http://www.cavendish-allotments.org.uk/poppies.html','popup','width=375,height=500,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/poppies-thumb.jpg" width="112" height="150" alt="poppies from MShades -- http://flickr.com/photos/mshades/467044408/" class="photo right" /></a>
+<a href="http://www.cavendish-allotments.org.uk/poppies.html" onclick="window.open('http://www.cavendish-allotments.org.uk/poppies.html','popup','width=375,height=500,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets/images/poppies-thumb.jpg" width="112" height="150" alt="poppies from MShades -- http://flickr.com/photos/mshades/467044408/" class="photo right" /></a>
 
 In the last newsletter, we touched on companion planting. This can be a very beneficial approach to natural gardening, in terms of both pest control, and in helping pollination.
 
@@ -21,7 +21,7 @@ The carrot fly can also be a pest but interplanting double rows of onions betwee
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-companion_planting in site.data.2007-06-23-companion_planting %}
   <li>

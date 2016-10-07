@@ -12,7 +12,7 @@ On Easter Monday,  25 April 2011, from 2-5pm we will be opening the communal com
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-04-16-compost_day_easter_monday_2011 in site.data.2011-04-16-compost_day_easter_monday_2011 %}
   <li>

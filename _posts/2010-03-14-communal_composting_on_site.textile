@@ -24,7 +24,7 @@ It is hoped that following these guidelines will improve the NE corner compostin
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-03-14-communal_composting_on_site in site.data.2010-03-14-communal_composting_on_site %}
   <li>

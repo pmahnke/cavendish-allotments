@@ -18,7 +18,7 @@ You may think we wouldn't want to encourage birds but some, such as bluetits, fi
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-organic_practice in site.data.2007-06-23-organic_practice %}
   <li>

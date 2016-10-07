@@ -20,7 +20,7 @@ Chitting gives early varieties a head start before they are planted out in late 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-02-14-buy_seed_potatoes_in_february in site.data.2016-02-14-buy_seed_potatoes_in_february %}
   <li>

@@ -12,7 +12,7 @@ The committee feels it would be useful to have a second notice board.  Plot hold
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2008-10-10-more_communication in site.data.2008-10-10-more_communication %}
   <li>

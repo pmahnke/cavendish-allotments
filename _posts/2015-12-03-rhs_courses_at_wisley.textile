@@ -20,7 +20,7 @@ They come recommended by some of our plot holders.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-12-03-rhs_courses_at_wisley in site.data.2015-12-03-rhs_courses_at_wisley %}
   <li>

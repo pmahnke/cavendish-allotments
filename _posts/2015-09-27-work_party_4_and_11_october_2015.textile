@@ -16,7 +16,7 @@ You will need gloves and secateurs to attack brambles and bindweed and bring sur
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-09-27-work_party_4_and_11_october_2015 in site.data.2015-09-27-work_party_4_and_11_october_2015 %}
   <li>

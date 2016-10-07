@@ -12,7 +12,7 @@ Please lock the gates behind you whenever you enter the site, even if you are wo
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-security in site.data.2009-04-22-security %}
   <li>

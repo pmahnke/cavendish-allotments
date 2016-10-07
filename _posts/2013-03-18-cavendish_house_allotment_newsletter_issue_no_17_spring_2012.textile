@@ -5,7 +5,7 @@ permalink: /2013/03/cavendish_house_allotment_newsletter_issue_no_17_spring_2012
 category: News
 date: 2013-03-18 20:26:09
 excerpt: |
-    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1.jpg"><img alt="cavendish_newsletter_no17_201303-1--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    <a href="/assets/images/cavendish_newsletter_no17_201303-1--1.jpg"><img alt="cavendish_newsletter_no17_201303-1--1.jpg" src="/assets/images/cavendish_newsletter_no17_201303-1--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
     
     
     In this issue:
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1.jpg"><img alt="cavendish_newsletter_no17_201303-1--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+<a href="/assets/images/cavendish_newsletter_no17_201303-1--1.jpg"><img alt="cavendish_newsletter_no17_201303-1--1.jpg" src="/assets/images/cavendish_newsletter_no17_201303-1--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
 
 
 In this issue:
@@ -27,13 +27,13 @@ In this issue:
 * Bees - Neonicotinoid pesticides taken off the shelves...
 * Recipe: Rhubarb and Ginger Crumble
 
-<a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no17_201303-1%20.pdf">Download newsletter</a> [pdf]
+<a href="/assets/images/cavendish_newsletter_no17_201303-1%20.pdf">Download newsletter</a> [pdf]
 
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012 in site.data.2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012 %}
   <li>

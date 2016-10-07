@@ -22,7 +22,7 @@ Your committee.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2013-09-27-event_reminder_autumn_communal_day_29_september_2013 in site.data.2013-09-27-event_reminder_autumn_communal_day_29_september_2013 %}
   <li>

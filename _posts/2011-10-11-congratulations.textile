@@ -7,14 +7,14 @@ date: 2011-10-11 22:09:13
 
 ---
 
-<a href="/images//newsletter_14_peterj.jpg" title="See larger version of - Peter Jacques' winning plot"><img src="/images//newsletter_14_peterj_thumb.jpg" width="150" height="140" alt="Peter Jacques' winning plot" class="photo right" /></a>
+<a href="/images//newsletter_14_peterj.jpg" title="See larger version of - Peter Jacques' winning plot"><img src="/assets/images/newsletter_14_peterj_thumb.jpg" width="150" height="140" alt="Peter Jacques' winning plot" class="photo right" /></a>
 
 Peter Jacques (plot 3) has won a prize in the annual competition run across all borough sites by the council for excellently well kept plots.
 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-10-11-congratulations in site.data.2011-10-11-congratulations %}
   <li>

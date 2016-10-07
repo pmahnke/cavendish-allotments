@@ -19,7 +19,7 @@ There are 3 bays:
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-03-communal_wood_area in site.data.2015-05-03-communal_wood_area %}
   <li>

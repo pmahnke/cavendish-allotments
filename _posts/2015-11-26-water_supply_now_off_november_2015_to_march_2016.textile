@@ -14,7 +14,7 @@ It will be turned back on in March.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-26-water_supply_now_off_november_2015_to_march_2016 in site.data.2015-11-26-water_supply_now_off_november_2015_to_march_2016 %}
   <li>

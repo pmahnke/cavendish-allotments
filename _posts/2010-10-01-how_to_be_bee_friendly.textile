@@ -7,7 +7,7 @@ date: 2010-10-01 08:44:56
 
 ---
 
-<img alt="bees on an allium" src="http://www.cavendish-allotments.org.uk/cav_bees-thumb.jpg" width="500" height="321" class="photo center" />
+<img alt="bees on an allium" src="/assets/images/cav_bees-thumb.jpg" width="500" height="321" class="photo center" />
 
 
 The British Bee-keepers' Association recommends ways in which everyone can help to protect and foster bees.
@@ -30,7 +30,7 @@ h4. Note
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-how_to_be_bee_friendly in site.data.2010-10-01-how_to_be_bee_friendly %}
   <li>

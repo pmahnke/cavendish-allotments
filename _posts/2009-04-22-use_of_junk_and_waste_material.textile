@@ -22,7 +22,7 @@ If you have any good ideas for reusing junk, send them to the editor and they'll
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-use_of_junk_and_waste_material in site.data.2009-04-22-use_of_junk_and_waste_material %}
   <li>

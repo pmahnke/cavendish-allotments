@@ -14,7 +14,7 @@ Also, you might have noticed, the board itself is in bad shape.  If anyone is ab
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-13-the_notice_board in site.data.2007-06-13-the_notice_board %}
   <li>

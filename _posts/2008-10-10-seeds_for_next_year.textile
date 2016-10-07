@@ -16,7 +16,7 @@ Contact Toni at  plot 4 or on 020 8287 5120.  Your order needs to be with her be
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2008-10-10-seeds_for_next_year in site.data.2008-10-10-seeds_for_next_year %}
   <li>

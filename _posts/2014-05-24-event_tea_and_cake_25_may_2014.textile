@@ -21,7 +21,7 @@ Bring along any spare seedlings to swap, ask or give advice and if you have time
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2014-05-24-event_tea_and_cake_25_may_2014 in site.data.2014-05-24-event_tea_and_cake_25_may_2014 %}
   <li>

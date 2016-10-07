@@ -104,7 +104,7 @@ The meeting closed with Paul thanking everyone for coming. Refreshments were off
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-12-20-cavendish_house_allotment_holders_association_twickenham_agm_2015 in site.data.2015-12-20-cavendish_house_allotment_holders_association_twickenham_agm_2015 %}
   <li>

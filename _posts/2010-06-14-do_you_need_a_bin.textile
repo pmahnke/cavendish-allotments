@@ -12,7 +12,7 @@ We have arranged with the council to deliver some bins to the site. They will be
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-06-14-do_you_need_a_bin in site.data.2010-06-14-do_you_need_a_bin %}
   <li>

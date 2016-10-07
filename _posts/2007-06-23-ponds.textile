@@ -12,7 +12,7 @@ A few holders have ponds on their plots. The pros are that they can attract wild
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-06-23-ponds in site.data.2007-06-23-ponds %}
   <li>

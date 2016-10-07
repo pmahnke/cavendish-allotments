@@ -16,7 +16,7 @@ Although there are no prohibitions on bonfires, they are best lit in the late af
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-04-22-bonfires in site.data.2009-04-22-bonfires %}
   <li>

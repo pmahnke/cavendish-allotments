@@ -13,7 +13,7 @@ Well, not quite yet. But MPs and others have commented recently that millions of
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-03-14-you_will_compost_and_thats_an_order in site.data.2010-03-14-you_will_compost_and_thats_an_order %}
   <li>

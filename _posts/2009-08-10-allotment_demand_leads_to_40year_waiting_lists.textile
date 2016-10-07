@@ -25,7 +25,7 @@ The research named the London boroughs of Camden and Islington as areas where pl
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2009-08-10-allotment_demand_leads_to_40year_waiting_lists in site.data.2009-08-10-allotment_demand_leads_to_40year_waiting_lists %}
   <li>

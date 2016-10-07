@@ -14,7 +14,7 @@ Join your fellow plot holders for tea, cakes and a chat on Sunday 27<sup>th</sup
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2014-07-21-summer_event_27_july_2014 in site.data.2014-07-21-summer_event_27_july_2014 %}
   <li>

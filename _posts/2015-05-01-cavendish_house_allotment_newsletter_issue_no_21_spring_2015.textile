@@ -29,7 +29,7 @@ In this issue:
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015 in site.data.2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015 %}
   <li>

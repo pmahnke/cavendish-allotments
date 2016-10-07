@@ -15,7 +15,7 @@ There is always a lot to learn about and discuss at the AGM. The past year has b
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2011-10-11-agm_20_november_2011 in site.data.2011-10-11-agm_20_november_2011 %}
   <li>

@@ -31,7 +31,7 @@ h3. Agenda
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-10-16-cavendish_allotments_association_agm_2015 in site.data.2015-10-16-cavendish_allotments_association_agm_2015 %}
   <li>

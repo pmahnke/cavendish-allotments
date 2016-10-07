@@ -14,7 +14,7 @@ Congratulations again to John and Nichole (17 & 17a) who, at this year’s counc
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2007-09-17-well_done in site.data.2007-09-17-well_done %}
   <li>

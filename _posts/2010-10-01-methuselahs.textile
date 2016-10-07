@@ -14,7 +14,7 @@ A recent nationwide study by actuaries on lifespans found that, on average, the 
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2010-10-01-methuselahs in site.data.2010-10-01-methuselahs %}
   <li>

@@ -5,14 +5,14 @@ permalink: /2016/04/help_the_hedgehogs.html
 category: News
 date: 2016-04-23 09:35:44
 excerpt:
-    <img alt="Hedgehog-poster-17_04_2016.jpg" src="http://www.cavendish-allotments.org.uk/images/Hedgehog-poster-17_04_2016-thumb.jpg" width="150" height="207"  class="photo right" />
+    <img alt="Hedgehog poster" src="/assets/images/Hedgehog-poster-17_04_2016-thumb.jpg" width="150" height="207"  class="photo right" />
 
     Hedgehogs eat slugs and snails, but are becoming very scarce.
 
     The Environment Trust would like to know if you've seen one in Richmond Borough recently. If you have any hedgehogs in your garden or allotment send in your photos / sightings.
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/images/Hedgehog-poster-17_04_2016.jpg"><img alt="Hedgehog-poster-17_04_2016.jpg" src="http://www.cavendish-allotments.org.uk/images/Hedgehog-poster-17_04_2016-thumb.jpg" width="150" height="207"  class="photo right" /></a>
+<a href="/assets/images/Hedgehog-poster-17_04_2016.jpg"><img alt="Hedgehog-poster-17_04_2016.jpg" src="/assets/images/Hedgehog-poster-17_04_2016-thumb.jpg" width="150" height="207"  class="photo right" /></a>
 
 Hedgehogs eat slugs and snails, but are becoming very scarce.
 
@@ -36,7 +36,7 @@ h4. Hedgehog tips
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-04-23-help_the_hedgehogs in site.data.2016-04-23-help_the_hedgehogs %}
   <li>

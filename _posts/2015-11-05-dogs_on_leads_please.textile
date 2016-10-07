@@ -21,7 +21,7 @@ So while dogs are welcome on site, please keep them on a lead.
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2015-11-05-dogs_on_leads_please in site.data.2015-11-05-dogs_on_leads_please %}
   <li>

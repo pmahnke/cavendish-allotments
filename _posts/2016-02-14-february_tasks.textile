@@ -19,7 +19,7 @@ Force rhubarb by covering the crown with straw and covering with an upturned buc
 
 
 
-<h2>Comments</h2>
+<!-- Comments -->
 <ul>
 {% for 2016-02-14-february_tasks in site.data.2016-02-14-february_tasks %}
   <li>
