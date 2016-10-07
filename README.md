@@ -1,4 +1,4 @@
-![Cavendish logo](http://127.0.0.1:4000/assets/images/cavendish-logo_150.png)
+![Cavendish logo](http://www.cavendish-allotments.org.uk/assets/images/cavendish-logo_150.png)
 
 # cavendish-allotments
 
