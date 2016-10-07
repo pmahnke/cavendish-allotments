@@ -1,0 +1,95 @@
+---
+layout: post
+title: "Cavendish Allotments Association AGM 2013"
+permalink: /2013/11/cavendish_allotments_association_agm_2013.html
+category: Events
+date: 2013-11-25 20:18:05
+excerpt: |
+    _24<sup>th</sup> November 2013,  St Stephens School Hall,  St Margarets,  2.30 pm_
+    
+    Present: 25 attendees.
+    Apologies: Isabella McGregor, Caroline Payne, Brian Creswell, Penny Alexander, Anne Neville.
+    Committee: Paul Leonard (Chair), Rosemary Fulljames (Treasurer), Harold Molgaard, Ann Warrington, Barney King, Barbara Irvine. Apologies: Yolanda Bloor,  Christine Popplewell.
+    
+    Paul welcomed everybody to the AGM and showed an overhead projection of the highlights of the minutes of last years AGM.
+    
+    _Matters arising: Overhanging trees. It was agreed to report back on this later in the meeting._
+    
+
+---
+
+_24<sup>th</sup> November 2013,  St Stephens School Hall,  St Margarets,  2.30 pm_
+
+Present: 25 attendees.
+Apologies: Isabella McGregor, Caroline Payne, Brian Creswell, Penny Alexander, Anne Neville.
+Committee: Paul Leonard (Chair), Rosemary Fulljames (Treasurer), Harold Molgaard, Ann Warrington, Barney King, Barbara Irvine. Apologies: Yolanda Bloor,  Christine Popplewell.
+
+Paul welcomed everybody to the AGM and showed an overhead projection of the highlights of the minutes of last years AGM.
+
+_Matters arising: Overhanging trees. It was agreed to report back on this later in the meeting._
+
+h3. 1. Chair's report 2013
+
+* Paul reported that this had been a good year on the site. Pete Lewis had visited and commented on the improved state of the site. This had been due to the hard work of Committee members who have met regularly to discuss this issue (and others).
+* Paul showed slides of the plots and presented the cup for the Best Plot to Nigel Hare, Plot 9. There was also an additional award for the Best New Plot Holder. This went to Richard on Plot 15, who received a bottle of Cavendish Beer.
+* At Paul's request, Rosemary reported on the progress with tree pruning. An approach to the Council had not produced results so a quote was obtained from a tree surgeon. Another quote is being sourced. With regard to the trees overhanging from Cavendish House, there has been no progress. Unfortunately the Plotholder who was resident there has left and there was nobody at the meeting who is resident there. Nicole (Plot 17/17a) is aware that the residents have asked the Management Committee of the flats to take action, but there has been no further news.
+* Rosemary has attended the newly created BRAG (Borough of Richmond Allotments Group) which has taken over since the meetings chaired by David Allister have ceased. BRAG is composed of a representative from the 24 sites in Richmond. The allotment rent rise was announced just prior to the first meeting on 7.10.2013. No site had any indication that this rise was in the air. It was a fait accompli. Although it was voted on by the Council it was not shared with the reps. There is no opportunity to object and not paying will result in forfeiture of the plot.
+* Legal advice has been sought from NSALG. They say that it is legal if it is in line with other allotment site rents. It would be helpful if any one has contact with anyone from another borough could report what they pay. Pete Lewis has not been contacted by the Committee.
+* At a previous meeting with David Allister it was noted that the borough hoped to make all allotments self financing but that Councillors did not all agree. However this seems to have been overturned. It was noted that the Council had made a saving of &pound;900 by not paying for the refuse collection at Cavendish site.
+* The possible change of the concessions age from 60 to 75 was not actioned by the Council. Anyone who can, should talk to their local Councillors about these issues.
+* The afternoon sessions on site run by the Committee have proved popular. Seeds, seedlings, plants and produce have all been swapped or sold while enjoying a cup of tea and cake, together with free horticultural advice. Money raised has reached &pound;192.
+* Six half plots have been let during the year. There are 140 people on a waiting list, but this is for 3 sites so the actual number of people waiting for Cavendish will be less than this, maybe 50. The current earliest applicant is 2010, which is a considerable improvement.
+* The communal composting area has been open on a number of Sundays during the year. Green waste has been deposited and compost taken. There is a great need for volunteers to help with the maintenance. Dates for depositing and collecting will be posted, volunteers would be most welcome as well.
+* The stag beetles are still present. It has been suggested that a pit is dug and filled with wood. This would provide better housing where they would not be likely to be disturbed. This will allow free access to all the compost bays.
+* There has been another wood chip delivery. It is not moving very fast.
+It can be used for paths and mulching established fruit trees.
+* No delivery date has been arranged yet for horse manure, but this will take place over the winter. It should be noted that it needs to rot down in a bag or heap before use.
+
+h3. 2. Treasurer's Report:
+
+Balance at November 2012        &pound;1822.82
+
+* This year the Council reimbursed us &pound;268.34
+* This covered public and employer's liability insurance &pound;170 and almost &pound;100 for stationery, printing costs and hire of the hall for this AGM.
+* Income of &pound;192 from the afternoon sessions on site.
+
+Balance at November 2013 stands at a healthy &pound;2074.
+
+The sale of bags of compost was again successful, if anyone still owes money could they please pay Rosemary.
+
+h3. 3. Committee mebership and election.
+
+* Paul asked if there were any offers to join the committee?
+* There were no new candidates proposed. All the existing Committee agreed to stand for next year. The proposer was Jeff Lee, Plot 34 and seconder was Peter, Plot 20b. The Committee were relected unanimously.
+
+h3. 4. Toni Francis will carry on the 'seed scheme' this year.
+
+For &pound;2.50, membership to NASLG can be bought and access to the seed catalogue. Toni  had catalogues to hand out.
+
+h3. 5. Comments and questions from the floor and answers from the committee:
+
+* There is continuing concern that some plots look neglected and it appears that proper action is not being taken.
+** Rosemary said that his is not the case and that action is being taken, in line with the Borough guidelines. Regular inspections by the Committee have taken place and contact made with plot holders with follow up letters from Pete Lewis where neccessary. This process takes some time, but progress is being made. Pete Lewis has commented that the general state of the site is an improvement on last year.
+
+h3. 6. Close
+
+The Committee was thanked from the floor for the work they have done.
+
+Paul thanked everyone for coming and closed the meeting.
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2013-11-25-cavendish_allotments_association_agm_2013 in site.data.2013-11-25-cavendish_allotments_association_agm_2013 %}
+  <li>
+
+    {{ 2013-11-25-cavendish_allotments_association_agm_2013.comment }}
+
+    <cite>{{ 2013-11-25-cavendish_allotments_association_agm_2013.author }} on {{ 2013-11-25-cavendish_allotments_association_agm_2013.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

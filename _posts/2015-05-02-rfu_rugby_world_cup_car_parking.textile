@@ -1,0 +1,33 @@
+---
+layout: post
+title: "RFU Rugby World Cup Car Parking"
+permalink: /2015/05/rfu_rugby_world_cup_car_parking.html
+category: News
+date: 2015-05-02 08:19:25
+
+---
+
+
+
+With the upcoming Rugby World Cup there may be an opportunity to increase the allotment funds by renting out car parking spaces during matches. As in previous articles, costs for tree pruning raised beds and other improvements have to be largely met by our own fund-raising. 
+
+Please let us know your views by contacting a committee member as below.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-02-rfu_rugby_world_cup_car_parking in site.data.2015-05-02-rfu_rugby_world_cup_car_parking %}
+  <li>
+
+    {{ 2015-05-02-rfu_rugby_world_cup_car_parking.comment }}
+
+    <cite>{{ 2015-05-02-rfu_rugby_world_cup_car_parking.author }} on {{ 2015-05-02-rfu_rugby_world_cup_car_parking.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "You Will Compost! And That's An Order!"
+permalink: /2010/03/you_will_compost_and_thats_an_order.html
+category: News
+date: 2010-03-14 09:54:29
+
+---
+
+Well, not quite yet. But MPs and others have commented recently that millions of tonnes of food waste have been going into landfill. That's a shocking waste of the food itself, is a huge addition to the volume of waste and is a lost opportunity for composting it in order to return it to the earth. There is an EU target to halve the amount of biodegradable municipal waste sent to landfill by 2013. If not met, Brussels could exact a fine of millions of pounds.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-03-14-you_will_compost_and_thats_an_order in site.data.2010-03-14-you_will_compost_and_thats_an_order %}
+  <li>
+
+    {{ 2010-03-14-you_will_compost_and_thats_an_order.comment }}
+
+    <cite>{{ 2010-03-14-you_will_compost_and_thats_an_order.author }} on {{ 2010-03-14-you_will_compost_and_thats_an_order.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

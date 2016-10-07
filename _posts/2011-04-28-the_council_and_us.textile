@@ -1,0 +1,32 @@
+---
+layout: post
+title: "The council  and us"
+permalink: /2011/04/the_council_and_us.html
+category: News
+date: 2011-04-28 09:34:29
+
+---
+
+There is very good communication between us and the council, through Pete Lewis, the Allotments Liaison Officer, and David Ingham, the Waste Minimisation Officer. Pete deals with the practical aspects of all the borough's sites and David has given encouragement and practical help for our efforts with communal composting in the NE corner.
+
+There is an Allotments Strategy, adopted in 2010, to deal with many aspects of site activity and control such as reviewing current practices (e.g. waiting lists), creating new ones (e.g. a probation period for new plot-holders). An Allotments Steering Group has been set up with a rep from each site, meeting monthly to comment on and give feedback from sites. See more at "www.richmond.gov.uk/allotments":http://www.richmond.gov.uk/allotments.
+
+In the current situation of cuts, we now can expect much less maintenance by the council and most jobs we will have to do ourselves.  There are a few much-appreciated volunteers who have generously offered time, skill and effort. So, if you could spare occasional help with, for example, clearing spaces, maintaining the composting area, doing minor repairs and so on, please contact a committee member. There will also be notices on the board if there is to be a working party needed for a particular task.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-the_council_and_us in site.data.2011-04-28-the_council_and_us %}
+  <li>
+
+    {{ 2011-04-28-the_council_and_us.comment }}
+
+    <cite>{{ 2011-04-28-the_council_and_us.author }} on {{ 2011-04-28-the_council_and_us.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Good crops, bad crops"
+permalink: /2007/09/good_crops_bad_crops.html
+category: News
+date: 2007-09-17 12:37:22
+
+---
+
+In August, a random selection of plotholders were asked what had done well for them this year and what had not been so good.
+
+bq.. 'Chard has been good, but I’ve had no success, this year or previously, with swedes. They need a heavy clay soil, which we don’t have.’
+
+-- _Sonny Henbest (1)_
+
+'I've had good beans, runner and french, and leeks, marrows, courgettes and gherkins. But tomatoes got blight and carrots didn’t germinate.'
+
+-- _John Sutcliffe (31)_
+
+'Squashes, chard, raspberries and strawberries (in growbags) have all been very good. Onions not so good, though the sets went in rather late. Peas had a very low yield although I put them in as strong seedlings and they were well protected.'
+
+-- _Ron Williamson (12a)_
+
+'I had some very good French organic potatoes called Roseval, from the Chase Organics catalogue. Swiss chard and beetroot have been good, but courgettes and tomatoes weren’t.'
+
+_Sue (20)_
+
+'Good crops were parsnips (raised in pots and planted out), sweet peas, sunflowers, beans and spinach. The second sowing of carrots was good. Not so good were red onions and squash. Tomatoes didn’t get blight but the yield wasn’t high.'
+
+-- _Rachel (looking after 27 for Carol Rapley)_
+
+'I had a good crop of plums but the parakeets started eating them! I now put only seeds in my bird feeders since nuts attract the parakeets.'
+
+-- _Michael Thierens (16)_
+
+'Strawberries were excellent -- I started picking them before Wimbledon. Autumn-fruiting raspberries also -- from just a few canes I’ve had pickings every few days since July. After two years of virtual failure with carrots, this year’s were good, though I had to make several sowings as many didn’t germinate. I tried several kinds of peas and the only ones which produced were Sugar Snap from Wyvale. Most tomatoes got blight – next year I will spray them with Dithane or Bordeaux Mixture.'
+
+-- _Anne Neville (16b)_ 
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-good_crops_bad_crops in site.data.2007-09-17-good_crops_bad_crops %}
+  <li>
+
+    {{ 2007-09-17-good_crops_bad_crops.comment }}
+
+    <cite>{{ 2007-09-17-good_crops_bad_crops.author }} on {{ 2007-09-17-good_crops_bad_crops.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

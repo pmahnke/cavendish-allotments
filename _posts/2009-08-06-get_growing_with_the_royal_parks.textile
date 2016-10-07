@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Get Growing With The Royal Parks"
+permalink: /2009/08/get_growing_with_the_royal_parks.html
+category: Events
+date: 2009-08-06 11:33:52
+
+---
+
+_Experts to share knowledge on growing produce in small spaces_
+
+The Royal Parks and The Royal Parks Guild, an association of former employees and others associated with the Parks, are hosting a series of 'Meet the Gardening Experts' sessions on 1, 9, 15 and 23 August at the allotment in St James's Park.
+
+Gardening and horticulture experts will be on hand to share their knowledge and to give advice between 11am and 3pm. Admission is free of charge. The allotment in St James's Park was launched three years ago and, this year, the focus is on growing produce in small spaces and containers.
+
+Graham Hartley, Assistant Park Manager of St James's Park, The Royal Parks, said: "Building on the success of the last two years, we wanted to show a different perspective and demonstrate that you don't need a large garden to grow your own food - lots of different fruit and veg will flourish in the smallest plots. So if you have a patio, balcony, window box or just a window sill you can still enjoy the fun of producing healthy cheap food."
+
+Mike Fitt, Chairman of The Royal Parks Guild, added: "Anyone who has been involved in the life of the Parks usually ends up with a love of them and a desire to remain in touch and to pass on their knowledge. Our aim in helping with these sessions is to promote horticultural excellence, encourage more people to take up gardening and to have a lot of fun doing it!"
+
+St James's Park allotment is open daily from 10am - 5pm until the end of October.
+
+h4. About the gardening experts (specialties specified)
+
+* Saturday 1 August
+Geoffrey Kerton (vegetables and allotments)
+Howard Stollar (vegetable and fruit growing and pruning)
+* Sunday 9 August
+Paul Akers / Sid Sullivan (growing produce in pots and planters)
+* Saturday 15 August
+Nick Butler / Geoffrey Kerton (vegetables and allotments)
+* Sunday 23 August
+Mike & Barbara Fitt/Paul Akers (allotment gardening in a small space)
+
+<cite>from "The Royal Parks website":http://www.royalparks.org.uk/press/2009/press_release_204.cfm</cite>
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-08-06-get_growing_with_the_royal_parks in site.data.2009-08-06-get_growing_with_the_royal_parks %}
+  <li>
+
+    {{ 2009-08-06-get_growing_with_the_royal_parks.comment }}
+
+    <cite>{{ 2009-08-06-get_growing_with_the_royal_parks.author }} on {{ 2009-08-06-get_growing_with_the_royal_parks.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Seeds for next year"
+permalink: /2008/10/seeds_for_next_year.html
+category: News
+date: 2008-10-10 10:18:52
+
+---
+
+Toni Francis has kindly agreed again to organise the purchase of seed and sundries from the catalogue of the National Society of Allotment and Leisure Gardeners.  There's a very wind range, the seeds are of good quality and are cheaper than in the shops.
+
+To join the scheme, you need to pay &pound;1.75 to Toni for membership of the NSALG and can then obtain the catalogie (available in November -- and at our AGM) from her.
+
+Contact Toni at  plot 4 or on 020 8287 5120.  Your order needs to be with her before 31 January 2009.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2008-10-10-seeds_for_next_year in site.data.2008-10-10-seeds_for_next_year %}
+  <li>
+
+    {{ 2008-10-10-seeds_for_next_year.comment }}
+
+    <cite>{{ 2008-10-10-seeds_for_next_year.author }} on {{ 2008-10-10-seeds_for_next_year.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

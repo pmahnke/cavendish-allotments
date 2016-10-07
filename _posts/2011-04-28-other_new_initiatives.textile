@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Other new initiatives"
+permalink: /2011/04/other_new_initiatives.html
+category: News
+date: 2011-04-28 09:51:32
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/Plot_Post.jpg"><img alt="Plot_Post.jpg" src="http://www.cavendish-allotments.org.uk/Plot_Post-thumb.jpg" width="150" height="193" class="photo right" /></a>
+
+Many plot markers have been lost over the years. New ones are being made by Paul and Yolanda and others, formed of a post with a numbered tile attached. These will be positioned at the front boundary of each plot. So, in the words of the old BT advert, 'Now we all know where we are!'.
+
+It is intended to have a bay in the car park where reusable wood, for anyone to take away, can be deposited. Please follow the guidelines displayed there.  There will also be a table where people can leave items they don't need for anyone to take away. A number of new notices and posters are being prepared which give advice and guidance on using our site's facilities for the benefit of everyone.
+
+A lidded incinerator has been bought, available for any plot-holder to use on their plot. There are strict safety instructions for its use, which must be followed. It is kept in the garage, which will be opened most weekends. At other times, seek out any committee member - they will have a key.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-other_new_initiatives in site.data.2011-04-28-other_new_initiatives %}
+  <li>
+
+    {{ 2011-04-28-other_new_initiatives.comment }}
+
+    <cite>{{ 2011-04-28-other_new_initiatives.author }} on {{ 2011-04-28-other_new_initiatives.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

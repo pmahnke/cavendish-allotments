@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Communal wood area"
+permalink: /2015/05/communal_wood_area.html
+category: Information
+date: 2015-05-03 08:12:27
+
+---
+
+There is a communal wood area in the car park for sawn timber and trimmed branches.
+
+There are 3 bays:
+
+# (Nearest the greenhouse). This contains logs and short branches from the cutting that took place in the winter of horse chestnut and silver poplar. The logs can be purchased at 20p each. Please help yourself and give the money to Rosemary or a committee member.
+# (Central bay) This is now full. It should contain sawn timber and branches only. Unfortunately it has also been used for smaller material. Please help yourself to anything you want but please don't add to it.
+# There is now a new area for sawn timber and trimmed branches (greater than one inch diameter). Please place wood vertically, leaning against bay 2. Please do not put anything smaller than one inch diameter here. (Please find another way of disposing of it. The communal compost bins will only take very small twigs otherwise it takes too long to rot down).
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-communal_wood_area in site.data.2015-05-03-communal_wood_area %}
+  <li>
+
+    {{ 2015-05-03-communal_wood_area.comment }}
+
+    <cite>{{ 2015-05-03-communal_wood_area.author }} on {{ 2015-05-03-communal_wood_area.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

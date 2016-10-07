@@ -1,0 +1,60 @@
+---
+layout: post
+title: "The 'No Dig' Method"
+permalink: /2016/03/the_no_dig_method.html
+category: Information
+date: 2016-03-05 19:30:50
+
+---
+
+For a number of years my wife, Val, talked to me about the "No Dig" method of gardening and my reaction was pretty negative. How could you expect to achieve good results without the traditional method of digging over your beds on a regular basis?
+
+About two and a half years ago she persuaded me to attend with her a one day course led by Charles Dowding, the originator of the "No Dig" method, at his Somerset home. I went along with this on the basis that it would be a nice day out but I would not be converted to the "No Dig" method.
+
+What I saw that day amazed me and Charles's rational for the "No Dig" method was compelling. In one day I had been converted. I was excited by the prospect of bigger and better crops and the thought of not having to undertake the laborious and back breaking task of digging the beds over as I had been doing.
+
+
+
+As we drove home I told Val that I would give "No Dig" a try. "No Dig" relies on a significant amount of compost being added to the beds each year and this was my major concern. Whilst we were already composting all our green waste from our allotment and from home I was still concerned as to where would we get enough from? In fact I saw this as a major stumbling block.
+
+To my surprise and gratitude about two weeks after the course a trailer load of horse compost was deposited at our Allotments. I took some of this and added it to our compost bins. About two months later we started on our "No Dig" journey.
+
+What has been our experience after two seasons of "No Dig"?
+
+* It has been great not having to dig over the beds after each crop has finished.
+* Our soil is in much better condition
+* Dealing with weeds has been less of a problem. The soil is finer so they come up more easily.
+* Overall, allowing for the vagaries of the weather, we are getting better and heavier crops.
+* Last year we had our first ever carrot crop of good size and amazing flavour. Previous attempts had come to nothing.
+
+We still have more to do to match Charles's output but we will continue the journey. Come and have a look - we are on plot 23a.
+
+h4. About Charles Dowding
+
+
+bq. "He has spent 35 years learning and developing a no dig method&nbsp;  of commercial, highly productive organic vegetable growing, with little weeding needed. Currently his quarter acre of intensively cropped beds yield over a tonne of salad leaves every year, and vegetables for weekly boxes."
+
+
+To read more about the "No Dig" method visit
+"www.charlesdowding.co.uk/no-dig-growing/why-no-dig":http://www.charlesdowding.co.uk/no-dig-growing/why-no-dig/
+
+Even better spend an enjoyable day in Somerset and learn first-hand from Charles.
+
+_Peter Lowman_
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-03-05-the_no_dig_method in site.data.2016-03-05-the_no_dig_method %}
+  <li>
+
+    {{ 2016-03-05-the_no_dig_method.comment }}
+
+    <cite>{{ 2016-03-05-the_no_dig_method.author }} on {{ 2016-03-05-the_no_dig_method.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

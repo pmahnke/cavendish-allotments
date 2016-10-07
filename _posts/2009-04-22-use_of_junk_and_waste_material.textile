@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Use of junk and waste material"
+permalink: /2009/04/use_of_junk_and_waste_material.html
+category: Advice
+date: 2009-04-22 11:17:41
+
+---
+
+Even when times were less straightened than today, gardeners have always been paramount at reusing and recycling. Now, more than ever, we need to turn items we already have to new uses. Reusing doesn't only mean using CDs as bird scarer's and drinks bottles as mini-plant protectors. Here are a few other ideas for turning something unwanted into something useful.
+
+* Straight-sided juice cartons, with tops cut off and holes made in the base, are good for starting off seeds like beans which need a deep root run.
+* Activated-yoghurt bottles (Yakult, Actimel) make cane toppers, both to avoid a poke in the eye and to support netting. Also good for soaking seeds for a day or two before planting.
+* Large diameter drainpipe (10cm) sawn into pieces about 2-3ft long and stood on end, make holders in which to store bamboo canes.
+* The cut-off shoulders of wire coat-hangers (from dry cleaning) make pegs for anchoring netting and fleece.
+* The net bags which contained oranges can be stretched over a plant pot, with a central cane for support, to protect seedlings or a growing plant.
+* Ready-meal plastic trays have several uses - pots of seedlings can soak up water from below; two deep transparent ones with one resting on the other and a few holes punched into the upper one make mini-greenhouses for pots of seedlings; the larger transparent ones, with a few holes, can be inverted over newly sown seeds on the ground to protect them till they germinate.
+* Some garden centre seedlings come as 8-pot or 12-pot groups. Take off the carrying handles and cut them up to make plant labels.
+
+If you have any good ideas for reusing junk, send them to the editor and they'll be included in the next newsletter. 
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-04-22-use_of_junk_and_waste_material in site.data.2009-04-22-use_of_junk_and_waste_material %}
+  <li>
+
+    {{ 2009-04-22-use_of_junk_and_waste_material.comment }}
+
+    <cite>{{ 2009-04-22-use_of_junk_and_waste_material.author }} on {{ 2009-04-22-use_of_junk_and_waste_material.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

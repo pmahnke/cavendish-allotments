@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Water supply is now off -  November 2015 to March 2016"
+permalink: /2015/11/water_supply_now_off_november_2015_to_march_2016.html
+category: News
+date: 2015-11-26 20:03:40
+
+---
+
+To prevent frost damage the water supply to the standpipes has been turned off.
+
+It will be turned back on in March. 
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-26-water_supply_now_off_november_2015_to_march_2016 in site.data.2015-11-26-water_supply_now_off_november_2015_to_march_2016 %}
+  <li>
+
+    {{ 2015-11-26-water_supply_now_off_november_2015_to_march_2016.comment }}
+
+    <cite>{{ 2015-11-26-water_supply_now_off_november_2015_to_march_2016.author }} on {{ 2015-11-26-water_supply_now_off_november_2015_to_march_2016.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

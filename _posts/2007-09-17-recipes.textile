@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Recipe&#58; Summer salad with manchego cheese and spicy sausage"
+permalink: /2007/09/recipes.html
+category: Advice
+date: 2007-09-17 12:38:02
+
+---
+
+_Angela King (15a)_ produced a muchpraised salad for the open day:
+
+*Summer salad with manchego cheese and spicy sausage*.
+
+* 250g broad beans (podded weight, fresh or frozen)
+* 200g peas (podded weight, fresh or frozen)
+* 130g spicy sausage
+* 100g watercress
+* 100g Spanish manchego cheese (or other)
+* zest and juice of half a lemon
+* tablespoon olive oil
+* tablespoon of chopped mint.
+
+Cook the beans for 3 minutes, add the peas and cook for a few minutes more till tender but not squashy. Remove skin from sausage, slice and fry quickly. Dice the cheese. When vegetables and sausage are cool, mix the oil, lemon zest and juice and mint in a serving bowl and stir everything together until just mixed.
+
+ A useful book to give you ideas for your produce is "The Allotment Cookbook":http://www.amazon.co.uk/Allotment-Cookbook-Kathryn-Hawkins/dp/1845377192/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1195320187&sr=8-1, by Kathryn Hawkins, New Holland Publisher s, &pound;12. It has a fruit and vegetable glossary with information about harvesting, preparation and cooking, plus recipes for savoury and sweet dishes, accompaniments and preserves.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-recipes in site.data.2007-09-17-recipes %}
+  <li>
+
+    {{ 2007-09-17-recipes.comment }}
+
+    <cite>{{ 2007-09-17-recipes.author }} on {{ 2007-09-17-recipes.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

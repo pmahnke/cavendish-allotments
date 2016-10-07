@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Companion Planting"
+permalink: /2007/06/companion_planting.html
+category: Advice
+date: 2007-06-23 17:22:30
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/poppies.html" onclick="window.open('http://www.cavendish-allotments.org.uk/poppies.html','popup','width=375,height=500,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/poppies-thumb.jpg" width="112" height="150" alt="poppies from MShades -- http://flickr.com/photos/mshades/467044408/" class="photo right" /></a>
+
+In the last newsletter, we touched on companion planting. This can be a very beneficial approach to natural gardening, in terms of both pest control, and in helping pollination.
+
+The common marigold ("Tagetes patula":http://en.wikipedia.org/wiki/Tagetes_patula) and Meadow Foam ("Limanthes dougasii":http://en.wikipedia.org/wiki/Limnanthes_douglasii), also known as 'poached-egg flower' are perfect habitats for ladybirds and lacewings, which are natural devourers of aphids, etc. Similarly, Californian Poppy ("Eschscholzia":http://en.wikipedia.org/wiki/Eschscholzia), fennel and alliums also attract beneficial predators.
+
+A wonderful addition this summer is "Hilliers Nurseries":http://www.hillier.co.uk/nurs.htm selling larvae of both ladybirds and lacewings which you can release on your plot. The nearest Hillier garden centre is in Sunningdale, just off junction 3 of the M3, or you can phone them on 01344 623 166.
+
+The carrot fly can also be a pest but interplanting double rows of onions between each row of carrots can help to deter them, as Sue O'Callaghan has proven (see "Top tips":http://www.cavendish-allotments.org.uk/2007/06/top_tips.html).
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-companion_planting in site.data.2007-06-23-companion_planting %}
+  <li>
+
+    {{ 2007-06-23-companion_planting.comment }}
+
+    <cite>{{ 2007-06-23-companion_planting.author }} on {{ 2007-06-23-companion_planting.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

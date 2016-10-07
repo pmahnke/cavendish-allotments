@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Slight Bounty"
+permalink: /2007/03/slight_bounty.html
+category: 
+date: 2007-03-14 17:22:56
+excerpt: |
+    <p>Sadly the hosepipe ban hasn&#8217;t really brought out the best in people like you might think.  That blitz mentality is surely dead.  Our allotment is physically the furthest from a stand, so we have a water butt.  The hosepipe ban allows for us to fill this butt with a hose, as long as we water with a watering can &#8212; which we do.</p>
+    
+    <p>However, our evil neighbours, two allotments over think the closest stand is theirs and yelled at us for using it &#8212; at length.  Clearly they were bothered that we were using it, but came up with some story that we were breaking the law, even though we told them the head of our allotment group has gone to two Thames Water meetings and told us what we should do and to use that specific stand!</p>
+    
+
+---
+
+<p><a href="http://www.transitionelement.com/archives/crop_after_rain.html" onclick="window.open('http://www.transitionelement.com/archives/crop_after_rain.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.transitionelement.com/archives/crop_after_rain-thumb.jpg" width="150" height="112" alt="What rain will bring" class="photo right" /></a></p>
+
+<p>Last year we barely got the allotment going since we received it so late in the season.  So this year, we really had our hope up, specially with the early success or lettuces; however, this entire season London has been under a hosepipe ban and drought have nearly ruined us.</p>
+
+<p>We have been pouring bucket and buckets of water about, but realise that it only sinks in a few inches at most.  Only the weeds appear to have benefited.  However, in the past week it has rained on and off for few days and amazingly everything except the corn, has sprung back into life.</p>
+
+<p>This is the thrid large haul of plum tomatoes in about two weeks along with many cougettes, beans, rasberries, blackberries and basil.</p>
+
+<p>If only we had more rain all year&#8230; </p>
+<p>Conversely, our neighbour has decided to completely ignore the hosepipe ban and waters her garden at length.  Just yesterday, after about an hour of listening to her water with more watering cans full than we have been able to put on our allotment and garden all summer, I finally lost it and asked her if she knew about the ban.  She, a woman in her late 70&#8217;s, said in a wimper, &#8220;but I love my garden so much.&#8221;  I basically said that I loved my garden and allotment, but was allowing it to die, like I have been asked and she should as well.</p>
+
+<p>Argh&#8230; can&#8217;t win.</p>
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-03-14-slight_bounty in site.data.2007-03-14-slight_bounty %}
+  <li>
+
+    {{ 2007-03-14-slight_bounty.comment }}
+
+    <cite>{{ 2007-03-14-slight_bounty.author }} on {{ 2007-03-14-slight_bounty.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

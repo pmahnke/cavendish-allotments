@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Ponds"
+permalink: /2007/06/ponds.html
+category: Advice
+date: 2007-06-23 17:10:29
+
+---
+
+A few holders have ponds on their plots. The pros are that they can attract wildlife, especially frogs and toads, and water-loving plants can be grown. The cons are they can be a breeding area for mosquitoes and there is the possibility of danger to children and others. If you have a pond, put in oxygenating plants to keep the water from becoming stagnant and cover the pond with a strong wire mesh.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-ponds in site.data.2007-06-23-ponds %}
+  <li>
+
+    {{ 2007-06-23-ponds.comment }}
+
+    <cite>{{ 2007-06-23-ponds.author }} on {{ 2007-06-23-ponds.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

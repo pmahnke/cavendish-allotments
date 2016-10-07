@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Useful things to borrow/use"
+permalink: /2015/05/useful_things_to_borrowuse.html
+category: Information
+date: 2015-05-03 08:16:15
+
+---
+
+There are a few items that any plot-holder my borrow.  These include:
+
+* Incinerator
+* Sundry tools: spade, fork, rake, wheel barrow
+* Bays available in the communal greenhouse (&pound;5 a bay for 12 months)
+
+Please contact a committee member by leaving a message on  07505 668268, or email "enquiries@cavendish-allotments.org.uk":mailto:enquiries@cavendish-allotments.org.uk to arrange to use these items.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-useful_things_to_borrowuse in site.data.2015-05-03-useful_things_to_borrowuse %}
+  <li>
+
+    {{ 2015-05-03-useful_things_to_borrowuse.comment }}
+
+    <cite>{{ 2015-05-03-useful_things_to_borrowuse.author }} on {{ 2015-05-03-useful_things_to_borrowuse.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "NE Compost Area"
+permalink: /2008/10/ne_compost_area.html
+category: News
+date: 2008-10-10 10:25:49
+
+---
+
+During the Autumn, we hope to have a big blitz on the NE corner.  This is intended to be an area for composting, with bays built of pallets and posts.  As the bays fill up, they will be kept damp and covered and, eventually, rotted down compost will be available.
+
+However, this can't happen unless only compostable material is deposited.  therefore, _please, please_ don't put branches, thick twigs, woody stuff like cabbage stalks, etc.  Burn infected material like blighted tomato plants as the blight spores aren't killed by the composting process.
+
+The work of a few volunteers over the summer has been appreciated but it is now necessary to have some paid help in order to get further work done.  However volunteer help is always welcome though -- perhaps during the winter when there is less to do on the plot.  We will discuss this further at the AGM.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2008-10-10-ne_compost_area in site.data.2008-10-10-ne_compost_area %}
+  <li>
+
+    {{ 2008-10-10-ne_compost_area.comment }}
+
+    <cite>{{ 2008-10-10-ne_compost_area.author }} on {{ 2008-10-10-ne_compost_area.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

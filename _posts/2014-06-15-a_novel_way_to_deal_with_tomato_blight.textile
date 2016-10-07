@@ -1,0 +1,49 @@
+---
+layout: post
+title: "A novel way to deal with tomato blight"
+permalink: /2014/06/a_novel_way_to_deal_with_tomato_blight.html
+category: Advice
+date: 2014-06-15 17:05:21
+excerpt: |
+    <a href="https://www.flickr.com/photos/mahnke/8665279203" title="circles_tomatoes by Peter Mahnke, on Flickr"><img src="https://farm9.staticflickr.com/8266/8665279203_9ba2b40939_q.jpg" width="150" height="150" alt="circles_tomatoes"  class="photo right" ></a>
+    
+    _Trouble in the vegetable patch? Break out the aspirin - it nips pesky blights in the bud_
+    
+    It has been hailed as a wonder drug that can fix a headache, treat fever and even help prevent a heart attack or cancer. Now, it seems, aspirin has added yet another life-saving string to its bow - at least for tomatoes and potatoes.
+
+---
+
+<a href="https://www.flickr.com/photos/mahnke/8665279203" title="circles_tomatoes by Peter Mahnke, on Flickr"><img src="https://farm9.staticflickr.com/8266/8665279203_9ba2b40939_q.jpg" width="150" height="150" alt="circles_tomatoes"  class="photo right" ></a>
+
+_Trouble in the vegetable patch? Break out the aspirin - it nips pesky blights in the bud_
+
+It has been hailed as a wonder drug that can fix a headache, treat fever and even help prevent a heart attack or cancer. Now, it seems, aspirin has added yet another life-saving string to its bow - at least for tomatoes and potatoes.
+
+Gardeners are being advised to spray their plants with a solution containing the drug to help prevent devastating blight infections that can turn them to mush.
+
+James Wong, an ethnobotanist and BBC science presenter, told The Independent on Sunday that aspirin could induce a state called "systemically acquired resistance" - a kind of general readiness state.
+
+Mr Wong, a regular on Gardeners' Question Time, advised dosing the plants with a water-based aspirin solution, particularly with heavy rain forecast for the rest of the week for much of the country. Wet weather produces the ideal conditions for blight and other pests.
+
+One recent study found that the use of the spray, which can be made at home, resulted in a "47 per cent reduction" in blight.
+
+<cite>-- "from the Independent - 11 May 2014":http://www.independent.co.uk/news/science/trouble-in-the-vegetable-patch-break-out-the-aspirin--it-nips-pesky-blights-in-the-bud-9349916.html</cite>
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2014-06-15-a_novel_way_to_deal_with_tomato_blight in site.data.2014-06-15-a_novel_way_to_deal_with_tomato_blight %}
+  <li>
+
+    {{ 2014-06-15-a_novel_way_to_deal_with_tomato_blight.comment }}
+
+    <cite>{{ 2014-06-15-a_novel_way_to_deal_with_tomato_blight.author }} on {{ 2014-06-15-a_novel_way_to_deal_with_tomato_blight.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

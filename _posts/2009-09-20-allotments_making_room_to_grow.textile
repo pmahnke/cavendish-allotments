@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Allotments&#58; making room to grow"
+permalink: /2009/09/allotments_making_room_to_grow.html
+category: News
+date: 2009-09-20 21:32:19
+
+---
+
+_RICHMOND Council is considering measures to improve its allotment service and meet the growing demand for plots._
+
+It will also be considering measures to ensure that people who hold allotments make reasonable use of them, as neglected plots would be welcomed by other residents who will appreciate and look after them properly. Cllr Jeremy Elloy, chairman of the Council's overview and scrutiny committee, which will discuss a draft strategy for running allotments, on Wednesday 23 September, said:
+
+bq. "Allotments in Richmond upon Thames are hugely popular and as such we have waiting lists of residents who would love to have one. While most people who have plots take great care and make fantastic use of them, there are a small minority who don't look after them allowing them to become overgrown and unused. This is unfair on so many folks in our borough who are clamouring to get a plot. We also know that some plot holders are simply unable to maintain their allotments as they used to, perhaps because of old age and infirmity.
+
+
+The review contains proposals to enable them to downsize to more manageable plots instead. We want to find ways to make sure that as many people as possible who would like an allotment can have one and that they are properly taken care of. The review addresses the issue of neglected plots, and suggests plot holders should be given two warnings - and lose their plots on the third. The process is designed to be balanced and fair, with an appeals process for added fairness."
+
+The Council is also considering introducing a mentoring scheme for new allotment holders and giving them a six month probation to help them make use of the plot and keep the land up to scratch, rather than allowing it to become overgrown while denying another gardener the chance to grow there. Community Payback workers could also be used to clear neglected plots before they are offered to new users.
+
+The Council's proposals are part of the draft allotment strategy for the next five years which is aimed at making plots available to more residents in the borough and freeing up sites which have fallen out of use. Other features in the strategy include limiting new applicants to one plot in the borough, and re-opening waiting lists so that applicants could assess their prospects of success, while allowing the Council to gauge the real level of demand.
+
+The meeting will take place on Wednesday 23 September at 7 pm in Clarendon Hall, York House, Richmond Road, Twickenham and the draft strategy will be published on the Council's website five clear working days before the meeting. To view the agenda and draft strategy, please go to "www.richmond.gov.uk/calendar_of_meetings":http://www.richmond.gov.uk/calendar_of_meetings. Residents wishing to speak at the meeting on Wednesday 23 September must register their request in advance by emailing "gary.lelliott@richmond.gov.uk":mailto:gary.lelliott@richmond.gov.uk or calling 020 8891 7275. The deadline for requests to speak is 2 pm on Tuesday 22 September.
+
+<cite>"Richmond upon Thames Liberal Democrats":http://www.twickenhamlibdems.co.uk/news/002327/allotments_making_room_to_grow.html - Sat 19<sup>th</sup> Sep 2009</cite>
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-09-20-allotments_making_room_to_grow in site.data.2009-09-20-allotments_making_room_to_grow %}
+  <li>
+
+    {{ 2009-09-20-allotments_making_room_to_grow.comment }}
+
+    <cite>{{ 2009-09-20-allotments_making_room_to_grow.author }} on {{ 2009-09-20-allotments_making_room_to_grow.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Top tips"
+permalink: /2007/06/top_tips.html
+category: Advice
+date: 2007-06-23 17:11:52
+
+---
+
+Do you have one to pass on to other gardeners? Here are a few from plotholders. Please send in your own. Even if you think it may be well known, there will always be someone for whom it's new.
+
+bq. "Last year I was too late to buy seed potatoes. I had some shop-bought ones that were beginning to sprout, so I put them in and had a good crop."
+
+??-- Abigail Bunney (8b)??
+
+bq. "Lidl in Feltham is a good place to buy gardening items. I bought some cloches with hoops and a perforated plastic cover for &pound;2.99."
+
+??-- Daphne Wheeler (13a)??
+
+bq. "I sow onions and carrots together and have not had the carrots affected by carrot fly. I found this better than using fly-resistant varieties."
+
+??-- Sue O'Callaghan (20a)??
+
+bq. "Lots of the plastic materials used for food packaging can be used for gardening. Make holes with a hot skewer in large yogurt pots and cream pots for seed sowing, especially for peas and beans. Use the base trays from ready meals for seed trays. Cut up the lids of ice cream boxes to make labels. Wash the spray containers for bath and kitchen cleaners and use as sprayers for fertilisers, insecticides, etc."
+
+??-- Anne Neville (16b)??
+
+bq. "Interplanting sweet peas between runner beans and climbing French beans helps to attract pollinators, as the flowers of the sweet pea are stronger scented than the bean flower"
+
+??-- Michael Thierens (16)??
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-top_tips in site.data.2007-06-23-top_tips %}
+  <li>
+
+    {{ 2007-06-23-top_tips.comment }}
+
+    <cite>{{ 2007-06-23-top_tips.author }} on {{ 2007-06-23-top_tips.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

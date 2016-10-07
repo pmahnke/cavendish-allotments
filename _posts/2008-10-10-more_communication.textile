@@ -1,0 +1,28 @@
+---
+layout: post
+title: "More communication"
+permalink: /2008/10/more_communication.html
+category: News
+date: 2008-10-10 10:22:32
+
+---
+
+The committee feels it would be useful to have a second notice board.  Plot holders at the car park end of the site, and those who always enter through the car park gate, often don't go down to the other gate and so miss seeing information displayed there.  We will therefore obtain another board and put it on the garage wall.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2008-10-10-more_communication in site.data.2008-10-10-more_communication %}
+  <li>
+
+    {{ 2008-10-10-more_communication.comment }}
+
+    <cite>{{ 2008-10-10-more_communication.author }} on {{ 2008-10-10-more_communication.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

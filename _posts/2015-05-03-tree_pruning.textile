@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Tree Pruning"
+permalink: /2015/05/tree_pruning.html
+category: Information
+date: 2015-05-03 08:14:16
+
+---
+
+In November 2014, tree surgeons cut back two large branches of the silver poplar tree which hung over and beyond plot 34A and kept the light from that and surrounding plots. three chestnut trees behind plot 30A were also halved in height to bring them down to a level where they could be managed before they became too big and even more expensive to tackle.  
+
+We tried, and failed, to persuade LBRUT to prune these trees but they will only intervene if a tree is dangerous. Their contractor surveyed the silver poplar and deemed it sound. The full cost was &pound;600 but a plot holder who benefited from the work has contributed a generous &pound;150. We hope to recoup some more of the cost by selling logs salvaged from this operation.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-tree_pruning in site.data.2015-05-03-tree_pruning %}
+  <li>
+
+    {{ 2015-05-03-tree_pruning.comment }}
+
+    <cite>{{ 2015-05-03-tree_pruning.author }} on {{ 2015-05-03-tree_pruning.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Council Meeting - 25 March 2009"
+permalink: /2009/04/council_meeting_25_march_2009.html
+category: News
+date: 2009-04-22 11:19:18
+
+---
+
+Two committee members attended an Allotment Site User Group meeting on 25 March. Administration of sites is now within the Parks and Open Spaces Department, headed by David Allister. The meeting's main purposes were: to give information about the council's intentions to reduce waiting lists; maintain stricter control over under-used plots; make more half plots; remap all sites; improve communication and the addressing of major concerns such as maintenance and safety; complete the new water system installations, which for us will hopefully mean that the toilet is connected to mains drainage in the summer.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-04-22-council_meeting_25_march_2009 in site.data.2009-04-22-council_meeting_25_march_2009 %}
+  <li>
+
+    {{ 2009-04-22-council_meeting_25_march_2009.comment }}
+
+    <cite>{{ 2009-04-22-council_meeting_25_march_2009.author }} on {{ 2009-04-22-council_meeting_25_march_2009.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

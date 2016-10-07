@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Cavendish House Allotment newsletter - issue no. 20 - Autumn 2014"
+permalink: /2014/11/cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.html
+category: News
+date: 2014-11-14 19:10:23
+excerpt: |
+    <a href="http://www.cavendish-allotments.org.uk/images/Cavendish-Allotments-Newsletter-Autumn-2014-1.jpg"><img alt="Cavendish-Allotments-Newsletter-Autumn-2014-1.jpg" src="http://www.cavendish-allotments.org.uk/images/Cavendish-Allotments-Newsletter-Autumn-2014-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    
+    In this issue:
+    
+    * On Site News
+    * Announcement about the AGM - 20 November 2014
+    * Raspberry beetle
+    * Recipes: Spiced tomato chutney
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/Cavendish-Allotments-Newsletter-Autumn-2014-1.jpg"><img alt="Cavendish-Allotments-Newsletter-Autumn-2014-1.jpg" src="http://www.cavendish-allotments.org.uk/images/Cavendish-Allotments-Newsletter-Autumn-2014-1-thumb.jpg" width="150" height="212"  class="photo right"  /></a>
+
+In this issue:
+
+* On Site News
+* Announcement about the AGM - 20 November 2014
+* Raspberry beetle
+* Recipes: Spiced tomato chutney
+
+* <a href="http://www.cavendish-allotments.org.uk/images/Cavendish%20Allotments%20Newsletter%20Autumn%202014.pdf">Download newsletter</a> [pdf]
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014 in site.data.2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014 %}
+  <li>
+
+    {{ 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.comment }}
+
+    <cite>{{ 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.author }} on {{ 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

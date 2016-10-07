@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Foxes"
+permalink: /2015/11/foxes.html
+category: News
+date: 2015-11-05 21:32:52
+
+---
+
+
+You may have seen a young fox on the site over the summer, appearing quite tame. He was possibly suffering from mange and when this happens, foxes tend to hang about people wanting to be fed as they don't feel up to finding food themselves. Mange is very treatable and Patsy from The Fox Project was called in to medicate. Although this fox disappeared before it was treated, foxes can be quick to respond to the medication and return to a healthy state, and will be rarely seen during the day.
+
+??Christine??
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-05-foxes in site.data.2015-11-05-foxes %}
+  <li>
+
+    {{ 2015-11-05-foxes.comment }}
+
+    <cite>{{ 2015-11-05-foxes.author }} on {{ 2015-11-05-foxes.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Cavendish House Allotment newsletter - issue no. 15 - Spring 2012"
+permalink: /2012/05/cavendish_house_allotment_newsletter_issue_no_15_spring_2012.html
+category: News
+date: 2012-05-01 20:47:36
+excerpt: |
+    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1.jpg"><img alt="cavendish_newsletter_no15_201204-4--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    
+    In this issue:
+    
+    * Highlights from the Cavendish Allotments Association AGM 2011
+    * News
+    * Thames Water Hosepipe Ban
+    * Drought Busting Tips
+    * Recipe: Warm Broad Bean and Halloumi Salad
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1.jpg"><img alt="cavendish_newsletter_no15_201204-4--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no15_201204-4--1-thumb.jpg" width="150" height="212"  class="photo right"  /></a>
+
+In this issue:
+
+* Highlights from the Cavendish Allotments Association AGM 2011
+* News
+* Thames Water Hosepipe Ban
+* Drought Busting Tips
+* Recipe: Warm Broad Bean and Halloumi Salad
+
+<a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no15_201204-4%20.pdf">Download newsletter</a> [pdf]
+
+
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012 in site.data.2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012 %}
+  <li>
+
+    {{ 2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012.comment }}
+
+    <cite>{{ 2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012.author }} on {{ 2012-05-01-cavendish_house_allotment_newsletter_issue_no_15_spring_2012.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

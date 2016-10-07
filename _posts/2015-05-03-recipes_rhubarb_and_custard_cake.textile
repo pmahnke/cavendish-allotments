@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Recipes&#58; Rhubarb and custard cake"
+permalink: /2015/05/recipes_rhubarb_and_custard_cake.html
+category: Advice
+date: 2015-05-03 08:24:24
+
+---
+
+
+
+h4. Ingredients:
+
+* 400g rhubarb
+* 50g castor sugar
+* 250g softened butter, extra for greasing
+* 150g ready made custard e.g. Ambrosia
+* 250g self raising flour
+* 1/2 tsp baking powder
+* 4 large eggs
+* 1 tsp vanilla extract
+* 250g golden castor sugar
+* icing sugar for dusting
+
+h4. Instructions
+
+# Heat oven to 200C/fan 180C/gas 6.
+# Rinse rhubarb and shake off excess water. Trim the ends, then cut into little-finger-size pieces. Put in a shallow dish or a baking tray, tip over 50g caster sugar, toss together, then shuffle rhubarb so it's in a single layer. Cover with foil, then roast for 15 mins. Remove foil. Give everything a little shake, roast for 5 mins more or until tender. Carefully drain off the juices and let it cool.
+# Butter and line a 23cm loose-bottomed or springform cake tin.
+# Turn oven to 180C/fan 160C/gas
+# Reserve 3 tbsp of the custard in a bowl.
+# Beat the rest of the custard together with the butter, flour, baking powder, eggs, vanilla and sugar until creamy and smooth.
+# Spoon one-third of the mix into the tin, add some of the rhubarb, then dot with one-third more cake mix and spread it out as well as you can. Top with some more rhubarb, then spoon over the remaining cake mix, leaving it in rough mounds and dips rather than being too neat about it. Scatter the rest of the rhubarb over the batter, then dot the remaining custard over.
+# Bake for 40 mins until risen and golden, then cover with foil and bake for 15-20 mins more. It's ready when a skewer inserted into the middle comes out clean. Cool in the tin, then dredge with icing sugar when cool.
+
+_Recipe from Good Food Magazine_
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-recipes_rhubarb_and_custard_cake in site.data.2015-05-03-recipes_rhubarb_and_custard_cake %}
+  <li>
+
+    {{ 2015-05-03-recipes_rhubarb_and_custard_cake.comment }}
+
+    <cite>{{ 2015-05-03-recipes_rhubarb_and_custard_cake.author }} on {{ 2015-05-03-recipes_rhubarb_and_custard_cake.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

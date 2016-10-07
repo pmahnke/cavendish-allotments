@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Summer Social Event - 14 June 2009"
+permalink: /2009/04/summer_social_event_14_june_2009.html
+category: Events
+date: 2009-04-22 11:21:21
+
+---
+
+We will be having another summer Social Event this year, on Sunday 14 June, from 12 noon. Past events have been very enjoyable occasions for plotholders and their families and friends to meet, talk, eat, admire plots and perhaps commiserate. As before, there will be a barbeque, lovely food and sales of seedlings and plants. Further details will be given nearer the date but, in the meantime, please prepare a few extra seedlings and plants which you could donate for sale. And if you are clearing out your shed, please keep aside anything gardening related. If you don't want it, someone else probably will. It may be possible to store items beforehand in the garage -- ask a committee member.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-04-22-summer_social_event_14_june_2009 in site.data.2009-04-22-summer_social_event_14_june_2009 %}
+  <li>
+
+    {{ 2009-04-22-summer_social_event_14_june_2009.comment }}
+
+    <cite>{{ 2009-04-22-summer_social_event_14_june_2009.author }} on {{ 2009-04-22-summer_social_event_14_june_2009.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

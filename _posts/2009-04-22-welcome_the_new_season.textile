@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Welcome, the new season!"
+permalink: /2009/04/welcome_the_new_season.html
+category: News
+date: 2009-04-22 11:23:08
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/cavendish_pear.html" onclick="window.open('http://www.cavendish-allotments.org.uk/cavendish_pear.html','popup','width=725,height=394,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/cavendish_pear-thumb.jpg" width="500" height="271" alt="Cavendish Pear" class="photo center" /></a>
+
+
+Newly dug and raked earth looks wonderful -- full of promise for the coming growing season. It offers a chance, repeated every spring, to try something new, rearrange the plot's layout and relish the growth of permanent plants like fruit canes, bushes and trees. And perhaps this year there'll be more sun!
+ 
+Our whole site is also looking good. Virtually all plots are being tended and congratulations are due to all new and existing plotholders who have worked hard to bring into production plots that had been previously neglected.
+ 
+The bays in the compost area in the NE corner had a tidy-up a few weeks ago by volunteers. Items which didn't belong there -- such as tree branches -- were taken out and bonfired. Metal and plastic items were taken to the wheelie bin. _QR Organic Compost Activator_ was watered on top of the full bays and they were covered with a permeable membrane. 'Closed' notices were put onto those bays and other notices were put up giving guidance on how the area can be best used, for example: 
+
+
+<div class="box">
+
+h3.  THIS IS A COMPOSTING AREA
+ 
+* The covered bays are now full.
+* If a bay isn't covered, you can put vegetative material on top.
+* But, burn diseased and blighted material on your own plot (at dusk),
+* When all bays arc full, compost waste on your own plot.
+* Plastic, glass, etc must go into the whee1ic bin.
+* The car park bays arc closed, nothing is to be put there.
+
+Thank you
+
+</div>
+
+Please take account of them when you are disposing of waste from your own plot. If the area is properly used by everyone, the NE corner offers a chance to reduce the amount we send to landfill, work with nature in maintaining the cycle of growth and decay and, in time, return to our own plots compost to enrich our soil for new plants. You can't get greener than that!
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-04-22-welcome_the_new_season in site.data.2009-04-22-welcome_the_new_season %}
+  <li>
+
+    {{ 2009-04-22-welcome_the_new_season.comment }}
+
+    <cite>{{ 2009-04-22-welcome_the_new_season.author }} on {{ 2009-04-22-welcome_the_new_season.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

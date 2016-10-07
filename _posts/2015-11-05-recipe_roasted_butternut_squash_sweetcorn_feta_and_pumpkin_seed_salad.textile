@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Recipes&#58; Roasted Butternut Squash, sweetcorn, feta and pumpkin seed salad"
+permalink: /2015/11/recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.html
+category: Information
+date: 2015-11-05 21:43:04
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/salad-ottolenghi.jpg"><img alt="salad-ottolenghi.jpg" src="http://www.cavendish-allotments.org.uk/salad-ottolenghi-thumb.jpg" width="250" height="150"  class="photo right"  /></a>
+
+
+* 1 large butternut squash, cut in half lengthways, seeds scooped out, skin on and cut into 3cm x 8cm wedges
+* 75ml olive oil, plus extra to finish
+* Salt and freshly ground black pepper
+* 2 whole corn cobs, peeled if in husks
+* 1 large red chilli, deseeded and finely diced
+* Finely grated zest of 1 large lime, plus 4 tbsp lime juice
+* 10g coriander leaves, roughly chopped
+* 5g mint leaves, roughly shredded
+* &#188; tsp chilli flakes
+* 30g pumpkin seeds, toasted
+* 50g feta, crumbled into 1-2cm pieces
+
+# Heat the oven to 220C/425F/gas mark 7.
+# Mix the squash with two tablespoons of oil, half a teaspoon of salt and plenty of pepper. Spread out, skin side down and well apart, on a large baking tray, and roast for 25 minutes, until cooked through and golden brown. Set aside to cool.
+# Put a chargrill on a high heat and ventilate your kitchen. Add the whole corn cobs and grill for about eight minutes, turning over regularly so they get well charred all over. Remove from the heat and, once cool enough to handle, hold each cob upright on a board and use a sharp knife to shave off the kernels. Put these in a bowl with the chilli, lime zest and juice, the remaining three tablespoons of oil, a quarter-teaspoon of salt, the herbs and chilli flakes. Mix and set aside.
+# Arrange the squash on separate plates or on one large platter. Spoon the salsa on top, sprinkle over the pumpkin seeds, dot with feta and serve, drizzled with a little extra oil.
+
+??Recipe from Yotam Ottolenghi, The Guardian.??
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad in site.data.2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad %}
+  <li>
+
+    {{ 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.comment }}
+
+    <cite>{{ 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.author }} on {{ 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

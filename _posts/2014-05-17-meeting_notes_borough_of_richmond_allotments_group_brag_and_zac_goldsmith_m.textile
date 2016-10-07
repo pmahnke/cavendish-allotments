@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Meeting notes - Borough of Richmond Allotments Group (BRAG) and Zac Goldsmith MP - 12 March 2014"
+permalink: /2014/05/meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m.html
+category: News
+date: 2014-05-17 11:55:18
+
+---
+
+<em>Report of a meeting between representatives of the Borough of Richmond Allotments Group (BRAG) and Zac Goldsmith MP, which took place on  Monday, 12 March 2014 at the House of Commons, London SW1A 0AA, commencing at 7pm.</em>
+
+
+Tim McGough opened the meeting and explained that BRAG had come about due to common desire by the allotment sites in the borough to be consulted on matters of strategy - in particular devolution, but also finances, including levels of rental.  BRAG was a continuation of the Council's Representatives Steering Group initiative.
+
+
+
+h4. 1)     The desirability of an open approach from the Council on allotment finances, we (BRAG) have only just opened this dialogue and need to consolidate and progress it.
+
+Chris Morley-Smith noted that the Council were reluctant to be open about finances, particularly where major maintenance obligations arose, for example the need for a new fence to protect his site - Kew Short Lots. It appeared that spending by the Council was very much ad hoc and unplanned. The budget for allotments was accounted for to a large degree by fixed costs at the Council office. There appeared to be a real reluctance to address issues such as overhanging trees, for example, even when both sides were Council owned. There was also the situation of varying levels of service from the Council  between different sites.
+
+h4. 2)      Involvement of BRAG in the review of the Allotment Strategy from an early stage rather than being presented with a fait-accompli.
+
+Paul Leonard said that BRAG wished to be involved in drafting the allotment strategy going forward for 2015/20. This would no doubt be finalised shortly after the local elections to be held towards the end of May. Zac Goldsmith undertook to write to the Council seeking that they involve BRAG in drafting of the strategy. Phil Iddison recalled that when the existing strategy had been drafted, allotment tenants had been consulted once in a public meeting but there had been no structured consultation - moreover when discussions had taken place about future rent rises, allotment reps had obviously been excluded. BRAG wanted to ensure that this did not happen for the 2015/20 strategy.
+
+Zac Goldsmith suggested that there was a case for expanding the number of allotments given the long waiting lists in the borough. He suggested that perhaps BRAG could write in to the Council naming a possible vacant site that could be turned into allotments. He would be happy to support such an initiative.  Demand for the site would need to be demonstrated and championed vigorously for there to be success. Paul Leonard mentioned that such a site might include the old outdoor Twickenham Rifle Range Site that had been part of the Twickenham fruit growing area.
+
+h4. 3)      Government action to preserve allotment sites and not let them be developed.  Is it true that the Government has approved the closure of 81 out of 83 allotment sites with the loss of over 5,500 plots?
+
+The BRAG reps thanked Zac Goldsmith for having prompted a letter from Baroness Stowell, Parliamentary Under Secretary of State at the Department for Communities and Local Government, citing that that there were no Government plans to withdraw the statutory obligation on Councils to provide allotments.
+
+h4. 4)      Views on the Council officers statement that "the Council does not consult", particularly in the context of having a very defined user group.
+
+This statement made to BRAG by David Allister in the context that Councillors were the elected representatives so no further consultation with the electorate on issues of direct interest was necessary was considered poor and not in the spirit of good relations, not good for engagement. This was one reason why BRAG had taken up the suggestion to draw up a constitution as suggested by the Council, to be formally recognised for consultation purposes, particularly having in mind the strategy for 2015/20.
+
+h4. 5)      The potential impact of current media exposure on allotment waiting lists and how Councils are going to cope with this.
+
+This item is for future discussion between the Council and  BRAG  when formally constituted.
+
+h4. 6)      The apparent determination for devolvement from the Council.
+
+Alex Clarke noted the Council were intransigent on this and did not want a half-way house of semi devolution which appeared to work well for many sites some of whom already had Semi -Devolved Agreements with Council. Tim McGough noted that at its meeting in March with the Council, BRAG had sought a Service Level Agreement. Zac Goldsmith thought this a reasonable request. The Council had not accepted this. Currently there was a patch work of levels of service between sites. For example some had insurance financed by the Council, others did not. There was a desire by BRAG for this to be resolved going forward.  It was accepted that a 'one size fits all' approach may not be achievable.
+
+The meeting closed at 8pm.
+
+h3. Present:
+
+* Zac Goldsmith MP, Richmond Park
+* BRAG
+** Tim McGough BRAG Chair, Manor Road Allotments
+** Alex Clarke, East Sheen Allotments.
+** Philip Iddison, Bushy Park
+** Paul Leonard, Cavendish Allotments
+** Chris Morley-Smith, Kew Short Lots
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m in site.data.2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m %}
+  <li>
+
+    {{ 2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m.comment }}
+
+    <cite>{{ 2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m.author }} on {{ 2014-05-17-meeting_notes_borough_of_richmond_allotments_group_brag_and_zac_goldsmith_m.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

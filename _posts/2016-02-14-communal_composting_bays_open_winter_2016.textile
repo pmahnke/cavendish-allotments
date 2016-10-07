@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Communal Composting Bays Open Winter 2016"
+permalink: /2016/02/communal_composting_bays_open_winter_2016.html
+category: Events
+date: 2016-02-14 07:10:21
+
+---
+
+Is your compost bin overflowing?
+
+The communal composting bays will be open from 2-4pm on the following Saturdays and Sundays:
+
+* February 20<sup>th</sup> and 21<sup>st</sup>
+* March 5<sup>th</sup> and 6<sup>th</sup>
+
+Come along on these dates to add material to the heaps or take away well rotted compost.
+
+_It's free and ideal as a soil conditioner._
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-02-14-communal_composting_bays_open_winter_2016 in site.data.2016-02-14-communal_composting_bays_open_winter_2016 %}
+  <li>
+
+    {{ 2016-02-14-communal_composting_bays_open_winter_2016.comment }}
+
+    <cite>{{ 2016-02-14-communal_composting_bays_open_winter_2016.author }} on {{ 2016-02-14-communal_composting_bays_open_winter_2016.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,38 @@
+---
+layout: post
+title: "The Committee"
+permalink: /2007/06/the_committee.html
+category: News
+date: 2007-06-23 08:50:20
+
+---
+
+We are pleased to welcome on to the committee two new members, Peter Mahnke and Harald Molgaard. If you have any comments on any aspect of the allotments, or contributions or comments for the newsletter, please speak to any committee member.
+
+* Michael Thierens - Chair (plot 16)
+* Rosemary Fulljames (plot 4a)
+* Peter Mahnke (plot 15a)
+* Harald Molgaard (plot 24)
+* Anne Neville - Newsletter editor (plot 16b)
+* Brenda Stevens (plot 30)
+* Ann Warrington  (plot 28a)
+
+Any comments and contributions will be greatly appreciated, so please email the editor, Anne Neville, on: "apneville@btopenworld.com":mailto:apneville@btopenworld.com.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-the_committee in site.data.2007-06-23-the_committee %}
+  <li>
+
+    {{ 2007-06-23-the_committee.comment }}
+
+    <cite>{{ 2007-06-23-the_committee.author }} on {{ 2007-06-23-the_committee.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,41 @@
+---
+layout: post
+title: "New found lands?"
+permalink: /2011/10/new_found_lands.html
+category: News
+date: 2011-10-11 21:59:58
+
+---
+
+<a href="/images//newsletter_14_plastic.jpg" title="See larger version of - Plastic Islands"><img src="/images//newsletter_14_plastic_thumb.jpg" width="150" height="99" alt="Plastic Islands" class="photo right" /></a>
+
+Somewhere in the Pacific, the Atlantic and the Indian Oceans, there are some very large islands, hundreds of square miles in area. Ocean currents swirl around them and the trade winds blow over them. But no one can visit or take a holiday there; there are no airports, or roads or buildings; they can't even be walked on. They are made almost entirely of floating plastic rubbish. There's some shipping and harbour rubbish, tyres and netting, but most of it is plastic - bags and sacks, bottles, flip-flops, toys, food containers, polystyrene packaging and polythene film, etc, etc - some of the detritus of our modern consumer culture.
+
+
+
+Some will have been deliberately dumped but much will have blown or been washed into the sea from beaches, littered streets and landfill sites and conveyed by rivers and drainage systems to the sea. It is then gradually drawn into huge circular currents, and there it stays.  Some sinks to the ocean floor but most floats just below the surface. Plastic bags are mistaken for jellyfish by turtles and some fish, swallowed and often choke the eater.
+
+Although the plastics are eventually broken up by friction and exposure, they are virtually indestructible and will never totally disappear.  The final products of degradation are 1-2mm pellets called nurdles. They attract heavy metals and toxins from within the ocean, such as DDT and other industrial chemicals. They are consumed by the smaller organisms, then become concentrated as they move up the food chain. Fish, birds and whales mistake them for plankton or tiny fish, eat them and then find them impossible to digest. Some are excreted but some remain in the body. It is thought that almost all of the world's sandy shores now contain some percentage of nurdles, washed to shore.
+
+For some years, passing vessels have reported on the floating plastic. In 1997, a sailor, Charles Moore, took his catamaran across the top of the Great Pacific Garbage Patch. He watched a procession of plastic items:  'It took us a week to get across,' he said. 'There was always some plastic thing bobbing by.' In 2010, David de Rothschild took the vessel Plastiki - built almost entirely from waste, including over 12,000 recycled plastic bottles - across the Patch. 'It's tragic,' he said. 'It's not just floating islands of trash, but a swirling, poisonous soup.'
+
+What is this to do with us? And what can be done? The answer is clear. Everyone, worldwide, should produce less plastic, use less plastic¸ and recycle again and again what already exists. Realistically, although there are some reductions in the use of plastic bags, and some plastics can be treated in recycling centres, it is highly unlikely that plastics production will diminish. However, in small ways, on our own plots we can reduce and reuse - manure sacks, slit open and weighted over weedy soil; plant labels cleaned (easily done with a scourer); food containers used as plant pots and trays; bottles hung as bird scarers - there are lots of ways to avoid buying yet more plastic.  We can't eliminate what already exists but we could do something to add less to an already serious problem.
+
+If you wish to know more, the Marine Conservation Society leads on marine litter ("www.mcsuk.org":http://www.mcsuk.org) and Professor Richard Thompson of Plymouth University is a world expert on degradation of plastics in the sea.
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-10-11-new_found_lands in site.data.2011-10-11-new_found_lands %}
+  <li>
+
+    {{ 2011-10-11-new_found_lands.comment }}
+
+    <cite>{{ 2011-10-11-new_found_lands.author }} on {{ 2011-10-11-new_found_lands.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Looking Ahead To Summer "
+permalink: /2010/06/looking_ahead_to_summer.html
+category: News
+date: 2010-06-14 10:10:19
+
+---
+
+If you are clearing out a shed or garage, please don't throw away items which someone else might find useful. Keep anything garden related to donate to our summer social event. If it's difficult for you to store it, contact a committee member. It may be able to go into the garage.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-06-14-looking_ahead_to_summer in site.data.2010-06-14-looking_ahead_to_summer %}
+  <li>
+
+    {{ 2010-06-14-looking_ahead_to_summer.comment }}
+
+    <cite>{{ 2010-06-14-looking_ahead_to_summer.author }} on {{ 2010-06-14-looking_ahead_to_summer.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

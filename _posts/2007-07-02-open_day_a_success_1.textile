@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Open Day a Success"
+permalink: /2007/07/open_day_a_success_1.html
+category: Events
+date: 2007-07-02 21:45:18
+
+---
+
+|<a href="http://www.cavendish-allotments.org.uk/allotment_openday1.html" onclick="window.open('http://www.cavendish-allotments.org.uk/allotment_openday1.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/allotment_openday1-thumb.jpg" width="150" height="112" alt="Open Day"  class="photo"/></a>|<a href="http://www.cavendish-allotments.org.uk/allotment_openday2.html" onclick="window.open('http://www.cavendish-allotments.org.uk/allotment_openday2.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/allotment_openday2-thumb.jpg" width="150" height="112" alt="Open Day 2" class="photo" /></a>|<a href="http://www.cavendish-allotments.org.uk/allotment_openday3.html" onclick="window.open('http://www.cavendish-allotments.org.uk/allotment_openday3.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/allotment_openday3-thumb.jpg" width="150" height="112" alt="Open Day 3"  class="photo" /></a>|
+
+Despite the poor weather forecast, the _Open Day_ proved a great success.  Families and friends from approximately 30 plot holders came and shared a drink and a meal.  Dozens of plants were sold raising enough money to pay for the lovely new pavilion we now own for future events.
+
+What do people think about having an autumn BBQ event?  Let us know in the comments.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-07-02-open_day_a_success_1 in site.data.2007-07-02-open_day_a_success_1 %}
+  <li>
+
+    {{ 2007-07-02-open_day_a_success_1.comment }}
+
+    <cite>{{ 2007-07-02-open_day_a_success_1.author }} on {{ 2007-07-02-open_day_a_success_1.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

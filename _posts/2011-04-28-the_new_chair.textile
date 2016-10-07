@@ -1,0 +1,32 @@
+---
+layout: post
+title: "The new Chair"
+permalink: /2011/04/the_new_chair.html
+category: News
+date: 2011-04-28 09:55:40
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/paul-leonard-w200.jpg"><img alt="paul-leonard-w200.jpg" src="http://www.cavendish-allotments.org.uk/paul-leonard-w200-thumb.jpg" width="150" height="240" class="photo right" /></a>
+
+Paul Leonard (plot 2) is the new Chair of the Allotments Association. Michael Thierens resigned at the 2010 AGM, and he was warmly thanked for all the work he had done during his six years tenure. Brenda Stevens resigned and a card was sent thanking her for her work.
+
+There are photos of the committee members (including Fran Baylis, co-opted) on both the notice boards so it's hoped that knowing who and where they all are will add to the friendly and cooperative atmosphere on the site. Please feel free to approach anyone with your comments, suggestions, offers of help and so on.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-the_new_chair in site.data.2011-04-28-the_new_chair %}
+  <li>
+
+    {{ 2011-04-28-the_new_chair.comment }}
+
+    <cite>{{ 2011-04-28-the_new_chair.author }} on {{ 2011-04-28-the_new_chair.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

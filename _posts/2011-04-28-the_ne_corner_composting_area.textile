@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The NE corner composting area"
+permalink: /2011/04/the_ne_corner_composting_area.html
+category: Information
+date: 2011-04-28 09:33:33
+
+---
+
+Since last autumn, this has been closed. It was always intended to take only vegetative waste which would eventually rot down to make compost. However, it was mistreated by a few who dumped rubbish there. So, last October, a few committee members, volunteers and a paid helper cleared away a huge amount of non-compostable waste, put covers over everything and left it to do its own thing. Soon, it is hoped some bays will be opened so holders can come and take away compost.
+
+There are now to be more guidelines and information given to plot-holders about how to compost, both in this area and on their own plots. So, when the bays are open again, we very much hope that everyone will respect the intention to create compost, not a mess!
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-the_ne_corner_composting_area in site.data.2011-04-28-the_ne_corner_composting_area %}
+  <li>
+
+    {{ 2011-04-28-the_ne_corner_composting_area.comment }}
+
+    <cite>{{ 2011-04-28-the_ne_corner_composting_area.author }} on {{ 2011-04-28-the_ne_corner_composting_area.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

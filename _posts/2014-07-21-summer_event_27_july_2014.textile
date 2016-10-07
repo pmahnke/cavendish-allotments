@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Summer Event - 27 July 2014"
+permalink: /2014/07/summer_event_27_july_2014.html
+category: Events
+date: 2014-07-21 22:19:55
+
+---
+
+Now that summer is here why not relax and enjoy the fruits of your labours.
+
+Join your fellow plot holders for tea, cakes and a chat on Sunday 27<sup>th</sup> July from 3-5pm on Cavendish House Allotment Site.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2014-07-21-summer_event_27_july_2014 in site.data.2014-07-21-summer_event_27_july_2014 %}
+  <li>
+
+    {{ 2014-07-21-summer_event_27_july_2014.comment }}
+
+    <cite>{{ 2014-07-21-summer_event_27_july_2014.author }} on {{ 2014-07-21-summer_event_27_july_2014.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

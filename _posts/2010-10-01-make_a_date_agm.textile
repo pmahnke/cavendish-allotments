@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Make a date - AGM"
+permalink: /2010/10/make_a_date_agm.html
+category: Events
+date: 2010-10-01 09:09:40
+
+---
+
+Our AGM will be held on Sunday 14 November at 2pm prompt until 4, in the upstairs room of "The Fox pub in Church Street":http://www.stmgrts.org.uk/directory/pub/201010010417. There will be a lot to talk about. (See, particularly, the item on the greenhouse.) Please come and, if you wish, add your voice to how our friendly and progressive site can become even more enjoyable and productive for its members.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-10-01-make_a_date_agm in site.data.2010-10-01-make_a_date_agm %}
+  <li>
+
+    {{ 2010-10-01-make_a_date_agm.comment }}
+
+    <cite>{{ 2010-10-01-make_a_date_agm.author }} on {{ 2010-10-01-make_a_date_agm.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

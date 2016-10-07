@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Use of the Water Tanks"
+permalink: /2007/06/use_of_the_water_tanks.html
+category: Advice
+date: 2007-06-13 22:29:26
+
+---
+
+It is essential that cans and containers which have been used for any chemicals or pesticides, organic or not, are NOT washed out in the tanks. Please ensure they are thoroughly rinsed via the tap and emptied onto the soil before they are immersed in the tank. Also, please don't wash tools in the tank as this can create a build-up of sediment at the bottom.
+
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-13-use_of_the_water_tanks in site.data.2007-06-13-use_of_the_water_tanks %}
+  <li>
+
+    {{ 2007-06-13-use_of_the_water_tanks.comment }}
+
+    <cite>{{ 2007-06-13-use_of_the_water_tanks.author }} on {{ 2007-06-13-use_of_the_water_tanks.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

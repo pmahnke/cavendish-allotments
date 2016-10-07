@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Buy seed potatoes in February"
+permalink: /2016/02/buy_seed_potatoes_in_february.html
+category: Advice
+date: 2016-02-14 07:19:20
+
+---
+
+You can buy seed potatoes by the kilo in many garden centres but if you want smaller quantities visit Percy Chapmans Garden Centre, Twickenham, on the corner of Heath Road and Colne Road.
+
+The seed potatoes are certified virus free and there is a very wide range of early, main crop and salad types. Each variety's cooking and growing characteristics is described.
+
+You can buy just a few of each of your chosen variety, perfect for those with a small allotment.
+
+Put your seed potatoes to "chit" in a cool but well lit place so they sprout but don't get "leggy". Standing them in egg boxes helps keep the tubers apart.
+Chitting gives early varieties a head start before they are planted out in late March or early April.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-02-14-buy_seed_potatoes_in_february in site.data.2016-02-14-buy_seed_potatoes_in_february %}
+  <li>
+
+    {{ 2016-02-14-buy_seed_potatoes_in_february.comment }}
+
+    <cite>{{ 2016-02-14-buy_seed_potatoes_in_february.author }} on {{ 2016-02-14-buy_seed_potatoes_in_february.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

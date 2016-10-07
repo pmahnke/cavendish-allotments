@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Bags of Compost has Arrived"
+permalink: /2011/04/bags_of_compost_has_arrived.html
+category: News
+date: 2011-04-20 19:42:23
+
+---
+
+If you have ordered compost, it has arrived and in the garage.
+
+All members of the Committee have a key, so just find one of us and we can open the garage up.  Also, don't forget to pay and mark yourself off the list.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-20-bags_of_compost_has_arrived in site.data.2011-04-20-bags_of_compost_has_arrived %}
+  <li>
+
+    {{ 2011-04-20-bags_of_compost_has_arrived.comment }}
+
+    <cite>{{ 2011-04-20-bags_of_compost_has_arrived.author }} on {{ 2011-04-20-bags_of_compost_has_arrived.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

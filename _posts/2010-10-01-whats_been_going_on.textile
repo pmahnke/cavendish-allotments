@@ -1,0 +1,32 @@
+---
+layout: post
+title: "What's been going on?"
+permalink: /2010/10/whats_been_going_on.html
+category: News
+date: 2010-10-01 09:07:53
+
+---
+
+Recently, quite a lot.  The NE corner has been closed in order to clear up some of the rubbish that has been dumped. Although the majority of plot-holders recognise that it is intended as a composting area, a few have used it a tip for getting rid of surplus material from their plots. A few weeks ago, a paid helper and a committee member worked very hard at sorting the rubbish that had been dumped in front of the bays. They put anything compostable into a bay and removed tree branches and large pieces of wood.
+
+At the time of writing, we are hoping to have a skip for a few days, into which the rest of the surplus material will be put. Then the area will be tidied up as much as possible to show that it is being cared for and is intended for the very worthwhile business of compost making - from which everyone can benefit in time.
+
+Further information and advice will be produced about composting, based on that given in April's newsletter, as notices and handouts. For the time being, the area will remain roped off so that no more material can be deposited. What is there already will be left to cook gently over the next few months.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-10-01-whats_been_going_on in site.data.2010-10-01-whats_been_going_on %}
+  <li>
+
+    {{ 2010-10-01-whats_been_going_on.comment }}
+
+    <cite>{{ 2010-10-01-whats_been_going_on.author }} on {{ 2010-10-01-whats_been_going_on.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Methuselahs?"
+permalink: /2010/10/methuselahs.html
+category: News
+date: 2010-10-01 09:06:50
+
+---
+
+A recent nationwide study by actuaries on lifespans found that, on average, the 680 residents of Montacute in Somerset will live to 90. Pensioners put this down to the local tradition of allotment holding. One holder, aged 89, said, "You name it, I grew it. I didn't use chemicals. So we're in very good health at the moment."
+
+(From _The Week_, 12.12.09.)
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-10-01-methuselahs in site.data.2010-10-01-methuselahs %}
+  <li>
+
+    {{ 2010-10-01-methuselahs.comment }}
+
+    <cite>{{ 2010-10-01-methuselahs.author }} on {{ 2010-10-01-methuselahs.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

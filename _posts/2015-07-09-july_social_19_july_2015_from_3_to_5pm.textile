@@ -1,0 +1,35 @@
+---
+layout: post
+title: "July Social - 19 July 2015 from 3 to 5pm"
+permalink: /2015/07/july_social_19_july_2015_from_3_to_5pm.html
+category: Events
+date: 2015-07-09 11:28:58
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/15746603017_4e99ca347f_h.jpg"><img alt="from https://www.flickr.com/photos/biodivlibrary/15746603017/in/photolist-pZtstt-pZs4Nx-7LT8L4-ahPcDC-5rTEXo-4UVPXH-qYQJbY-qYRLym-6MfLy7-mQxd3w-qUNbd4-S8Ce-eZhetg-5fa8ZQ-5fa8Zh-5fa8X9-5fa8XU-5f5LjT-5f5Lji-qCdCx5-rFgrHF-rdap6L-qUHkYd-rzZmuY-qCf7gb-22huZ-qCf6ES-qLAQqm-mQvEeT-73W6N9-q7b4uG-q7oE7n-k4Cpi-pXN5Rm-qUDeeD-7u3MpE-roNrnQ-6R3HRn-qeDqeU-qjCQ8V-qqfpCv-rcZkTU-qgTrRk-qXWrZf-qXVpq7-qYRKxd-qhFbFM-qjqHP7-4KHe2B-rzSvD2" src="http://www.cavendish-allotments.org.uk/images/15746603017_4e99ca347f_h-thumb.jpg" width="150" height="192"  class="photo right" /></a>
+
+
+Used gardening tools for sale
+
+Tea, cakes and cold drinks provided
+
+_Funds raised will be used for communal projects_
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-07-09-july_social_19_july_2015_from_3_to_5pm in site.data.2015-07-09-july_social_19_july_2015_from_3_to_5pm %}
+  <li>
+
+    {{ 2015-07-09-july_social_19_july_2015_from_3_to_5pm.comment }}
+
+    <cite>{{ 2015-07-09-july_social_19_july_2015_from_3_to_5pm.author }} on {{ 2015-07-09-july_social_19_july_2015_from_3_to_5pm.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

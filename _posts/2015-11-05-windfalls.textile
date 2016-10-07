@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Windfalls"
+permalink: /2015/11/windfalls.html
+category: News
+date: 2015-11-05 21:37:53
+
+---
+
+
+
+Do you have fruit trees with surplus windfalls? Rather than leave to rot on the ground do please leave by the noticeboard/s for people to take, or put notice on noticeboard if you would like them taken from your plot.
+
+??Christine??
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-05-windfalls in site.data.2015-11-05-windfalls %}
+  <li>
+
+    {{ 2015-11-05-windfalls.comment }}
+
+    <cite>{{ 2015-11-05-windfalls.author }} on {{ 2015-11-05-windfalls.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

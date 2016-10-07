@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Security"
+permalink: /2009/04/security.html
+category: Advice
+date: 2009-04-22 11:15:29
+
+---
+
+Please lock the gates behind you whenever you enter the site, even if you are working close to the gate. Fortunately, we've never had any major damage done by intruders but, if it was obvious to passers-by that the gate was sometimes left open, it may give ideas to those with anti-social intentions. The council is also concerned with the increase in professional 'fly-tipping' in the borough and considers our car park to be a prime site, being so close to the A316. We hope to get more secure fencing installed to that corner this year. 
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-04-22-security in site.data.2009-04-22-security %}
+  <li>
+
+    {{ 2009-04-22-security.comment }}
+
+    <cite>{{ 2009-04-22-security.author }} on {{ 2009-04-22-security.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

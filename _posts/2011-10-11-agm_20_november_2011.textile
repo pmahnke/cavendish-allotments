@@ -1,0 +1,31 @@
+---
+layout: post
+title: "AGM - 20 November 2011"
+permalink: /2011/10/agm_20_november_2011.html
+category: Events
+date: 2011-10-11 22:10:26
+
+---
+
+<em>Sunday 20 November, 2.30-4.30pm  at the "Turks Head's Winchester Hall":http://www.stmgrts.org.uk/directory/pub/200505231518.</em>
+
+There is always a lot to learn about and discuss at the AGM. The past year has been a busy one for our site, for example - on the initiative of Paul Leonard, our new Chair, we  have a new greenhouse whose bays can be booked for a season for a small charge; missing plot markers have been made and installed through the work of several volunteers; an incinerator for anyone's use has been bought; we have a mobile phone. Also, the council is forging stronger links with its allotment sites and wants to know the views of holders. Rental fees are going up; should the council do more for us - what do you think? So, please come along, to listen, comment or question. And if you wish, contact Paul beforehand with any topic you'd like to raise.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-10-11-agm_20_november_2011 in site.data.2011-10-11-agm_20_november_2011 %}
+  <li>
+
+    {{ 2011-10-11-agm_20_november_2011.comment }}
+
+    <cite>{{ 2011-10-11-agm_20_november_2011.author }} on {{ 2011-10-11-agm_20_november_2011.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

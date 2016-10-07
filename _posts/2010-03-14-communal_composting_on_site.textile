@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Communal Composting On Site "
+permalink: /2010/03/communal_composting_on_site.html
+category: News
+date: 2010-03-14 09:55:40
+
+---
+
+Over the last couple of years, a composting area has been established in the NE corner. Several bays, now covered, have received green waste from our plots. Gently stewing, it will in time turn into rich compost. It is hoped that two new bays will be opened soon.
+
+However ... however ... If the area is misused, the wrong materials included, thick branches and twigs put in, waste left on the ground instead of put on top of the bays, indigestible things like glass, metal and plastic added, it won't be compost - it will just be an earthy pile of rubbish. Unfortunately, in spite of hard work by a few people, and the information about the bays' use given in our newsletter and on notice boards, this is what is happening. Though most people do use the bays properly, just a few don't and their actions damage the whole area. It must be stressed, the NE corner is NOT a dumping ground. So now, the committee has proposed a number of guidelines towards encouraging a better use of the area. Some of these are given below. Your own ideas and comments are very, very welcome.
+
+* Have at least one compost bin on your plot and put as much as possible into that. (See 'Efficient On-plot Composting' elsewhere in this newsletter.) The council is soon to make on-plot bins mandatory and the committee is ordering some inexpensive bins. (See 'Do you need a bin?' elsewhere in this newsletter.).
+* Use the NE corner only for what you can't put into your own bin. Don't include plastic, polythene, metal, netting, glass. These go into the wheelie bin.
+* Put material on top of a bay, not on the ground. If a bay is covered or roped off, it's not to be used.
+* Perennial weeds like bindweed, creeping buttercup and couch grass should not go into the bays. Put weeds into a plastic sack, turned inside out, on your plot and leave them to rot down in that.
+* Shake off soil on roots so as little as possible goes into the bay.
+* Despite the winter rain, the heaps are still dry inside. So every time you add anything, pour on a bucket of water. Buckets will be left there and there's a nearby tap.
+* Wood. Chop up thick twigs, branches, planks, etc. on your own plot. Last year, wood tied into bundles and left for people to take away for firewood was eagerly and quickly taken away. We will let you know later where the holding area for firewood bundles will be.
+
+It is hoped that following these guidelines will improve the NE corner composting area for the benefit of everyone. And perhaps you could you give an hour or so occasionally to help maintain the area? Notices will be put up giving the dates of forthcoming working parties. Just turn up - your help will be much appreciated.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-03-14-communal_composting_on_site in site.data.2010-03-14-communal_composting_on_site %}
+  <li>
+
+    {{ 2010-03-14-communal_composting_on_site.comment }}
+
+    <cite>{{ 2010-03-14-communal_composting_on_site.author }} on {{ 2010-03-14-communal_composting_on_site.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Pictures from the 2010 Social Day"
+permalink: /2010/06/pictures_from_the_2010_social_day_1.html
+category: Events
+date: 2010-06-20 15:20:34
+
+---
+
+<a href="http://www.flickr.com/photos/mahnke/sets/72157624418395478/show/"><img src="http://farm5.static.flickr.com/4142/4759777451_816b615039.jpg" width="500" height="375" alt="allotment_social_day_setup" class="photo center" /></a>
+
+On the 20<sup>th</sup> of  June, 2010 we held one of the most successful Social Days yet.  Loads of plot holders came down and spent a lovely afternoon eating, sharing and talking.  Thanks to the Committee for all their hard work organising and running the event.
+
+What do people think about having an autumn BBQ event? Let us know in the comments.
+
+"See a slideshow from the day on flickr":http://www.flickr.com/photos/mahnke/sets/72157624418395478/show/
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-06-20-pictures_from_the_2010_social_day_1 in site.data.2010-06-20-pictures_from_the_2010_social_day_1 %}
+  <li>
+
+    {{ 2010-06-20-pictures_from_the_2010_social_day_1.comment }}
+
+    <cite>{{ 2010-06-20-pictures_from_the_2010_social_day_1.author }} on {{ 2010-06-20-pictures_from_the_2010_social_day_1.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

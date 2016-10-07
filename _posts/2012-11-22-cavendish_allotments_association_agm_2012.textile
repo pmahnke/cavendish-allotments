@@ -1,0 +1,95 @@
+---
+layout: post
+title: "Cavendish Allotments Association AGM 2012"
+permalink: /2012/11/cavendish_allotments_association_agm_2012.html
+category: Events
+date: 2012-11-22 20:10:06
+
+---
+
+_25<sup>th</sup> November 2012,  St Stephens Hall,  St Margarets,  2.30 pm_
+
+Present: 29 plot - holders.
+Committee: Paul Leonard Chair), Rosemary Fulljames (Treasurer), Harold Molgaard,  Ann Warrington,  Yolanda Bloor.
+Apologies: Barney King,  Christine Popplewell.
+
+* Paul welcomed everybody to the AGM and showed an overhead projection of the highlights of last years AGM. He also displayed a photograph of the 'Best Plot 2011'.
+* Since the last AGM Christine Popplewell  has been co-opted onto the committee and has been responsible for designing the Cavendish Allotments News Letter.
+* Fran Baylis has moved from the area and has left the committee.
+* The committee has met several times over the past year.
+* The seed swap event earlier in the year was a success and the 'St Johns ' planters have been partially filled ready to have some communal herbs planted in them.
+* Composting - Anne Warrinton has been coordinating this and has had several open days.
+* The allotment site used to have a wheelie bin provided by the council. In September, without any warning the council took the bin away. The cost of the bin is &pound;900/year and the allotments rents generate an income of &pound;2000/year.
+* We have attended council meetings but due to a general overspend they will no longer provide the wheelie bin.
+* The council have been looking at the obligations of the plot holders. They are under pressure to keep standards high and to reduce the long waiting lists.
+* Bushy Park Allotments have developed a strategy for dealing with neglected plots. If plots are not being used at the end of April they send a formal letter  to the plot holder. To reduce the waiting list we have been dividing newly available plots into two.
+* Back in March a hosepipe ban was imposed. This was followed by prolonged heavy rain.
+* The sale of bags of compost was again successful, if anyone still owes money could they please pay Rosemary.
+* We received a delivery of horse manure  which we sold for 50p/wheelbarrow.
+* Our neighbour complained about the smell so we covered up the manure.
+* The committee (with the help of Fran's husband) looked at the asbestos in the rooves of some of the sheds. It is white asbestos and is not a problem. The council also considers it not to be a problem.
+* The communal greenhouse was used by a couple of people but could be used more people.
+* Rosemary attended the last council meeting where 'voluntary management' was discussed. There has been a sub-committee set up to look into voluntary management but the our committee is not involved in it at the moment. A copy of the minutes of the council meeting were available on the table for people to look at.
+
+h3. 2. Rosemary then gave the treasurers report
+
+Balance at November 2011 	&pound;1637.81
+
+* This year the council reimbursed us &pound;290.98.
+* This covered public and employer's liability insurance &pound;159.
+* The rest (approx. &pound;130) covers stationary and printing costs of the newsletters.
+* We have had an income of &pound;92, with possibly a little more to come from:
+** selling 150 bags of compost in spring;
+** selling horse manure in the autumn;
+** and from the seed swap in early summer.
+
+The current balance is &pound;1822.82
+
+Rosemary also clarified that all plot holders were covered for public liability insurance by the block insurance bought by the committee.
+
+h3. 3. Paul asked if there were any offers to join the committee?
+
+* Barbara Irvine was willing to join. Nicole Anderson proposed her and Michael Thierens seconded her and Barbara was elected. Paul asked who would propose en bloc the current committee. Nicola Anderson proposed and Daphne Wheeler seconded this.
+* Paul asked if Toni Francis would be willing to carry on the 'seed scheme' this year. She said she was happy to carry on, she had catalogues to hand out.
+
+h3. Questions from the floor and answers from the committee included
+
+* Q1. Is anything being done about the pruning of trees behind  plot 30A?
+**A1. Rosemary suggested we could get some quotes and spend some of the money in the allotment account to pay for essential work. Some of the trees are growing from the riverbank . The committee will try to contact the land owner which might be Westminster council and et permission to prune the trees. Tree roots are also spreading under the fence near to plot 26A, the committee will look into it.
+* Q2. Will anything be done about trees overhanging plot 17?
+** A2 Fran had two meetings with the flat managers but did not have any luck getting them to do anything. Paul will try to et a contact from Fran. There is a new plot holder who lives in the flats, could she talk to the management?
+* Q3. The old Sycamore tree near to the bungalow at the main entrance to the allotments could be deceased, does it need to come down?
+** A3. Paul will lease with the bungalow owners.
+* Q4. What is the committees strategy when dealing with under used plots?
+** A4. Paul suggested we do something similar to the Bushy Park site.
+* Q5. What does the council spend income from allotment rent on?
+** A5.  The committee will look into it.
+* Q6. The council don't seem to be spending much money on maintaining the gates or paths.
+** Q6. Why can't plot holders cover up unused land to prevent weeds?
+** Q7. Could we use volunteers to  help with monitoring plots?
+** A7 The committee will try to deal with it.
+* Q8 Could the committee write to Julian  (20A) and ask him to maintain the proper path width?
+** A8. The proper path width is 18". The committee will get in touch with him.
+
+If plots are under used we will send a copy of basic tasks to be carried out which complies with the agreement all plot holders make with the council. This will be sent with a formal warning letter at the end of April. If nothing has been done four weeks later we will ask the council to send a warning letter. The committee sent 6/7 letters this year and the council sent 4/5 letters. A couple of plot holders have given up their plots and have been allocated to those at the top of the waiting list. There were a couple of plot holders we did not manage to evict. The committee will monitor the situation.
+
+The Best plot winner was 17, belonging to Nicole and John.
+
+Paul closed the thanked everyone for coming and closed the meeting.
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2012-11-22-cavendish_allotments_association_agm_2012 in site.data.2012-11-22-cavendish_allotments_association_agm_2012 %}
+  <li>
+
+    {{ 2012-11-22-cavendish_allotments_association_agm_2012.comment }}
+
+    <cite>{{ 2012-11-22-cavendish_allotments_association_agm_2012.author }} on {{ 2012-11-22-cavendish_allotments_association_agm_2012.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Your 2011 Committee"
+permalink: /2011/03/your_2011_committee.html
+category: Information
+date: 2011-03-20 09:09:57
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/Cavendish_Committee_2011.jpg"><img alt="Cavendish Committee 2011" src="http://www.cavendish-allotments.org.uk/Cavendish_Committee_2011-thumb.jpg" width="500" height="375" class="photo center" /></a>
+
+This is the 2011 Cavendish Allotment Committee.  Please feel free to talk to any one of us if you have any questions or concerns.  Also, this year, we have a mobile phone you can text or call as well.  We will attempt to respond to all calls within 48 hours.  Here is the number:
+
+*07505 668268*
+
+You can also email us at "enquiries@cavendish-allotments.org.uk":mailto:enquiries@cavendish-allotments.org.uk.
+
+
+<a href="http://www.cavendish-allotments.org.uk/Cavendish_Committee_2011.pdf">Download poster</a> [pdf]
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-03-20-your_2011_committee in site.data.2011-03-20-your_2011_committee %}
+  <li>
+
+    {{ 2011-03-20-your_2011_committee.comment }}
+
+    <cite>{{ 2011-03-20-your_2011_committee.author }} on {{ 2011-03-20-your_2011_committee.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

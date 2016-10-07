@@ -1,0 +1,29 @@
+---
+layout: post
+title: "New council brooms"
+permalink: /2010/10/new_council_brooms.html
+category: News
+date: 2010-10-01 08:48:59
+
+---
+
+A year or so ago, the council's administration practices for allotments were revised and officers with responsibilities for recycling were appointed. Pete Lewis and David Ingham have been particularly helpful with advice and practical assistance. The council wants to encourage communal composting at all borough sites but, at the moment, it seems that Cavendish is the only site taking it seriously and setting up a dedicated area.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-10-01-new_council_brooms in site.data.2010-10-01-new_council_brooms %}
+  <li>
+
+    {{ 2010-10-01-new_council_brooms.comment }}
+
+    <cite>{{ 2010-10-01-new_council_brooms.author }} on {{ 2010-10-01-new_council_brooms.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

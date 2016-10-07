@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Enemy No. 1"
+permalink: /2007/09/enemy_no_1.html
+category: News
+date: 2007-09-17 17:19:59
+
+---
+
+According to The Guardian weather reports, this summer has been the wettest for over 35 years, and the gastropod molluscs of the order Stylommatophora have loved it. It is estimated that the slug population has almost doubled. But there is a natural biological control, applied as a drench watered into the soil, called ‘Nemaslug’. Now is a good time to use it – and again next spring. Details from "www.greengardener.co.uk":http://www.greengardener.co.uk/.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-enemy_no_1 in site.data.2007-09-17-enemy_no_1 %}
+  <li>
+
+    {{ 2007-09-17-enemy_no_1.comment }}
+
+    <cite>{{ 2007-09-17-enemy_no_1.author }} on {{ 2007-09-17-enemy_no_1.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

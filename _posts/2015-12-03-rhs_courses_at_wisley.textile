@@ -1,0 +1,36 @@
+---
+layout: post
+title: "RHS courses at Wisley"
+permalink: /2015/12/rhs_courses_at_wisley.html
+category: Information
+date: 2015-12-03 22:06:21
+
+---
+
+Would you like to learn more about fruit and vegetable gardening?
+
+Why not sign up for an RHS course next spring?
+
+They come recommended by some of our plot holders.
+
+ Non-RHS members are welcome.
+
+* "Read more":https://www.rhs.org.uk/education-learning/pdf/courses-and-workshops/wisley/wisley_courses_2016
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-12-03-rhs_courses_at_wisley in site.data.2015-12-03-rhs_courses_at_wisley %}
+  <li>
+
+    {{ 2015-12-03-rhs_courses_at_wisley.comment }}
+
+    <cite>{{ 2015-12-03-rhs_courses_at_wisley.author }} on {{ 2015-12-03-rhs_courses_at_wisley.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

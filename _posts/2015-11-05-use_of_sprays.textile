@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Use of Sprays"
+permalink: /2015/11/use_of_sprays.html
+category: Advice
+date: 2015-11-05 21:35:26
+
+---
+
+This summer there has been at least two incidents of plot holders spraying the paths with weed killer which had a serious effect on the crops in adjacent plots.
+
+In accordance with Richmond's Charter for the Environment we try to encourage everyone to avoid the use of such sprays in order to practise environment friendly ways of cultivation and encourage wildlife.
+
+If the grass is kept short there should be no need to use weed killer and it goes without saying that anyone using sprays should ensure other plots are not contaminated by using suitable barriers.
+
+Latest news on Roundup or Glyphosate the most widely used weed killer:
+
+The WHO International Agency for Research on Cancer has labelled glyphosate as "probably carcinogenic to humans";
+
+A report by the Pesticide Action Network in Asia and Pacific found residues in food ,drinking water and levels in watercourse which cause significant effects on wild species and can be toxic to nitrogen fixing bacteria in the soil.
+
+_Refs Garden Organic autumn 2015_
+
+??Ann??
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-05-use_of_sprays in site.data.2015-11-05-use_of_sprays %}
+  <li>
+
+    {{ 2015-11-05-use_of_sprays.comment }}
+
+    <cite>{{ 2015-11-05-use_of_sprays.author }} on {{ 2015-11-05-use_of_sprays.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

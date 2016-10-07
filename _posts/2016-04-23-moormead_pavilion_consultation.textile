@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Moormead Pavilion Consultation"
+permalink: /2016/04/moormead_pavilion_consultation.html
+category: News
+date: 2016-04-23 09:32:03
+
+---
+
+Richmond council are hoping to revive use of Moormead Pavilion as a community facility with public toilets.
+
+I know this is a topic of interest to many of you!
+
+There are 3 proposals on which they would like to hear your views before 3rd May:
+
+* cafe
+* sporting facility
+* nursery
+
+"Please submit your views online":https://consultation.richmond.gov.uk/parks-open-spaces/moormead
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-04-23-moormead_pavilion_consultation in site.data.2016-04-23-moormead_pavilion_consultation %}
+  <li>
+
+    {{ 2016-04-23-moormead_pavilion_consultation.comment }}
+
+    <cite>{{ 2016-04-23-moormead_pavilion_consultation.author }} on {{ 2016-04-23-moormead_pavilion_consultation.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Open day"
+permalink: /2007/09/open_day.html
+category: Events
+date: 2007-09-17 17:29:50
+
+---
+
+The social event on 1 July was extremely enjoyable with a barbeque, delicious donated salads and cakes, and stalls for gardening equipment, bric-a-brac and plants. Although the day’s main purpose was to provide a social occasion, we also raised &pound;158 The weather in the preceeding days and weeks had been so wet it was decided to purchase a canopy so, whatever the sky threw down, we could still enjoy the day. As it happened, it was fairly fine but having the canopy meant that people could sit and talk and eat in comfort. Thank you to everyone who donated items and did the work of preparing for the day (and clearing up afterwards!) and of course, to everyone who came.
+
+"See also...":http://www.cavendish-allotments.org.uk/2007/07/open_day_a_success_1.html
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-open_day in site.data.2007-09-17-open_day %}
+  <li>
+
+    {{ 2007-09-17-open_day.comment }}
+
+    <cite>{{ 2007-09-17-open_day.author }} on {{ 2007-09-17-open_day.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

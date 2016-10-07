@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Organic Practice"
+permalink: /2007/06/organic_practice.html
+category: News
+date: 2007-06-23 17:37:18
+
+---
+
+The last newsletter had an item about organic gardening. The committee wishes to encourage organic practice and several people are sympathetic to the idea. But, as Stephen Alexander (plot 30A) pointed out, how can you deal with invasive perennial weeds like bindweed and couch grass? The advice from Garden Organic is given below. However, if you do wish to use chemical means, there are some options without having to do a widespread spray.
+
+* Put some systemic weedkiller into a wide-necked bottle, dip into it the tips of the trailing shoots (as many as you can find). The solution will travel through the plant's nervous system (the fluem) back to the roots.
+* For each emerging plant, while it is still quite small, put a plastic bottle with the base cut out over it and spray weedkiller into the top. This confines the spray to just that plant.
+* The RHS gardens at Wisley have a good solution - they put canes alongside emerging bindweed to allow it to grow up the cane then paint the leaves with a systemic weedkiller.
+
+You may think we wouldn't want to encourage birds but some, such as bluetits, finches, nuthatches, sparrows and wrens (all of them common on our allotments, eat huge numbers of aphids. Put up a bird feeder with nuts and seeds and a dish of fresh water to encourage them. Michael Thierens (16) has a number of feeders plus a bird bath and this year his plot is virtually free of greenfly.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-organic_practice in site.data.2007-06-23-organic_practice %}
+  <li>
+
+    {{ 2007-06-23-organic_practice.comment }}
+
+    <cite>{{ 2007-06-23-organic_practice.author }} on {{ 2007-06-23-organic_practice.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

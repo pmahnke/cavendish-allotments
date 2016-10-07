@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Kew Gardens"
+permalink: /2011/04/kew_gardens.html
+category: Information
+date: 2011-04-28 09:31:26
+
+---
+
+As well as its courses for professionals, Kew also runs short courses for amateurs. See "www.kew.org.uk":http://www.kew.org.uk for more information.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-kew_gardens in site.data.2011-04-28-kew_gardens %}
+  <li>
+
+    {{ 2011-04-28-kew_gardens.comment }}
+
+    <cite>{{ 2011-04-28-kew_gardens.author }} on {{ 2011-04-28-kew_gardens.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

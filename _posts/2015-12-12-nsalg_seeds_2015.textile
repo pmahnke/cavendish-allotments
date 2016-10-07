@@ -1,0 +1,39 @@
+---
+layout: post
+title: "NSALG Seeds 2015"
+permalink: /2015/12/nsalg_seeds_2015.html
+category: News
+date: 2015-12-12 09:59:13
+
+---
+
+
+
+For those who weren't at the AGM here is an opportunity to buy vegetable & flower seeds at a substantial discount.
+
+It is available to members of the NSALG (National Society of Allotment & Leisure Gardeners) and costs &pound;2.50 for membership until end of 2015, increasing to &pound;2.75 from 1<sup>st</sup> Jan 2016.
+
+This cost is easily offset if you buy a few packets of seeds.
+
+The Seed Scheme is organised by Toni Francis (plot 4) for Cavendish House plot holders.
+
+If you are interested get in touch with Toni as soon as possible via "enquiries@cavendish-allotments.org.uk":mailto:enquiries@cavendish-allotments.org.uk for a catalogue.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-12-12-nsalg_seeds_2015 in site.data.2015-12-12-nsalg_seeds_2015 %}
+  <li>
+
+    {{ 2015-12-12-nsalg_seeds_2015.comment }}
+
+    <cite>{{ 2015-12-12-nsalg_seeds_2015.author }} on {{ 2015-12-12-nsalg_seeds_2015.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

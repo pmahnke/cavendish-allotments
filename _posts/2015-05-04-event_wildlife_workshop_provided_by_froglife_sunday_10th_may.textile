@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Event&#58; Wildlife workshop provided by Froglife - 10 May 2015"
+permalink: /2015/05/event_wildlife_workshop_provided_by_froglife_sunday_10th_may.html
+category: Events
+date: 2015-05-04 07:50:25
+
+---
+
+<a href="http://www.stmgrts.org.uk/images//froglife_logo.jpg" title="See larger version of - froglife logo"><img src="http://www.stmgrts.org.uk/images//froglife_logo_thumb.jpg" width="150" height="147" alt="froglife logo" class="photo right" /></a>
+
+Froglife is a conservation and education charity. On Sunday 10<sup>th</sup> May 1-3pm on Cavendish House Allotment Site, Froglife will hold an interactive workshop for allotment holders.
+
+The workshop offers in-depth discussion, tips and practical skills on how to make your allotment attractive to all sorts of wildlife, especially amphibians and reptiles.
+
+h4. More Information
+
+* All ages are welcome.
+* Please email "enquiries@cavendish-allotments.org.uk":mailto:enquiries@cavendish-allotments.org.uk or phone 07505 668268 if you would like to attend.
+* Only 15 places!
+* More information can be found at "www.froglife.com":http://www.froglife.org
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may in site.data.2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may %}
+  <li>
+
+    {{ 2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may.comment }}
+
+    <cite>{{ 2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may.author }} on {{ 2015-05-04-event_wildlife_workshop_provided_by_froglife_sunday_10th_may.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

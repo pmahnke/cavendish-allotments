@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Cavendish Allotments Association AGM 2015"
+permalink: /2015/10/cavendish_allotments_association_agm_2015.html
+category: Events
+date: 2015-10-16 22:34:21
+
+---
+
+_Held on 29<sup>th</sup> November 2015 at St Stephen's School Hall from 2pm to 4pm._
+
+
+h3. Agenda
+
+
+* Welcome, Apologies & Introductions - Paul
+* Minutes of the 2014 Cavendish Allotments AGM - Paul
+* Chairman's Report including Best Plot & Best Newcomer's Plot - Paul
+* Treasurer's Report - Rosemary
+* Regular Features: Seed Scheme, compost, horse manure, wood chips, plot turnover
+* Election of Committee Members
+** The following are willing to continue - 
+*** Paul Leonard (Chairman of meetings), Rosemary Fulljames (Treasurer),
+*** Committee Members: Ann, Barbara, Barney, Christine, Harald, Yolanda.
+*** There is one vacancy on the committee.
+* BRAG (Borough of Richmond Allotment Group) update.
+* Any other business.
+* Close of meeting with refreshments.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-10-16-cavendish_allotments_association_agm_2015 in site.data.2015-10-16-cavendish_allotments_association_agm_2015 %}
+  <li>
+
+    {{ 2015-10-16-cavendish_allotments_association_agm_2015.comment }}
+
+    <cite>{{ 2015-10-16-cavendish_allotments_association_agm_2015.author }} on {{ 2015-10-16-cavendish_allotments_association_agm_2015.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

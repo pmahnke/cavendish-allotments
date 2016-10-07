@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Jack Roper"
+permalink: /2007/09/jack_roper.html
+category: News
+date: 2007-09-17 12:30:22
+
+---
+
+Jack, who had plot 15 for many years, has died aged # As a tribute, we asked his stepsons Richard & Simon Warren to write a few words.
+
+bq. "Jack trained as a market gardener but moved to the Civil Service for a reliable income. He loved working on his allotment and reaping the delicious rewards. He firmly believed in home-grown natural fresh produce, and liked nothing better than vegetables straight from the allotment. It was on the allotment that Jack met our mother. Helped by his Christian beliefs, our stepfather engaged in many charitable works. For many years he did voluntary work for the United Nations, CND and Amnesty, campaigning for peace and combating world poverty 'ì after his death we found all the letters he had treasured from the Thirld World children whose educat ion he had sponsored. He was also a tireless campaigner on environmental issues, such as global warming and supermarket packaging."
+
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-jack_roper in site.data.2007-09-17-jack_roper %}
+  <li>
+
+    {{ 2007-09-17-jack_roper.comment }}
+
+    <cite>{{ 2007-09-17-jack_roper.author }} on {{ 2007-09-17-jack_roper.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

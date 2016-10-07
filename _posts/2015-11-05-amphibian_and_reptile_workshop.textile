@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Amphibian and reptile workshop"
+permalink: /2015/11/amphibian_and_reptile_workshop.html
+category: News
+date: 2015-11-05 21:26:35
+
+---
+
+<img src="https://farm5.staticflickr.com/4139/4866722903_6691d30d09_m.jpg" width="240" height="160" alt="Cinnabar moth caterpillar"  class="photo right" />
+
+In May Alan Shearman from the charity Froglife visited us to tell us about reptiles we might find on Cavendish House allotment site, how they can benefit gardeners and how we can encourage themHe started by telling us about the reptiles most likely to be seen on an allotment site: frogs, toads, newts, and slow worms. All of these have been seen on Cavendish House Allotment site!
+
+
+They all help gardeners by eating slugs and snails and woodlice and other invertebrates. Not one of them is harmful to humans. 
+
+Alan told us how to tell the difference between a frog, which hops when disturbed and has smooth skin, and a toad which tends to stay still when disturbed and has rough warty skin and large bumps above its eyes. Newts look like small lizards. Slow worms, while they look like snakes, are in fact legless lizards. 
+
+Then Alan took us on a reptile hunt around the allotment site. 
+
+We looked in ponds for frogs, toads, newts and their tadpoles. He told us that while frogs lay clumps of eggs, toads lay their eggs in strands, and newts wrap each individual egg in a leaf in a pond.
+
+While frogs, toads and newts are found in ponds in the spring where they mate and lay their spawn, they spend the rest of the year in damp places where they can find food such as slugs, snails and woodlice. So we looked in compost heaps, under log piles, paving stones and under sheets of black plastic. 
+
+Compost heaps are particularly favoured by slow worms all year round, and by frogs, toads and newts for hibernation in the winter. 
+
+So look out for these helpful reptiles on your plot, especially in your compost bins, and encourage them by creating habitats such as small wood piles. 
+
+Slug pellets can kill them so please try to avoid using these. 
+
+There are many traps and barriers available as alternatives to stop molluscs attacking our crops so please use them instead. 
+
+If you feel you have to use slug pellets please choose the ones made of ferric phosphate (which are safer for reptiles and birds as the slugs burrow underground to die after eating these) and sprinkle them sparingly. 
+
+Do send us photos of any reptiles you see on your allotment. 
+
+??Rosemary??
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-05-amphibian_and_reptile_workshop in site.data.2015-11-05-amphibian_and_reptile_workshop %}
+  <li>
+
+    {{ 2015-11-05-amphibian_and_reptile_workshop.comment }}
+
+    <cite>{{ 2015-11-05-amphibian_and_reptile_workshop.author }} on {{ 2015-11-05-amphibian_and_reptile_workshop.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Plot inspection update"
+permalink: /2015/05/plot_inspection_update.html
+category: News
+date: 2015-05-03 07:56:08
+
+---
+
+It has been a cold, slow spring but the majority of plot holders have been working hard to prepare the ground ready for the growing season.
+
+All vacant plots have now been let to eager gardeners who can't wait to get their hands dirty!
+
+In mid April the committee assessed all plots to check for signs of activity. We are contacting all those which concerned us and will repeat the inspection again in mid May after which we which we will have to contact the allotments officer if there is not sufficient improvement.
+
+
+
+Don't forget LBRUT's terms & conditions state:
+
+bq.. 3.1    A minimum of three quarters of any plot shall be in a cultivation cycle*, with a minimum of 3 crops being grown and be generally in a tidy condition.
+
+* Cultivation cycle is defined as ground preparation, planting of crops, tending and harvesting fruit and vegetables on a continuous annual basis.
+
+p. We still have a very long waiting list. So if your circumstances have changed and you feel you can no longer manage your plot, please consider letting someone else enjoy growing their own fruit and vegetables.
+
+If you are encountering short term difficulties please contact one of the committee members to as we may be able to help you. We understand how important a part of life an allotment is.
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-plot_inspection_update in site.data.2015-05-03-plot_inspection_update %}
+  <li>
+
+    {{ 2015-05-03-plot_inspection_update.comment }}
+
+    <cite>{{ 2015-05-03-plot_inspection_update.author }} on {{ 2015-05-03-plot_inspection_update.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

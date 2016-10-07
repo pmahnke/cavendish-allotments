@@ -1,0 +1,39 @@
+---
+layout: post
+title: "EFFICIENT ON-PLOT COMPOSTING "
+permalink: /2010/03/efficient_onplot_composting.html
+category: Advice
+date: 2010-03-14 10:12:56
+
+---
+
+An information sheet on optimum-value composting on the plot has been compiled from that supplied by WRAP (Waste and Resources Action Planning), Garden Organic, Richmond Environment Dept and other organisations.
+
+* Site the bin on soil, in a fairly sunny place if possible. Bury the bottom edge a couple of inches below soil level to deter rats. It may be useful to have a little space in front of the bin so you can tip out and rake through the contents when they are composted.
+* A mixture of 'greens' and 'browns' works best. Greens include: soft prunings, grass cuttings, thinnings, unwanted vegetables, fallen fruit, chopped up twigs, fruit and vegetable peelings and crushed eggshells, but not cooked food which will attract rats. Greens break down fairly quickly and provide moisture and nitrogen.
+* Browns include: broken-up egg boxes, torn-up cardboard, scrunched-up paper bags, screwed-up or shredded bank statements. Bedding and excrement from vegetarian pets like hamsters, rabbits and gerbils can be added sparingly but not from meat eaters like cats and dogs. Browns rot down more slowly but provide carbon and fibre and allow air pockets to form within the mixture.
+* As not all of these materials are available from the plot, people sometimes bring them from home. Wood ash, old straw and hay and small amounts of untreated wood sawdust can also be added.
+* Avoid large quantities of any one item (especially grass cuttings) and mix everything together within the bin every now and then. Add a little water whenever the mixture looks too dry and/or leave the lid off when it's raining.
+* Add material at all times of the year and as you add more, that below will sink. Mixing it up keeps it aerated and can speed up decomposition.
+* Autumn leaves are best put into loosely tied, punctured black plastic bags as they take a year or even two to decompose. Then add to the bin or dig in as a soil conditioner.
+* Perennial weeds such as bindweed, ground elder, creeping buttercup and couch grass won't be killed in a bin. But they contain valuable plant foods so put them into an inside out plastic sack with the top folded down and leave them to rot. Then add to the bin.
+* Activators can speed up the process of composting. Comfrey leaves and nettles are good. Many people have success with QR, a natural and economical product obtainable from Chase Organics. Human urine is also a good activator.
+* It will take a year or more for everything to break down. Good compost has a pleasant earthy smell and is dark brown with a crumbly texture. If you don't want to wait a year, tip all the contents out onto a large plastic sheet. If the lower levels have turned to compost, rake this out, take out any large or twiggy bits and bag it. Put the semi-composted material back into the bin and then start adding fresh stuff.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-03-14-efficient_onplot_composting in site.data.2010-03-14-efficient_onplot_composting %}
+  <li>
+
+    {{ 2010-03-14-efficient_onplot_composting.comment }}
+
+    <cite>{{ 2010-03-14-efficient_onplot_composting.author }} on {{ 2010-03-14-efficient_onplot_composting.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

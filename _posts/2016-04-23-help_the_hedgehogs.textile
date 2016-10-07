@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Help the Hedgehogs"
+permalink: /2016/04/help_the_hedgehogs.html
+category: News
+date: 2016-04-23 09:35:44
+excerpt:
+    <img alt="Hedgehog-poster-17_04_2016.jpg" src="http://www.cavendish-allotments.org.uk/images/Hedgehog-poster-17_04_2016-thumb.jpg" width="150" height="207"  class="photo right" />
+
+    Hedgehogs eat slugs and snails, but are becoming very scarce.
+
+    The Environment Trust would like to know if you've seen one in Richmond Borough recently. If you have any hedgehogs in your garden or allotment send in your photos / sightings.
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/Hedgehog-poster-17_04_2016.jpg"><img alt="Hedgehog-poster-17_04_2016.jpg" src="http://www.cavendish-allotments.org.uk/images/Hedgehog-poster-17_04_2016-thumb.jpg" width="150" height="207"  class="photo right" /></a>
+
+Hedgehogs eat slugs and snails, but are becoming very scarce.
+
+The Environment Trust would like to know if you've seen one in Richmond Borough recently. If you have any hedgehogs in your garden or allotment send in your photos / sightings:
+
+* Contact: "naturesgym@glendale-services.co.uk":mailto:naturesgym@glendale-services.co.uk
+* Conservation Officer: 07825860459
+
+
+h4. Hedgehog tips
+
+* Hedgehogs forage at night; they eat snails, slugs, insects and worms (slow worms also eat slugs and snails). Milk makes hedgehogs sick (just like bread bloats birds).
+* Obstacles for hedgehogs are chemicals, disturbance, machinery, roads, lack of green corridors to roam, lack of wild areas to forage, breed and hibernate.
+* Hedgehogs like spiky leaf litter piles, bramble and long grasses to give birth in June/July and hibernate in the winter from October until March/April.
+* Badgers and foxes eat hedgehogs.
+* Hedgehogs are a great garden friend as they eat our garden pests.
+* Hedgehogs rely on hearing and smell more than eyesight.
+* Hazards for hedgehogs are strimmers, mowers, pesticide/herbicide chemicals and slug pellets.
+* Organic chemical products are just as bad as non-organic; residues of toxic chemicals have been found in vegetables in areas where chemicals are used; such as sprays and pellets e.g. Glyphosate acid. These chemicals are harmful to us and the food chain.
+* Companion and sacrificial planting are good alternatives, as well as beer traps and other natural methods.
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-04-23-help_the_hedgehogs in site.data.2016-04-23-help_the_hedgehogs %}
+  <li>
+
+    {{ 2016-04-23-help_the_hedgehogs.comment }}
+
+    <cite>{{ 2016-04-23-help_the_hedgehogs.author }} on {{ 2016-04-23-help_the_hedgehogs.date }}</cite>
+
+  </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Open Day 2008"
+permalink: /2008/06/open_day_2008.html
+category: Events
+date: 2008-06-26 20:24:26
+
+---
+
+|<a href="http://www.cavendish-allotments.org.uk/open_land_2.html" onclick="window.open('http://www.cavendish-allotments.org.uk/open_land_2.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/open_land_2-thumb.jpg" width="150" height="112" alt="photo" class="photo"  /></a>|<a href="http://www.cavendish-allotments.org.uk/open_land_3.html" onclick="window.open('http://www.cavendish-allotments.org.uk/open_land_3.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/open_land_3-thumb.jpg" width="150" height="112" alt="photo"  class="photo" /></a>|
+
+This year's _Open Day_ was a great success.  Over thirty families came with their bugers, sausages, salads and deserts.  Many plants were donated and purchased.  The St Margarets Elastic Band played an inspired set and the weather was perfect.
+
+The afternoon lasted far beyond the planned three hours and a good time was had by all.  Next time; however, we need to get a second BBQ going for the rush, apologies for that. 
+
+
+|<a href="http://www.cavendish-allotments.org.uk/open_port_1.html" onclick="window.open('http://www.cavendish-allotments.org.uk/open_port_1.html','popup','width=600,height=800,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/open_port_1-thumb.jpg" width="112" height="150" class="photo" alt="photo" /></a>|<a href="http://www.cavendish-allotments.org.uk/open_port_4.html" onclick="window.open('http://www.cavendish-allotments.org.uk/open_port_4.html','popup','width=600,height=800,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/open_port_4-thumb.jpg" width="112" height="150" alt="photo"  class="photo" /></a>|
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2008-06-26-open_day_2008 in site.data.2008-06-26-open_day_2008 %}
+  <li>
+
+    {{ 2008-06-26-open_day_2008.comment }}
+
+    <cite>{{ 2008-06-26-open_day_2008.author }} on {{ 2008-06-26-open_day_2008.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

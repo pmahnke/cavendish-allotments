@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Seed Swap Sunday - 20 March 2016"
+permalink: /2016/03/seed_swap_sunday_20_march_2016.html
+category: Events
+date: 2016-03-09 20:29:30
+
+---
+
+Join fellow plot holders on Cavendish House Allotment Site Sunday afternoon 20<sup>th</sup> March 2016 from 3 to ­5pm.
+
+* Hot and cold drinks, cake and biscuits provided
+* Swap seeds, and ideas for the gardening year ahead
+* Second hand gardening tools for sale
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-03-09-seed_swap_sunday_20_march_2016 in site.data.2016-03-09-seed_swap_sunday_20_march_2016 %}
+  <li>
+
+    {{ 2016-03-09-seed_swap_sunday_20_march_2016.comment }}
+
+    <cite>{{ 2016-03-09-seed_swap_sunday_20_march_2016.author }} on {{ 2016-03-09-seed_swap_sunday_20_march_2016.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Working Parties/Communal Composting Area/Horse manure - 15 November 2015 "
+permalink: /2015/11/working_partiescommunal_composting_areahorse_manure_15_november_2015.html
+category: Events
+date: 2015-11-05 21:36:38
+
+---
+
+
+
+Recently, there have been two very successful working parties tidying and sorting the car park and communal composting area. Thanks to all those who gave their time - you have helped make such a difference.
+
+There will be another on 15<sup>th</sup> November 2015 at 3pm when all offers of help will be appreciated. To coincide with this, horse manure will be available to take at 50p per barrow or bag.
+
+??Christine??
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015 in site.data.2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015 %}
+  <li>
+
+    {{ 2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015.comment }}
+
+    <cite>{{ 2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015.author }} on {{ 2015-11-05-working_partiescommunal_composting_areahorse_manure_15_november_2015.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

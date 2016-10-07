@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Advice from 'Garden Organic'"
+permalink: /2007/06/advice_from_garden_organic.html
+category: Advice
+date: 2007-06-23 17:31:00
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/bindweed.html" onclick="window.open('http://www.cavendish-allotments.org.uk/bindweed.html','popup','width=500,height=375,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.cavendish-allotments.org.uk/bindweed-thumb.jpg" width="150" height="112" alt="from  YTaP -- http://flickr.com/photos/your_teacher/181659106/" class="photo right" /></a>
+
+
+The website "www.gardenorganic.org.uk":http://www.gardenorganic.org.uk/ of 'Garden Organic' provides much good advice to help us, for example:
+
+bq.. "Bindweed hates disturbance so it flourishes where the soil is not cultivated. Dig out or hoe off every new shoot you see. When you dig the soil, keep on pulling out all the roots you find. If you do this constantly you should be able to eventually conquer it -- regular cultivation is what bindweed hates. Put the shoots and the plants into a black bag and leave till they rot down to mush then put it in the compost bin. Incidentally, all perennial weeds can be composted if they are bagged and left to rot first.  
+
+Couch grass is more difficult to eradicate. It can be conquered if the area is covered over winter with a tarpaulin or similar material to exclude all light and then the roots dug out next spring."
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-advice_from_garden_organic in site.data.2007-06-23-advice_from_garden_organic %}
+  <li>
+
+    {{ 2007-06-23-advice_from_garden_organic.comment }}
+
+    <cite>{{ 2007-06-23-advice_from_garden_organic.author }} on {{ 2007-06-23-advice_from_garden_organic.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

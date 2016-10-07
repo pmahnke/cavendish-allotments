@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Money matters"
+permalink: /2010/10/money_matters.html
+category: Advice
+date: 2010-10-01 08:46:28
+
+---
+
+You may not have realized it, but one of the many things that the committee does is arrange public liability insurance cover for the Cavendish House site, through the National Society of Allotment and Leisure Gardeners (NSALG).
+
+What is public liability insurance? It covers accusations (with demands for compensation) made against you by other people on the grounds of harm they have supposedly suffered, including accusations made by uninvited intruders who break in to the site, people who have been invited in, and other plot-holders.
+
+We have recently been notified that this only covers individuals who are members of the NSALG, at an annual cost &pound;2 per person.  To take advantage of this cover you can pay at the AGM, or by cheque made out to Cavendish House Allotment Association and given to Rosemary Fulljames, 3 Haggard Road, Twickenham TW1 3AL.
+
+??Written by our committee treasurer, Rosemary Fulljames.??
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-10-01-money_matters in site.data.2010-10-01-money_matters %}
+  <li>
+
+    {{ 2010-10-01-money_matters.comment }}
+
+    <cite>{{ 2010-10-01-money_matters.author }} on {{ 2010-10-01-money_matters.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

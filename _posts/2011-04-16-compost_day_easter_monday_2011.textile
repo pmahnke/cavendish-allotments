@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Compost Day - Easter Monday 2011"
+permalink: /2011/04/compost_day_easter_monday_2011.html
+category: Events
+date: 2011-04-16 10:47:08
+
+---
+
+On Easter Monday,  25 April 2011, from 2-5pm we will be opening the communal compost bays for the first time, so come along and get some nicely rotted compost for your plot.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-16-compost_day_easter_monday_2011 in site.data.2011-04-16-compost_day_easter_monday_2011 %}
+  <li>
+
+    {{ 2011-04-16-compost_day_easter_monday_2011.comment }}
+
+    <cite>{{ 2011-04-16-compost_day_easter_monday_2011.author }} on {{ 2011-04-16-compost_day_easter_monday_2011.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

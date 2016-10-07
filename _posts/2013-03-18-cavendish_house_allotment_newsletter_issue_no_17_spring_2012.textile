@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Cavendish House Allotment newsletter - issue no. 17 - Spring 2012"
+permalink: /2013/03/cavendish_house_allotment_newsletter_issue_no_17_spring_2012.html
+category: News
+date: 2013-03-18 20:26:09
+excerpt: |
+    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1.jpg"><img alt="cavendish_newsletter_no17_201303-1--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    
+    
+    In this issue:
+    
+    * News
+    * What can I do about rats in my compost heap?
+    * Bees - Neonicotinoid pesticides taken off the shelves...
+    * Recipe: Rhubarb and Ginger Crumble
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1.jpg"><img alt="cavendish_newsletter_no17_201303-1--1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no17_201303-1--1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+
+
+In this issue:
+
+* News
+* What can I do about rats in my compost heap?
+* Bees - Neonicotinoid pesticides taken off the shelves...
+* Recipe: Rhubarb and Ginger Crumble
+
+<a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no17_201303-1%20.pdf">Download newsletter</a> [pdf]
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012 in site.data.2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012 %}
+  <li>
+
+    {{ 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012.comment }}
+
+    <cite>{{ 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012.author }} on {{ 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

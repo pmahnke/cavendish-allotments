@@ -1,0 +1,113 @@
+
+// footer
+.footer {
+  background: #BEEC46 url('/assets/images/marrow.png') no-repeat bottom right;
+
+  h3 {
+    font-size: 1.25em;
+    margin-top: 2em;
+    text-transform: uppercase;
+  }
+  label {
+    font-weight: normal;
+  }
+}
+
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+ul {
+  list-style: circle;
+  margin: 1em  1.5em;
+  padding: 0;
+
+  >li {
+    padding-bottom: 0.5em;
+  }
+}
+
+p {
+  line-height: 1.2em;
+}
+
+
+blockquote {
+  color: #222;
+  font-size: 1.15em;
+  margin: 2em 2em 0.5em 2em;
+  padding: 0.5em 0;
+  text-align: justify;
+}
+
+cite {
+  color: #222;
+  margin-left: 3em;
+}
+
+.trans {
+  filter: alpha(opacity=70);
+  -moz-opacity: .95;
+}
+
+.cav {
+  color: #E3181B;
+}
+
+.entry {  padding-bottom: 1em; margin-bottom: 1em;     }
+
+.posted {  text-transform: uppercase;  font-size: 0.85em;  text-align: right;  border-top: 1px solid #AAB588;  }
+
+#archive h4 {  font-size: 1em; border-bottom: 1px solid #AAB588; text-transform: uppercase;  margin-bottom: 1em;  text-align: right;  }
+
+.comments {
+  background: #E4F2CA;
+  margin: 3em 0;
+  padding: 1em;
+}
+
+.box {
+  border: 1px solid #33470A;
+  background-color: #D9EFC2;
+  padding: 1em;
+
+  h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+}
+
+
+// image helpers
+img {
+  border: 0;
+  display: block;
+  padding: 3px;
+}
+
+.inline {
+  display: inline;
+}
+
+.photo  {
+  background-color: #eee;
+  border: 1px solid #A1BA44;
+  margin: 0.5em 1em;
+}
+
+.right  {
+  float: right;
+  margin-right: 0;
+}
+
+.left   {
+  float: left;
+  margin-left: 0;
+}
+
+.center {
+  display: block;
+  margin: auto;
+}

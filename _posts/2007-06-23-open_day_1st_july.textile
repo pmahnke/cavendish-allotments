@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Open Day&#58; 1st July"
+permalink: /2007/06/open_day_1st_july.html
+category: News
+date: 2007-06-23 17:38:40
+
+---
+
+This year our _open day and social event_ is on Sunday, 1<sup>st</sup> July and -- something different -- from noon to about 4pm we are having a barbeque, plus a sale of plants, tools and other items. Please come to it and bring some food to cook and share, or something to accompany it, such as salad or savouries, or desserts such as tarts, cakes, puddings or fruit. Soft drinks and water will be provided (cheaply) but anything else in a bottle will be greatly appreciated.
+
+Do you have anything you can donate which is gardening-related and saleable -- plants (for garden and house), books, tools, etc?  There is a sheet on the noticeboard with time slots if you would be willing to help. We are hoping also to have some events for children. Could you or someone you know help to organise something?  Please see the noticeboard.
+
+The gates will be open from noon. Members of the public who wish to look round and buy will be welcome but, as the waiting list is now closed, no new plot-holders can be taken on.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-open_day_1st_july in site.data.2007-06-23-open_day_1st_july %}
+  <li>
+
+    {{ 2007-06-23-open_day_1st_july.comment }}
+
+    <cite>{{ 2007-06-23-open_day_1st_july.author }} on {{ 2007-06-23-open_day_1st_july.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

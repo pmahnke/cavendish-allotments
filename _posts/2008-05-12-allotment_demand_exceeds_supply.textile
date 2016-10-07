@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Allotment demand exceeds supply"
+permalink: /2008/05/allotment_demand_exceeds_supply.html
+category: News
+date: 2008-05-12 08:00:47
+
+---
+
+Residents who want allotments are being told that they will have to wait years.
+
+Even those allotments which until recently had unused plots, like Markhole in Hampton, are now heavily over subscribed.
+
+Vincent Cable was highly critical of Hounslow council which has displaced Richmond as well as Hounslow residents from a popular site in Whitton Dene on somewhat dubious grounds of 'contamination'. The site sits empty. Vincent Cable said: "residents and I protested over the closure years ago. The grounds were never properly explained. No risk assessment was ever done. The site is now empty".
+
+"Yet we now have people queuing for years for an allotment. The current enthusiasm for home grown, organically produced, food has enhanced the demand".
+
+<cite>-- "from Vince Cable":http://vincentcable.org.uk/news/001444/allotment_demand_exceeds_supply.html</cite>
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2008-05-12-allotment_demand_exceeds_supply in site.data.2008-05-12-allotment_demand_exceeds_supply %}
+  <li>
+
+    {{ 2008-05-12-allotment_demand_exceeds_supply.comment }}
+
+    <cite>{{ 2008-05-12-allotment_demand_exceeds_supply.author }} on {{ 2008-05-12-allotment_demand_exceeds_supply.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

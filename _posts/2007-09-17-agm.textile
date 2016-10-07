@@ -1,0 +1,32 @@
+---
+layout: post
+title: "AGM"
+permalink: /2007/09/agm.html
+category: Advice
+date: 2007-09-17 17:33:34
+
+---
+
+This year’s AGM will be held at the Winchester Hall (adjoining the Turks Head pub in Winchester Road) on Sunday 18 November, 3 to 4.30pm. During this last year, many plot-holders have commented on the good atmosphere on the site. 
+
+Perhaps you have ideas on what could be done next year? So please come and discuss them! 
+
+Soft drinks and snacks will be served.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-agm in site.data.2007-09-17-agm %}
+  <li>
+
+    {{ 2007-09-17-agm.comment }}
+
+    <cite>{{ 2007-09-17-agm.author }} on {{ 2007-09-17-agm.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Summer Event - 29 June 2014"
+permalink: /2014/06/event_reminder_summer_event_29_june_2014.html
+category: Events
+date: 2014-06-20 21:11:40
+
+---
+
+The next allotment social will be held on Sunday, 29 June 2014 from 2-4pm.
+
+Come along and meet your fellow plot holders over tea and cake and swap surplus plants and produce.
+
+
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2014-06-20-event_reminder_summer_event_29_june_2014 in site.data.2014-06-20-event_reminder_summer_event_29_june_2014 %}
+  <li>
+
+    {{ 2014-06-20-event_reminder_summer_event_29_june_2014.comment }}
+
+    <cite>{{ 2014-06-20-event_reminder_summer_event_29_june_2014.author }} on {{ 2014-06-20-event_reminder_summer_event_29_june_2014.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

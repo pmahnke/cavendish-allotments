@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Work Party - 4 and 11 October 2015"
+permalink: /2015/09/work_party_4_and_11_october_2015.html
+category: Events
+date: 2015-09-27 18:37:04
+
+---
+
+Come and help tidy the car park & communal compost bays on Sunday 4th & Sunday11th October 2015 from 3-5pm.
+
+_Free tea & biscuits for volunteers._
+
+You will need gloves and secateurs to attack brambles and bindweed and bring surplus produce to swap.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-09-27-work_party_4_and_11_october_2015 in site.data.2015-09-27-work_party_4_and_11_october_2015 %}
+  <li>
+
+    {{ 2015-09-27-work_party_4_and_11_october_2015.comment }}
+
+    <cite>{{ 2015-09-27-work_party_4_and_11_october_2015.author }} on {{ 2015-09-27-work_party_4_and_11_october_2015.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

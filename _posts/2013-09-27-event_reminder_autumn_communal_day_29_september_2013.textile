@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Event Reminder&#58; Autumn Communal Day - 29 September 2013"
+permalink: /2013/09/event_reminder_autumn_communal_day_29_september_2013.html
+category: Events
+date: 2013-09-27 21:02:49
+
+---
+
+Join us on the allotment site to swap produce and chat about the highs & lows of your plot. The communal composting bay will be open to receive your excess vegetable waste.
+
+* Volunteers welcomed to help tidy it up.
+* Tea & cakes provided.
+* Sunday, 29 September 2013 from  2 to 4pm.
+
+
+
+We look forward to seeing there.
+
+Your committee.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2013-09-27-event_reminder_autumn_communal_day_29_september_2013 in site.data.2013-09-27-event_reminder_autumn_communal_day_29_september_2013 %}
+  <li>
+
+    {{ 2013-09-27-event_reminder_autumn_communal_day_29_september_2013.comment }}
+
+    <cite>{{ 2013-09-27-event_reminder_autumn_communal_day_29_september_2013.author }} on {{ 2013-09-27-event_reminder_autumn_communal_day_29_september_2013.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

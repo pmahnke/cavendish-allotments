@@ -1,0 +1,35 @@
+---
+layout: post
+title: "June Social - 7 June 2015"
+permalink: /2015/05/june_social_7_june_2015.html
+category: Events
+date: 2015-05-25 23:07:33
+
+---
+
+Have you got seedlings to spare?
+
+Bring them along on Sunday 7th June 3-5pm
+
+Tea and cakes provided
+
+Financial contributions will go towards projects such as raised beds and tree pruning.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-25-june_social_7_june_2015 in site.data.2015-05-25-june_social_7_june_2015 %}
+  <li>
+
+    {{ 2015-05-25-june_social_7_june_2015.comment }}
+
+    <cite>{{ 2015-05-25-june_social_7_june_2015.author }} on {{ 2015-05-25-june_social_7_june_2015.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

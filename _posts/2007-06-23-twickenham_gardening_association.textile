@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Twickenham Gardening Association"
+permalink: /2007/06/twickenham_gardening_association.html
+category: News
+date: 2007-06-23 17:17:20
+
+---
+
+The Twickenham Gardening Association organises a number of coach trips, one Sunday a month at very reasonable cost, on which they welcome visitors. Pick-ups are between 9 and 9.30 am in Twickenham and Whitton and all venues have cafes and picnic areas. For further information, contact Shirley Tubridy, the secretary, on 020 8894 3512. The current visits programme includes Eastbourne, Herstmonceaux Castle and Waterperry Gardens. Members of the TGA can use their trade centre in Meadway, near Twickenham Green, which is open Saturdays and Sundays, 10.30-2.30 and sells seeds, plants, fertilizers, composts, canes, sundries, etc. 
+
+There is a joining fee for the TGA of 25p and the annual fee is &pound;2.00 for adults and &pound;1.50 for senior citizens. Contact Shirley Tubridy.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-twickenham_gardening_association in site.data.2007-06-23-twickenham_gardening_association %}
+  <li>
+
+    {{ 2007-06-23-twickenham_gardening_association.comment }}
+
+    <cite>{{ 2007-06-23-twickenham_gardening_association.author }} on {{ 2007-06-23-twickenham_gardening_association.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

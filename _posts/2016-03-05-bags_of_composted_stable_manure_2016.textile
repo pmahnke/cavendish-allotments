@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Bags of Composted Stable Manure 2016"
+permalink: /2016/03/bags_of_composted_stable_manure_2016.html
+category: News
+date: 2016-03-05 19:38:22
+
+---
+
+Following delays in deliveries last year we are trying a new supplier.
+
+The 80L bags are bigger and better value than before.
+
+100% organic composted stable manure peat free and weed free.
+
+At &pound;3.00 per bag the 80L bags are 60% bigger and better value than the former 50L bags.
+
+Each bag will cover 2 square metres to a depth of 2.5cm.
+
+Sign up on allotment site noticeboards or email <a href="mailto:enquiries@cavendish-allotments.org.uk">enquiries@cavendish­-allotments.org.uk</a>
+
+First delivery expected on Friday March 4
+
+_Rosemary_
+on behalf of the committee.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-03-05-bags_of_composted_stable_manure_2016 in site.data.2016-03-05-bags_of_composted_stable_manure_2016 %}
+  <li>
+
+    {{ 2016-03-05-bags_of_composted_stable_manure_2016.comment }}
+
+    <cite>{{ 2016-03-05-bags_of_composted_stable_manure_2016.author }} on {{ 2016-03-05-bags_of_composted_stable_manure_2016.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

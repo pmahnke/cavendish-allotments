@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Cavendish House Allotment newsletter - issue no. 16 - Autumn 2012"
+permalink: /2012/10/cavendish_house_allotment_newsletter_issue_no_16_autumn_2012.html
+category: News
+date: 2012-10-01 20:43:10
+excerpt: |
+    <a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1.jpg"><img alt="cavendish_newsletter_no16_201209-2-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+    
+    
+    
+    In this issue:
+    
+    * AGM agenda
+    * News
+    * What to do on your allotment this Autumn
+    * Recipe: Sarah Blackmore's Beetroot Cake
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1.jpg"><img alt="cavendish_newsletter_no16_201209-2-1.jpg" src="http://www.cavendish-allotments.org.uk/images/cavendish_newsletter_no16_201209-2-1-thumb.jpg" width="150" height="212"  class="photo right" /></a>
+
+
+
+In this issue:
+
+* AGM agenda
+* News
+* What to do on your allotment this Autumn
+* Recipe: Sarah Blackmore's Beetroot Cake
+
+<a href="http://www.cavendish-allotments.org.uk/cavendish_newsletter_no16_201209-2.pdf">Download newsletter</a> [pdf]
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012 in site.data.2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012 %}
+  <li>
+
+    {{ 2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012.comment }}
+
+    <cite>{{ 2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012.author }} on {{ 2012-10-01-cavendish_house_allotment_newsletter_issue_no_16_autumn_2012.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

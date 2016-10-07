@@ -1,0 +1,53 @@
+---
+layout: post
+title: "GROW DAY at Kneller Gardens - 10 July 2011"
+permalink: /2011/06/grow_day_at_kneller_gardens_10_july_2011.html
+category: Events
+date: 2011-06-07 22:14:46
+
+---
+
+Are you mad about growing vegetables?
+
+_It's GROW DAY at Kneller Gardens and we need you!_
+
+The Richmond Environment Trust is holding a Grow Day on July 10th at Kneller Gardens in Twickenham between 2pm and 5pm.  There will be a cooking demonstration with local allotment produce, a barbecue, a seed planting table for children, and a variety of stalls providing information on sowing and growing.  Currently we are looking for enthusiastic and knowledgeable vegetable growers to run some information stalls.
+
+
+h4. What is the purpose of the event?
+
+To empower local people who would like to grow their own fruit and vegetables by providing information, encouragement, demonstrations, and opportunities to ask questions.
+
+h4. How can a keen vegetable grower get involved?
+
+At the fair we would like to have a variety of stalls where people can go to ask questions and gather  information about growing their own fruit and vegetables.  Each stall would ideally have its own unique focus.  Some people are passionate about tomatoes, for example, while others believe in the holy trilogy of allotments: potatoes, beans, and onions.  You might decide to make your stall all about compost... how to make it... tips on speeding the process up... where to store it etc.  Or your stall might focus on a particular vegetable that you are especially successful at growing such as courgettes.  
+
+h4. What do I need to provide at my stall?
+
+Each stallholder would be responsible for providing a handout with all the relevant growing information including how to sow, growing time, soil requirements, pests, dos and don'ts , spacing, and harvest.  It would also be wonderful to have some visual aids... plants, seeds, soil, pictures etc that you think would be of value in showing people how to grow.  Prospective growers might also be interested in how you re-use materials to keep the cost down, for example, using used supermarket containers and pop bottles for cloches or using old tubing to make a frame for netting over vulnerable cabbage plants.
+The most important thing you need to bring along is a positive attitude and a willingness to share the information that you have gathered so far as a grower.  And if you get stuck we can certainly offer some suggestions on setting up a successful stall...  
+
+
+h4. Who should I contact for more information?
+
+Please email or phone Andrea Hosfeld who will be more than happy to discuss any questions you might have about getting involved or setting up a stall: andreahosfeld@hotmail.com or 020 8891 3308
+
+<em>Be creative.  Have some fun.   Meet some new people in your community.
+Show people how easy growing can be and how contagious it can become!
+</em>
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-06-07-grow_day_at_kneller_gardens_10_july_2011 in site.data.2011-06-07-grow_day_at_kneller_gardens_10_july_2011 %}
+  <li>
+
+    {{ 2011-06-07-grow_day_at_kneller_gardens_10_july_2011.comment }}
+
+    <cite>{{ 2011-06-07-grow_day_at_kneller_gardens_10_july_2011.author }} on {{ 2011-06-07-grow_day_at_kneller_gardens_10_july_2011.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,61 @@
+---
+layout: post
+title: " Beautiful Handmade Cedar Glasshouse for Sale"
+permalink: /2016/01/beautiful_handmade_cedar_glasshouse_for_sale.html
+category: News
+date: 2016-01-17 20:01:47
+
+---
+
+<a href="http://www.cavendish-allotments.org.uk/images/glass_house_sale.jpg"><img alt="glass_house_sale.jpg" src="http://www.cavendish-allotments.org.uk/images/glass_house_sale-thumb.jpg" width="150" height="202"  class="photo right"  /></a>
+
+Loxley octagonal cedar glasshouse made with toughened safety glass. Wood is
+100% Western Red Cedar, fades to silver grey.
+
+h4. Dimensions
+
+* Base: 2m x 2m (6'6" x 6'6") - this makes it the most compact cedar glasshouse on the market - and it's one of the most beautiful, too!
+* Eaves height: 2m (6'6")
+* Total height: 2.438m (8')
+
+Ideal glasshouse for a smaller garden with all the benefits of wood and glass construction. For the keen horticulturalist who happens to have limited space for a glasshouse. Over-winter your delicate plants, grow tender specimens and best of all, get your growing season started early with this beautiful handmade glasshouse.
+
+
+
+
+h4. Features include:
+
+* 100% Western Red Cedar
+* Cedar staging on 5 bays plus 3 high level shelves
+* Automatic roof vent - MK7 Bayliss autovent plus 2 manual side windows
+* 4mm toughened safety glass
+* Locking door (hinged to right) with black antique door furniture
+* Maintenance -free roof: glass overhands the wood
+* Guttering included - brown to match cedar staining
+* Door and 4 panels are cedar to ground, remaining 3 panels are glass to ground.
+
+Handmade to order by Woodpecker Joinery in Staffs - one of the highest quality garden joinery companies in the UK. For more details see "www.woodpecker-joinery.co.uk":http://www.woodpecker-joinery.co.uk
+
+Glasshouse has to be sold owing to unforseen circumstances. Recently installed and in immaculate 'good as new condition'. To see the glasshouse in situ before it is dismantled for storage please call: Rob - 07871 54 54 39 or Jan 07949 24 74 58 email "jan.belilios@gmail.com":mailto:jan.belilios@gmail.com
+
+Please call to discuss price and logistics for installation in your garden - enquiries from keen gardeners especially welcome!
+
+Please note - base not included but we can build this for you at additional cost
+
+-- posted January 2016
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale in site.data.2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale %}
+  <li>
+
+    {{ 2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale.comment }}
+
+    <cite>{{ 2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale.author }} on {{ 2016-01-17-beautiful_handmade_cedar_glasshouse_for_sale.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

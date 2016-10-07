@@ -1,0 +1,39 @@
+---
+layout: post
+title: "The Cavendish Library"
+permalink: /2016/02/the_cavendish_library.html
+category: Information
+date: 2016-02-14 07:17:07
+
+---
+
+When it's too cold to be on your plot, seek inspiration in the warm.
+Borrow a few magazines from Cavendish House Allotment Site "library" in the greenhouse.
+
+_New stock has just been added._
+
+The gardening magazines include:
+
+* The Organic Way
+* The RHS's magazine 'The Garden'
+* Gardener's World
+* Kew magazine.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-02-14-the_cavendish_library in site.data.2016-02-14-the_cavendish_library %}
+  <li>
+
+    {{ 2016-02-14-the_cavendish_library.comment }}
+
+    <cite>{{ 2016-02-14-the_cavendish_library.author }} on {{ 2016-02-14-the_cavendish_library.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

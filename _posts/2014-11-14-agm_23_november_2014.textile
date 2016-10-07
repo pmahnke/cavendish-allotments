@@ -1,0 +1,52 @@
+---
+layout: post
+title: "AGM - 23 November 2014"
+permalink: /2014/11/agm_23_november_2014.html
+category: Events
+date: 2014-11-14 19:15:57
+excerpt: |
+    Come along to St Stephen's School Hall on the A316, doors open at 2pm for a 2.30pm start, ending by 3.30pm. Your opportunity to ask questions and hear what your committee has been doing.
+
+---
+
+Come along to St Stephen's School Hall on the A316, doors open at 2pm for a 2.30pm start, ending by 3.30pm. Your opportunity to ask questions and hear what your committee has been doing.
+
+h4. AGENDA
+
+# Chairman's welcome
+# Apologies
+# Acceptance of last year's AGM minutes
+# Matters arising
+# Highlights of the last year
+# Treasurers report
+# Election of committee members
+# Regular features seed scheme, compost, horse manure, wood chips
+# Plot turnover
+# Best Plot
+# Any other business
+# Close of meeting and refreshments
+
+Anyone unable to attend the AGM can e-mail or text a question to:
+
+* "enquiries@cavendishallotments.org.uk":mailto:enquiries@cavendishallotments.org.uk or
+* text: 07505668268, or
+* give directly to a committee member.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2014-11-14-agm_23_november_2014 in site.data.2014-11-14-agm_23_november_2014 %}
+  <li>
+
+    {{ 2014-11-14-agm_23_november_2014.comment }}
+
+    <cite>{{ 2014-11-14-agm_23_november_2014.author }} on {{ 2014-11-14-agm_23_november_2014.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

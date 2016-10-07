@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Stag Beetles and the Communal Composting Area"
+permalink: /2011/10/stag_beetles_and_the_communal_composting_area.html
+category: Information
+date: 2011-10-11 21:51:53
+
+---
+
+<a href="/images//newsletter_14_stag1.jpg" title="See larger version of - adult Stag Beetle stamp"><img src="/images//newsletter_14_stag1_thumb.jpg" width="150" height="150" alt="adult Stag Beetle stamp" class="photo right" /></a>
+
+While digging out well-rotted compost from one of the communal composting bays this summer, we came across some enormous grubs. Three inches long, with white bodies and orange heads they were buried deep within the compost. A knowledgeable member of the committee recognized them as larvae of the stag beetle, a globally threatened species, protected under the Wildlife and Countryside Act 1981. These magnificent beetles are in serious decline and SW London is one of the few UK areas in which they are now found.
+
+
+
+Stag beetles and their larvae pose no threat to the gardener, nor to any living plants as they eat only dead and decaying wood.
+
+Through the "tidying up" of woodland and parks, their habitat has largely disappeared leading to a decline in their numbers. Fortunately, we appear to have created a perfect environment for them in our communal composting area, which uses the bays for "slow" composting, and includes woody material. We have done our best to protect the larvae. By carefully forking through the compost, we removed over a dozen larvae and relocated them in another bay where they can remain undisturbed for as long as possible. We will continue to top up that bay with woody material to help them survive.
+
+Since then, a number of plot-holders have reported seeing both the beetles and larvae on site. If you find any larvae on your plot, in a compost heap or in rotten wood and need to move them, dig a hole elsewhere and put them in, together with some of the rotting wood from their original site. A pile of rotting wood could see the larvae through to adulthood.
+
+Stag beetles are Britain's largest terrestrial beetle, named because the male's huge jaws look just like a stag's antlers.
+
+<a href="/images//newsletter_14_stag2.jpg" title="See larger version of - stag beetle grub"><img src="/images//newsletter_14_stag2_thumb.jpg" width="150" height="97" alt="stag beetle grub" class="photo right" /></a>
+
+
+Males can be up to 7 cm (2.5 inches) long; females are smaller, without the characteristic male "antlers". Both sexes have a shiny black head and thorax (chest) and their wing-cases are chestnut brown. They are quite harmless - their large jaws are designed to ward off other male stag beetles. You are most likely to see males in flight on warm summer evenings between May and August, while they look for a mate. Females lay their eggs near decaying wood below ground: these hatch into the larvae which feed on this rotting wood. Fully grown larvae may be up to 11 cm (4.5 inches) in length. They spend five to seven years as grubs underground.
+
+If you would like to know more about them or report a sighting please contact: "www.wildlondon.org.uk":http://www.wildlondon.org.uk.
+
+<cite>-- Written by Rosemary Fulljames</cite>
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-10-11-stag_beetles_and_the_communal_composting_area in site.data.2011-10-11-stag_beetles_and_the_communal_composting_area %}
+  <li>
+
+    {{ 2011-10-11-stag_beetles_and_the_communal_composting_area.comment }}
+
+    <cite>{{ 2011-10-11-stag_beetles_and_the_communal_composting_area.author }} on {{ 2011-10-11-stag_beetles_and_the_communal_composting_area.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

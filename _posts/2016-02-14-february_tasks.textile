@@ -1,0 +1,35 @@
+---
+layout: post
+title: "February tasks"
+permalink: /2016/02/february_tasks.html
+category: Advice
+date: 2016-02-14 07:20:20
+
+---
+
+h4. Outdoors
+
+February is your last chance to winter prune apple, pear and quince trees, red and white currants and gooseberry bushes.
+
+If the soil doesn't stick to your spade, dig over beds and keep weeding.
+
+Force rhubarb by covering the crown with straw and covering with an upturned bucket.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2016-02-14-february_tasks in site.data.2016-02-14-february_tasks %}
+  <li>
+
+    {{ 2016-02-14-february_tasks.comment }}
+
+    <cite>{{ 2016-02-14-february_tasks.author }} on {{ 2016-02-14-february_tasks.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

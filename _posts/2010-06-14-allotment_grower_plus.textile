@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Allotment Grower Plus"
+permalink: /2010/06/allotment_grower_plus.html
+category: Advice
+date: 2010-06-14 10:07:39
+
+---
+
+The Adrian Hall Garden Centre in Feltham has set up a scheme to provide for bona fide allotment growers a range of products used for the growing of produce and the cultivation and maintenance of plots. For registered members, these will be at prices lower than those offered to the general public. For example, all outdoor plants (fruit, vegetables, bedding plants) and pots and containers are 15% less; tools, growing media, seeds, bulbs, fencing materials, screening, meshes and netting, fertilizers and chemicals are 12.5% less. And there are many other items at between 12.5% and 5% discount. You can register by getting a form and information pack from the centre (Snakey Lane, Feltham TW13 7ND), or call 020 8751 7600 or visit "www.adrianhall.co.uk":http://www.adrianhall.co.uk and click on the Allotment Grower Plus logo. Give Michael Thierens' name and address as the contact.  Once registered, you'll get a card, which must be shown at each transaction to claim the discount. You can also phone or email to check stock and prices or request information.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-06-14-allotment_grower_plus in site.data.2010-06-14-allotment_grower_plus %}
+  <li>
+
+    {{ 2010-06-14-allotment_grower_plus.comment }}
+
+    <cite>{{ 2010-06-14-allotment_grower_plus.author }} on {{ 2010-06-14-allotment_grower_plus.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

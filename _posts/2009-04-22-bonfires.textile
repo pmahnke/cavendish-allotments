@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Bonfires"
+permalink: /2009/04/bonfires.html
+category: Advice
+date: 2009-04-22 11:16:58
+
+---
+
+Although there are no prohibitions on bonfires, they are best lit in the late afternoon or early evening.
+
+* Please take account of the wind strength and direction so neighbours experience minimum disruption.
+* Always keep water nearby, either a bucket or hosepipe, and check the fire is completely extinguished before you leave it.
+* If you have too much to burn, take it to the concrete base at the NE corner and stack it, taking care there is nothing (such as metal or plastic) which is not flammable. However, bonfires here are to be lit only when a committee member is present.  
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-04-22-bonfires in site.data.2009-04-22-bonfires %}
+  <li>
+
+    {{ 2009-04-22-bonfires.comment }}
+
+    <cite>{{ 2009-04-22-bonfires.author }} on {{ 2009-04-22-bonfires.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

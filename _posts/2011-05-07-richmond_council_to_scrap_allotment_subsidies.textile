@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Richmond Council to scrap allotment subsidies"
+permalink: /2011/05/richmond_council_to_scrap_allotment_subsidies.html
+category: News
+date: 2011-05-07 18:38:05
+
+---
+
+bq. "...the council is suggesting allotment associations would take over the cost of maintenance and water costs, saving the council about &pound;185,000."
+
+
+<cite>-- from _The Richmond & Twickenham Times_, "Richmond Council to scrap allotment and cemetery subsidies to raise £3m in revenue":http://www.richmondandtwickenhamtimes.co.uk/news/9012445.Subsidies_scrapped_as_part_of_council_s_money_making_scheme/?ref=rss - Saturday 7th May 2011
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-05-07-richmond_council_to_scrap_allotment_subsidies in site.data.2011-05-07-richmond_council_to_scrap_allotment_subsidies %}
+  <li>
+
+    {{ 2011-05-07-richmond_council_to_scrap_allotment_subsidies.comment }}
+
+    <cite>{{ 2011-05-07-richmond_council_to_scrap_allotment_subsidies.author }} on {{ 2011-05-07-richmond_council_to_scrap_allotment_subsidies.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Straw bedding"
+permalink: /2007/06/straw_bedding.html
+category: News
+date: 2007-06-23 17:09:24
+
+---
+
+We have received a delivery of straw bales, courtesy of Percy Chapman and Sons in Twickenham. These got rained on recently and started to smell a bit so they couldn't sell them fro pet bedding.
+
+But they are perfect for laying under strawberries or courgettes, etc. Just help yourself from the car park, and do support this   friendly, family garden shop, which is by the railway bridge in Colne Road.
+
+We have also received our third lorry load of wood chip from the council which plot-holders can use for pathways. But, again, we recommend that you don't use it as a general mulch - it is green timber and will take nitrogen from the soil as it decomposes.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-straw_bedding in site.data.2007-06-23-straw_bedding %}
+  <li>
+
+    {{ 2007-06-23-straw_bedding.comment }}
+
+    <cite>{{ 2007-06-23-straw_bedding.author }} on {{ 2007-06-23-straw_bedding.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

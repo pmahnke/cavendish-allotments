@@ -1,0 +1,34 @@
+---
+layout: post
+title: "CAVENDISH ALLOTMENTS SOCIAL DAY - 20 June 2010"
+permalink: /2010/06/cavendish_allotments_social_day_20_june_2010.html
+category: Events
+date: 2010-06-14 10:16:08
+
+---
+
+We hope you’ve seen the notices at the site for the Social Day on Sunday 20 June, from 1pm. All plot-holders, and their families and friends, are invited. There will be a barbeque (bring your own burgers, steaks, sausages, etc), with savoury dishes, desserts, cakes and drinks for sale at very reasonable prices. There will also be a sale of plants and garden-related items. 
+
+If you can donate anything eatable or usable, it will be gratefully received. If you wish, talk beforehand about food donations to Michael (plot 16) or Harald (plot 24). If you have plants or equipment, please bring them on the day. 
+
+Many thanks.
+
+We hope to see you on Sunday the 20<sup>th</sup>. 
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-06-14-cavendish_allotments_social_day_20_june_2010 in site.data.2010-06-14-cavendish_allotments_social_day_20_june_2010 %}
+  <li>
+
+    {{ 2010-06-14-cavendish_allotments_social_day_20_june_2010.comment }}
+
+    <cite>{{ 2010-06-14-cavendish_allotments_social_day_20_june_2010.author }} on {{ 2010-06-14-cavendish_allotments_social_day_20_june_2010.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,44 @@
+---
+layout: post
+title: "AGM - 24 November 2013"
+permalink: /2013/09/agm_24_november_2013.html
+category: Events
+date: 2013-09-27 21:12:26
+
+---
+
+
+
+Come along to St Stephen's School Hall on the A316, doors open at 2pm for a 2.30pm start, ending by 4pm.  Your opportunity to ask questions and hear what your committee has been doing.
+
+h4. AGENDA
+
+* Welcome & Introductions - Paul
+* Chairman and Secretary's Report - Paul
+* Treasurer's Report - Rosemary
+* Election of Officers
+The following are willing to continue: Paul Leonard (Chairman of Meetings), Rosemary Fulljames (Treasurer), Committee Members: Ann, Barbara, Barney, Yolanda, Christine & Harald.
+* Questions from the Floor.
+Anyone unable to attend the AGM can email or text their question 07505 668268
+* Vote for your favourite plot
+Bottle of wine for the plot with most votes.
+
+_Refreshments available_
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2013-09-27-agm_24_november_2013 in site.data.2013-09-27-agm_24_november_2013 %}
+  <li>
+
+    {{ 2013-09-27-agm_24_november_2013.comment }}
+
+    <cite>{{ 2013-09-27-agm_24_november_2013.author }} on {{ 2013-09-27-agm_24_november_2013.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

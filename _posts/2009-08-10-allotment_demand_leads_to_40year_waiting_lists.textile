@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Allotment demand leads to 40-year waiting lists"
+permalink: /2009/08/allotment_demand_leads_to_40year_waiting_lists.html
+category: News
+date: 2009-08-10 13:50:03
+
+---
+
+* For every UK allotment plot there are 30 applicants
+* Allotment owners 'save &pound;950 a year' growing their own
+
+Allotment accessibility is declining as consumer interest grows
+
+Demand for allotments has reached such heights that in one London borough would-be gardeners will be waiting 40 years for a patch of land, it emerged today.
+
+Latest research commissioned by home insurer LV= (formerly Liverpool Victoria) also revealed that for every UK allotment plot there are 30 people waiting to get their hands on one - providing evidence of our recession-fuelled enthusiasm for homegrown produce and the desire of many city dwellers to embrace "the good life" by getting back to the land.
+
+Applicants are typically looking at an average wait of three years, although in some areas it will probably be decades before these green-fingered hopefuls are finally able to harvest the fruits (and vegetables) of their labour.
+
+The research named the London boroughs of Camden and Islington as areas where plot availability is particularly problematic, with waiting times estimated at up to 40 and 25 years respectively, suggesting that a Camden resident who registers for a plot after finishing university might just get to access to it by the time they retire.
+
+<cite>-- from "The Guardian":http://www.guardian.co.uk/money/2009/jun/02/allotments-shortage-waiting-lists 2 June 2009</cite>
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2009-08-10-allotment_demand_leads_to_40year_waiting_lists in site.data.2009-08-10-allotment_demand_leads_to_40year_waiting_lists %}
+  <li>
+
+    {{ 2009-08-10-allotment_demand_leads_to_40year_waiting_lists.comment }}
+
+    <cite>{{ 2009-08-10-allotment_demand_leads_to_40year_waiting_lists.author }} on {{ 2009-08-10-allotment_demand_leads_to_40year_waiting_lists.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

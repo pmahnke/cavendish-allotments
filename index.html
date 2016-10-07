@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+  <h2>News</h2>
+
+  <!-- eight main stories -->
+  {% for post in site.posts limit: 8%}
+  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+
+  {{ post.excerpt | textilize }}
+
+  <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
+
+  <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+  {% endfor %}
+  <!-- /end eight main stories -->

@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Raised Planters"
+permalink: /2015/05/raised_planters.html
+category: News
+date: 2015-05-03 08:18:28
+
+---
+
+As a start in providing accessible allotment opportunities, two raised planters have been created at one end of the car park. These are at standing height and further planters will be created for sitting or wheelchair height.
+
+These have been funded by your contributions towards the social events and compost/manure sales.
+
+Contact a committee member as below if you would like to discuss or register interest.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-raised_planters in site.data.2015-05-03-raised_planters %}
+  <li>
+
+    {{ 2015-05-03-raised_planters.comment }}
+
+    <cite>{{ 2015-05-03-raised_planters.author }} on {{ 2015-05-03-raised_planters.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

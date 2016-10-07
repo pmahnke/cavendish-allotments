@@ -1,0 +1,32 @@
+---
+layout: post
+title: "AGM 2008"
+permalink: /2008/10/agm_2008.html
+category: Events
+date: 2008-10-11 10:15:01
+
+---
+
+Whilst it is a formal requirement that we hold an Annual General Meeting, it is by no means a formal occasion.  We invite you all to attend -- especially new members -- to air your views and exchange ideas.  We want to hear from you as this helps us to present a comprehensive picture to the Council of our members' views, so do come along and have your say.
+
+The agenda will include breif reports from the chair and treasurer, notes of last year's AGM, election of a new committee and, most important of all, views from the allotment members.
+
+The AGM will be held on *Sunday 23<sup>rd</sup> of November at 3pm* at the Winchester Hall, next door to the Turks Head pub, Winchester Road, St Margarets.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2008-10-11-agm_2008 in site.data.2008-10-11-agm_2008 %}
+  <li>
+
+    {{ 2008-10-11-agm_2008.comment }}
+
+    <cite>{{ 2008-10-11-agm_2008.author }} on {{ 2008-10-11-agm_2008.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

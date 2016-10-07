@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Communal Composting area"
+permalink: /2015/05/communal_composting_area.html
+category: News
+date: 2015-05-03 08:04:37
+
+---
+
+<a href="http://www.stmgrts.org.uk/images//stag_beetle_graham_bancroft.jpg" title="See larger version of - stag beetle by graham bancroft = https://www.flickr.com/photos/grahambancroft/5931121106"><img src="http://www.stmgrts.org.uk/images//stag_beetle_graham_bancroft_thumb.jpg" width="150" height="100" alt="stag beetle by graham bancroft = https://www.flickr.com/photos/grahambancroft/5931121106" class="photo right" /></a>
+
+This year we want to improve the communal compost site, but to stop it getting out of hand the bays will only be opened at times when a committee member is on site. 
+
+This will be at least once a month and on afternoons when we have social tea and cakes. On these days we hope some of you will be able to volunteer for a short time to help us tidy up and improve the compost area.
+
+
+We are hoping to create a suitable area for the Stag Beetles near the compost area.
+
+Stag beetles lay their eggs in the soil next to rotting wood. They particularly like apple wood, which we have from recently pruned trees.
+
+We would like some help to dig a pit into which we will sink some logs to give the stag beetle grubs plenty to eat over the 5 or so years they take to grow.
+
+See the "London Wildlife Trust website":http://www.wildlondon.org.uk/ for more information.
+
+
+* <em>Photo of stag beetle by "Graham Bancroft":https://www.flickr.com/photos/grahambancroft/5931121106</em>
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-03-communal_composting_area in site.data.2015-05-03-communal_composting_area %}
+  <li>
+
+    {{ 2015-05-03-communal_composting_area.comment }}
+
+    <cite>{{ 2015-05-03-communal_composting_area.author }} on {{ 2015-05-03-communal_composting_area.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

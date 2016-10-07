@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The communal compost area"
+permalink: /2011/10/the_communal_compost_area.html
+category: Information
+date: 2011-10-11 21:54:25
+
+---
+
+We had hoped to open the bays for both depositing green waste and collecting compost from the base. However, as we started to prepare for this, it was found there is a population of stag beetles living there. (A few plot-holders have also found them on their plots.) These are a protected species so we have moved them elsewhere for their protection. (See the item below on the beetles.). So the bays may not open again until next year. When they do, please remember that the area is only for compostable green waste that you cannot deal with on your own plot. We have prepared guidelines and notices to remind everyone of how to treat this area.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-10-11-the_communal_compost_area in site.data.2011-10-11-the_communal_compost_area %}
+  <li>
+
+    {{ 2011-10-11-the_communal_compost_area.comment }}
+
+    <cite>{{ 2011-10-11-the_communal_compost_area.author }} on {{ 2011-10-11-the_communal_compost_area.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

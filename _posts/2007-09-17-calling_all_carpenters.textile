@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Calling all carpenters"
+permalink: /2007/09/calling_all_carpenters.html
+category: News
+date: 2007-09-17 17:32:37
+
+---
+
+Our noticeboard is falling to bits! A request was made to the council but all funds are going to updating the water supplies to all sites. However, the council tells us that they will supply &pound;50 towards the costs of materials. So, is there a kind plot-holder who would be willing to make a new one? The supports apppear to be strong, so just a solid wooden frame and an opening perspex door is needed. If anyone is keen, please contact Michael Thierens (16).
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-calling_all_carpenters in site.data.2007-09-17-calling_all_carpenters %}
+  <li>
+
+    {{ 2007-09-17-calling_all_carpenters.comment }}
+
+    <cite>{{ 2007-09-17-calling_all_carpenters.author }} on {{ 2007-09-17-calling_all_carpenters.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

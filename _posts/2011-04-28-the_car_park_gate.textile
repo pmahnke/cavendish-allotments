@@ -1,0 +1,28 @@
+---
+layout: post
+title: "The car park gate"
+permalink: /2011/04/the_car_park_gate.html
+category: Advice
+date: 2011-04-28 09:32:17
+
+---
+
+The lock and chain for this are difficult to manipulate. So please don't put the shank of the padlock through the hole in the sliding bar. Wrap the chain round twice loosely and put the shank through two links of the chain.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-the_car_park_gate in site.data.2011-04-28-the_car_park_gate %}
+  <li>
+
+    {{ 2011-04-28-the_car_park_gate.comment }}
+
+    <cite>{{ 2011-04-28-the_car_park_gate.author }} on {{ 2011-04-28-the_car_park_gate.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

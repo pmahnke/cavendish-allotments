@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Contact us"
+permalink: /2011/01/contact_us.html
+category: Information
+date: 2011-01-09 15:54:04
+
+---
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=tw1+&amp;sll=51.498057,-0.182648&amp;sspn=0.297942,0.490265&amp;ie=UTF8&amp;hq=&amp;hnear=Twickenham+TW1,+United+Kingdom&amp;t=h&amp;ll=51.455832,-0.327712&amp;spn=0.00234,0.005364&amp;z=17&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=tw1+&amp;sll=51.498057,-0.182648&amp;sspn=0.297942,0.490265&amp;ie=UTF8&amp;hq=&amp;hnear=Twickenham+TW1,+United+Kingdom&amp;t=h&amp;ll=51.455832,-0.327712&amp;spn=0.00234,0.005364&amp;z=17" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+Cavendish Allotments is located between the A316, Hill View Road, Cole Park Road and the River Crane in St Margarets.  The allotment is owned by the London Borough of Richmond upon Thames, but is self run by the members.
+
+h3. Waiting list - CLOSED
+
+Our waiting is managed by *Richmond Council* and list is _*closed*_ for the foreseeable future as we have approximately seven years of people on the list.
+
+If you need to get in touch with the Council, please "see the Council's webpage":http://www.richmond.gov.uk/allotments on Allotments, or use the following contact information. 
+
+h4. Richmond Council Allotments Officer contact details
+
+<pre>
+The Allotments Officer
+London Borough of Richmond upon Thames
+Civic Centre
+York Street
+Twickenham
+TW1 3BZ
+</pre>
+
+* Telephone: 020 8831 6110
+* Email: "allotments@richmond.gov.uk":mailto:allotments@richmond.gov.uk
+
+h3. Cavendish Allotment contact details
+
+If you need to get in touch with the the Cavendish Allotment Committee, we have an answer phone at: 07505 668268.  We will attempt to respond to all calls within 48 hours.  You can also email us at "enquiries@cavendish-allotments.org.uk":mailto:enquiries@cavendish-allotments.org.uk.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-01-09-contact_us in site.data.2011-01-09-contact_us %}
+  <li>
+
+    {{ 2011-01-09-contact_us.comment }}
+
+    <cite>{{ 2011-01-09-contact_us.author }} on {{ 2011-01-09-contact_us.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

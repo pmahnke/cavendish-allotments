@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Three Pleases"
+permalink: /2007/06/three_pleases.html
+category: News
+date: 2007-06-23 17:08:42
+
+---
+
+# Please always lock the gate, after you enter and when you leave. A plot-holder recently had a wheelbarrow stolen and two others lost garden chairs. It's not known how this happened, but we do need to be security conscious.
+# Please don't put waste like glass, wood, old carpets, etc. by the bin. The council will not take it away, it looks unsightly and could be dangerous.
+# Please, parents, although it is very good to see children taking part in allotment life, do make sure they don't go onto other people's plots. Children's safety is always your own responsibility.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-three_pleases in site.data.2007-06-23-three_pleases %}
+  <li>
+
+    {{ 2007-06-23-three_pleases.comment }}
+
+    <cite>{{ 2007-06-23-three_pleases.author }} on {{ 2007-06-23-three_pleases.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

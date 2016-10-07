@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Council Meeting&#58; 17 April 2007"
+permalink: /2007/06/council_meeting_17_april_2007.html
+category: News
+date: 2007-06-23 08:43:50
+
+---
+
+Each year, the council asks each site (17 in Richmond borough) what essential maintenance they need. Last year, all sites had a survey of their water systems to meet new water regulations, one had site clearance and the provision of extra plots, and five had works such as fencing repair and replacement undertaken, at a total cost of &pound;385117.00. (This is not the overall total the council spends on allotments as there are other costs such as refuse collection, rodent control, etc.)
+
+Cavendish House requests for this year (not in priority order) are: 
+
+* Tree surgery - pruning or removal of some on the site and those overhanging from neighbouring gardens. 
+* Installation of a new noticeboard. 
+* Removal of the solidified pile of scalpings from the car park. 
+* Widening of the pathway to the car park to allow wheelbarrow and wheelchair access. 
+* Repair of car park entrance gates. Last year, none of our specific requests were granted. 
+
+This year, we will know (probably in early summer) whether we will have anything this year.
+
+Two committee members attended the meeting in York House where maintenance was discussed. The council's priorities are safety, water issues and security. The possibility of boreholes on suitable sites was mentioned. Eventually, there will be provision of standpipes to all sites - initially intended for the end of 2009 but now likely to be later - and money has been allocated to this. Therefore, we will retain our existing system of tanks for the next few years. Other issues discussed included the provision of more sites across the borough and the reactivation of former sites. One site had a grant to clear a derelict plot.
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-23-council_meeting_17_april_2007 in site.data.2007-06-23-council_meeting_17_april_2007 %}
+  <li>
+
+    {{ 2007-06-23-council_meeting_17_april_2007.comment }}
+
+    <cite>{{ 2007-06-23-council_meeting_17_april_2007.author }} on {{ 2007-06-23-council_meeting_17_april_2007.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

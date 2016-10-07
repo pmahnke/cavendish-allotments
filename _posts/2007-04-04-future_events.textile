@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Future events"
+permalink: /2007/04/future_events.html
+category: Events
+date: 2007-04-04 17:40:18
+
+---
+
+<a href="/poll/2007openday/results" title="See the results of the poll"><img src="http://www.cavendishallotments.org.uk/cgi-bin/poll.cgi?pollname=2007openday&action=image" class="right"></a>
+
+The Open Day will be held earlier this year, maybe in late May. Would the Bank Holiday weekend, 26 May or 27 May be a good time? Or do most people prefer it later or earlier?
+
+<em>Please let us know. <a href="/poll/2007openday">Vote in our poll.</a></em>
+
+Whichever date it is, when you are sowing seeds now, please sow a few extra to be potted up for sale on the Open Day. Everyone likes getting a few extra plants, and the sale is a good source of funds.
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-04-04-future_events in site.data.2007-04-04-future_events %}
+  <li>
+
+    {{ 2007-04-04-future_events.comment }}
+
+    <cite>{{ 2007-04-04-future_events.author }} on {{ 2007-04-04-future_events.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "The new greenhouse"
+permalink: /2011/04/the_new_greenhouse.html
+category: Information
+date: 2011-04-28 09:53:07
+
+---
+
+Paul and others have worked hard to put up the donated greenhouse. This is intended for communal use, with 8 bays on upper and lower staging, to be booked for a season at a time at a small charge, according to the guidelines and plan posted on the boards.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2011-04-28-the_new_greenhouse in site.data.2011-04-28-the_new_greenhouse %}
+  <li>
+
+    {{ 2011-04-28-the_new_greenhouse.comment }}
+
+    <cite>{{ 2011-04-28-the_new_greenhouse.author }} on {{ 2011-04-28-the_new_greenhouse.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

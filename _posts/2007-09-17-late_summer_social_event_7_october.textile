@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Late summer social event - 7 October"
+permalink: /2007/09/late_summer_social_event_7_october.html
+category: Events
+date: 2007-09-17 17:31:46
+
+---
+
+Following the success of the event on 1 July we are having another one on Sunday 7 October, 12 noon to 4pm. This will be a barbecue and you are invited to bring food to cook and/or wine, salads, cakes, puddings, etc. There won’t be any stalls this time but if you have any produce, jam, chutney, etc to give away or barter, please bring that. We will be selling soft drinks and crisps. Please come and bring friends and family if you wish. Meet your neighbours, have a moan about the slugs, take pride in what grew well and commiserate about what didn’t. Enjoy the day and , we hope, some Indian summer sunshine.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-09-17-late_summer_social_event_7_october in site.data.2007-09-17-late_summer_social_event_7_october %}
+  <li>
+
+    {{ 2007-09-17-late_summer_social_event_7_october.comment }}
+
+    <cite>{{ 2007-09-17-late_summer_social_event_7_october.author }} on {{ 2007-09-17-late_summer_social_event_7_october.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

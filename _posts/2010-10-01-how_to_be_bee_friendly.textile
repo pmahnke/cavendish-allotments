@@ -1,0 +1,46 @@
+---
+layout: post
+title: "How to be bee friendly"
+permalink: /2010/10/how_to_be_bee_friendly.html
+category: Advice
+date: 2010-10-01 08:44:56
+
+---
+
+<img alt="bees on an allium" src="http://www.cavendish-allotments.org.uk/cav_bees-thumb.jpg" width="500" height="321" class="photo center" />
+
+
+The British Bee-keepers' Association recommends ways in which everyone can help to protect and foster bees.
+
+Buy local honey - this helps beekeepers cover the costs of protecting bees.
+Encourage bees to visit your garden and allotment by growing flowering plants and vegetables, such as all the allium family, mints, beans and flowering herbs, daisy-shaped flowers and tall flowers such as hollyhocks, larkspur foxgloves.
+
+If you see a swarm, contact a beekeeping association, the local authority or the police who will arrange for a beekeeper to come and collect it. Don't disturb it or spray with water.
+
+If you have space in your garden for a beehive and don't yourself want to be a keeper, the local association may be in need of extra site.
+
+Bees are good neighbours and only sting when provoked. If a bee is near you, don't flap your hands. Stay calm and move away, into shade if possible.
+If you have bought honey produced overseas, always wash out the empty jars and don't leave them where bees could find them. If native bees feed on leftover honey, it could contain an infection which could spread within the hive.
+
+h4. Note
+
+* Read "an interesting article on bees in Middlesex on the St Margarets Community Website":http://www.stmgrts.org.uk/archives/2010/02/the_killing_of_the_bees.html
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2010-10-01-how_to_be_bee_friendly in site.data.2010-10-01-how_to_be_bee_friendly %}
+  <li>
+
+    {{ 2010-10-01-how_to_be_bee_friendly.comment }}
+
+    <cite>{{ 2010-10-01-how_to_be_bee_friendly.author }} on {{ 2010-10-01-how_to_be_bee_friendly.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Cavendish House Allotment newsletter - issue no. 21 - Spring 2015"
+permalink: /2015/05/cavendish_house_allotment_newsletter_issue_no_21_spring_2015.html
+category: News
+date: 2015-05-01 08:37:10
+
+---
+
+
+
+<a href="http://www.stmgrts.org.uk/images//Cavendish-newsletter-No-21-201504-1.jpg" title="See larger version of - Cavendish newsletter No 21 cover"><img src="http://www.stmgrts.org.uk/images//Cavendish-newsletter-No-21-201504-1_thumb.jpg" width="150" height="212" alt="Cavendish newsletter No 21 cover" class="photo right" /></a>
+
+In this issue:
+
+* Plot inspection update
+* Wildlife update
+* Communal Composting area
+* Communal wood area
+* Tree Pruning
+* Useful things to borrow/use
+* Raised Planters
+* RFU Rugby World Cup Car Parking
+* Recipes: Rhubarb & custard cake
+
+"Download newsletter":http://www.stmgrts.org.uk/images//Cavendish_newsletter_No_21_201504.pdf [pdf]
+
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015 in site.data.2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015 %}
+  <li>
+
+    {{ 2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015.comment }}
+
+    <cite>{{ 2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015.author }} on {{ 2015-05-01-cavendish_house_allotment_newsletter_issue_no_21_spring_2015.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+

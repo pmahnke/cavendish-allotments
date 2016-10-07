@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The Notice Board"
+permalink: /2007/06/the_notice_board.html
+category: News
+date: 2007-06-13 22:33:10
+
+---
+
+We would like to revive this as an information exchange point. Anyone can put up a postcard-sized notice - plants offered, seed swaps, requests, etc. Include the date and your plot number.
+
+Also, you might have noticed, the board itself is in bad shape.  If anyone is able to either repair or replace it, please contact a member of the committee.  We have requested a new one from the council but don't know if/when we will get one. Information such as when compost delivery is made is put on to it.
+
+
+
+
+<h2>Comments</h2>
+<ul>
+{% for 2007-06-13-the_notice_board in site.data.2007-06-13-the_notice_board %}
+  <li>
+
+    {{ 2007-06-13-the_notice_board.comment }}
+
+    <cite>{{ 2007-06-13-the_notice_board.author }} on {{ 2007-06-13-the_notice_board.date }}</cite>
+    
+  </li>
+{% endfor %}
+</ul>
+
+
