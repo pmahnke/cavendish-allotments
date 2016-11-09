@@ -33,7 +33,7 @@ Two newsletters have been published and well received but more items to include 
 
 h4. Website
 
-"www.cavendish-allotments.org.uk":http://www.cavendish-allotments.org.uk
+"www.cavendish-allotments.org.uk":https://www.cavendish-allotments.org.uk
 
 An effort is being made to get everyone to use this as an interactive resource. Peter Mahnke was thanked for his work in getting the website up and running.
 

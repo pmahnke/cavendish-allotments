@@ -11,7 +11,7 @@ email: enquiries@cavendish-allotments.org.uk
 description: > # this means to ignore newlines until "baseurl:"
   The website of the Cavendish House Allotments in St Margarests, Greater London.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.cavendish-allotments.org.uk" # the base hostname & protocol for your site
+url: "https://www.cavendish-allotments.org.uk" # the base hostname & protocol for your site
 twitter_username: stmgrts
 github_username:  pmahnke
 

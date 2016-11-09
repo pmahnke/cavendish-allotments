@@ -7,7 +7,7 @@ date: 2007-04-04 17:40:18
 
 ---
 
-<a href="/poll/2007openday/results" title="See the results of the poll"><img src="http://www.cavendishallotments.org.uk/cgi-bin/poll.cgi?pollname=2007openday&action=image" class="right"></a>
+<a href="/poll/2007openday/results" title="See the results of the poll"><img src="https://www.cavendishallotments.org.uk/cgi-bin/poll.cgi?pollname=2007openday&action=image" class="right"></a>
 
 The Open Day will be held earlier this year, maybe in late May. Would the Bank Holiday weekend, 26 May or 27 May be a good time? Or do most people prefer it later or earlier?
 

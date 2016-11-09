@@ -7,7 +7,7 @@ date: 2007-06-23 17:31:00
 
 ---
 
-<a href="http://www.cavendish-allotments.org.uk/bindweed.html" onclick="window.open('http://www.cavendish-allotments.org.uk/bindweed.html','popup','width=500,height=375,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets/images/bindweed-thumb.jpg" width="150" height="112" alt="from  YTaP -- http://flickr.com/photos/your_teacher/181659106/" class="photo right" /></a>
+<a href="https://www.cavendish-allotments.org.uk/bindweed.html" onclick="window.open('https://www.cavendish-allotments.org.uk/bindweed.html','popup','width=500,height=375,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets/images/bindweed-thumb.jpg" width="150" height="112" alt="from  YTaP -- http://flickr.com/photos/your_teacher/181659106/" class="photo right" /></a>
 
 
 The website "www.gardenorganic.org.uk":http://www.gardenorganic.org.uk/ of 'Garden Organic' provides much good advice to help us, for example:
