@@ -15,17 +15,6 @@ bq. "...the council is suggesting allotment associations would take over the cos
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-05-07-richmond_council_to_scrap_allotment_subsidies in site.data.2011-05-07-richmond_council_to_scrap_allotment_subsidies %}
-  <li>
 
-    {{ 2011-05-07-richmond_council_to_scrap_allotment_subsidies.comment }}
-
-    <cite>{{ 2011-05-07-richmond_council_to_scrap_allotment_subsidies.author }} on {{ 2011-05-07-richmond_council_to_scrap_allotment_subsidies.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

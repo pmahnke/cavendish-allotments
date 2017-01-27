@@ -21,17 +21,6 @@ The carrot fly can also be a pest but interplanting double rows of onions betwee
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-06-23-companion_planting in site.data.2007-06-23-companion_planting %}
-  <li>
 
-    {{ 2007-06-23-companion_planting.comment }}
-
-    <cite>{{ 2007-06-23-companion_planting.author }} on {{ 2007-06-23-companion_planting.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

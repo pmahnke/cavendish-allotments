@@ -20,17 +20,6 @@ Vincent Cable was highly critical of Hounslow council which has displaced Richmo
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2008-05-12-allotment_demand_exceeds_supply in site.data.2008-05-12-allotment_demand_exceeds_supply %}
-  <li>
 
-    {{ 2008-05-12-allotment_demand_exceeds_supply.comment }}
-
-    <cite>{{ 2008-05-12-allotment_demand_exceeds_supply.author }} on {{ 2008-05-12-allotment_demand_exceeds_supply.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

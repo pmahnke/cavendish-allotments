@@ -21,17 +21,6 @@ And in addition to tending to his flock's spiritual needs, he checked the limesc
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-10-11-an_18th_century_virtuoso in site.data.2011-10-11-an_18th_century_virtuoso %}
-  <li>
 
-    {{ 2011-10-11-an_18th_century_virtuoso.comment }}
-
-    <cite>{{ 2011-10-11-an_18th_century_virtuoso.author }} on {{ 2011-10-11-an_18th_century_virtuoso.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

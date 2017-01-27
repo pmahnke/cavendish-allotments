@@ -19,17 +19,6 @@ Couch grass is more difficult to eradicate. It can be conquered if the area is c
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-06-23-advice_from_garden_organic in site.data.2007-06-23-advice_from_garden_organic %}
-  <li>
 
-    {{ 2007-06-23-advice_from_garden_organic.comment }}
-
-    <cite>{{ 2007-06-23-advice_from_garden_organic.author }} on {{ 2007-06-23-advice_from_garden_organic.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

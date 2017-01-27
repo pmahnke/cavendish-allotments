@@ -13,17 +13,6 @@ A year or so ago, the council's administration practices for allotments were rev
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-10-01-new_council_brooms in site.data.2010-10-01-new_council_brooms %}
-  <li>
 
-    {{ 2010-10-01-new_council_brooms.comment }}
-
-    <cite>{{ 2010-10-01-new_council_brooms.author }} on {{ 2010-10-01-new_council_brooms.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

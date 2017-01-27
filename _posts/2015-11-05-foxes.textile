@@ -15,17 +15,6 @@ You may have seen a young fox on the site over the summer, appearing quite tame.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-11-05-foxes in site.data.2015-11-05-foxes %}
-  <li>
 
-    {{ 2015-11-05-foxes.comment }}
-
-    <cite>{{ 2015-11-05-foxes.author }} on {{ 2015-11-05-foxes.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

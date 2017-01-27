@@ -21,17 +21,6 @@ on behalf of Cavendish House Allotment Committee</em>
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-04-01-spring_social_6_april_2015 in site.data.2015-04-01-spring_social_6_april_2015 %}
-  <li>
 
-    {{ 2015-04-01-spring_social_6_april_2015.comment }}
-
-    <cite>{{ 2015-04-01-spring_social_6_april_2015.author }} on {{ 2015-04-01-spring_social_6_april_2015.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

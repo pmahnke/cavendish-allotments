@@ -16,17 +16,6 @@ Soft drinks and snacks will be served.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-agm in site.data.2007-09-17-agm %}
-  <li>
 
-    {{ 2007-09-17-agm.comment }}
-
-    <cite>{{ 2007-09-17-agm.author }} on {{ 2007-09-17-agm.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

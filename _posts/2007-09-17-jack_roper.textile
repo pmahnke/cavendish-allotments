@@ -16,17 +16,6 @@ bq. "Jack trained as a market gardener but moved to the Civil Service for a reli
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-jack_roper in site.data.2007-09-17-jack_roper %}
-  <li>
 
-    {{ 2007-09-17-jack_roper.comment }}
-
-    <cite>{{ 2007-09-17-jack_roper.author }} on {{ 2007-09-17-jack_roper.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -27,17 +27,6 @@ Cook the beans for 3 minutes, add the peas and cook for a few minutes more till 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-recipes in site.data.2007-09-17-recipes %}
-  <li>
 
-    {{ 2007-09-17-recipes.comment }}
-
-    <cite>{{ 2007-09-17-recipes.author }} on {{ 2007-09-17-recipes.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -19,17 +19,6 @@ The afternoon lasted far beyond the planned three hours and a good time was had 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2008-06-26-open_day_2008 in site.data.2008-06-26-open_day_2008 %}
-  <li>
 
-    {{ 2008-06-26-open_day_2008.comment }}
-
-    <cite>{{ 2008-06-26-open_day_2008.author }} on {{ 2008-06-26-open_day_2008.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

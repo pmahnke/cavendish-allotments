@@ -16,17 +16,6 @@ There are photos of the committee members (including Fran Baylis, co-opted) on b
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-28-the_new_chair in site.data.2011-04-28-the_new_chair %}
-  <li>
 
-    {{ 2011-04-28-the_new_chair.comment }}
-
-    <cite>{{ 2011-04-28-the_new_chair.author }} on {{ 2011-04-28-the_new_chair.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

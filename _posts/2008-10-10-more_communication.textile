@@ -12,17 +12,6 @@ The committee feels it would be useful to have a second notice board.  Plot hold
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2008-10-10-more_communication in site.data.2008-10-10-more_communication %}
-  <li>
 
-    {{ 2008-10-10-more_communication.comment }}
-
-    <cite>{{ 2008-10-10-more_communication.author }} on {{ 2008-10-10-more_communication.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

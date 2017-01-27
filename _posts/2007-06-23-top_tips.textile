@@ -32,17 +32,6 @@ bq. "Interplanting sweet peas between runner beans and climbing French beans hel
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-06-23-top_tips in site.data.2007-06-23-top_tips %}
-  <li>
 
-    {{ 2007-06-23-top_tips.comment }}
-
-    <cite>{{ 2007-06-23-top_tips.author }} on {{ 2007-06-23-top_tips.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

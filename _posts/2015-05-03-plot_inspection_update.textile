@@ -26,17 +26,6 @@ p. We still have a very long waiting list. So if your circumstances have changed
 If you are encountering short term difficulties please contact one of the committee members to as we may be able to help you. We understand how important a part of life an allotment is.
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-03-plot_inspection_update in site.data.2015-05-03-plot_inspection_update %}
-  <li>
 
-    {{ 2015-05-03-plot_inspection_update.comment }}
-
-    <cite>{{ 2015-05-03-plot_inspection_update.author }} on {{ 2015-05-03-plot_inspection_update.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

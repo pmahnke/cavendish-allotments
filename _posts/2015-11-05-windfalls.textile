@@ -17,17 +17,6 @@ Do you have fruit trees with surplus windfalls? Rather than leave to rot on the 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-11-05-windfalls in site.data.2015-11-05-windfalls %}
-  <li>
 
-    {{ 2015-11-05-windfalls.comment }}
-
-    <cite>{{ 2015-11-05-windfalls.author }} on {{ 2015-11-05-windfalls.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

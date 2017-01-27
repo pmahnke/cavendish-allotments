@@ -18,17 +18,6 @@ What do people think about having an autumn BBQ event? Let us know in the commen
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-06-20-pictures_from_the_2010_social_day_1 in site.data.2010-06-20-pictures_from_the_2010_social_day_1 %}
-  <li>
 
-    {{ 2010-06-20-pictures_from_the_2010_social_day_1.comment }}
-
-    <cite>{{ 2010-06-20-pictures_from_the_2010_social_day_1.author }} on {{ 2010-06-20-pictures_from_the_2010_social_day_1.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

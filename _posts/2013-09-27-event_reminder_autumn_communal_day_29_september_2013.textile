@@ -22,17 +22,6 @@ Your committee.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2013-09-27-event_reminder_autumn_communal_day_29_september_2013 in site.data.2013-09-27-event_reminder_autumn_communal_day_29_september_2013 %}
-  <li>
 
-    {{ 2013-09-27-event_reminder_autumn_communal_day_29_september_2013.comment }}
-
-    <cite>{{ 2013-09-27-event_reminder_autumn_communal_day_29_september_2013.author }} on {{ 2013-09-27-event_reminder_autumn_communal_day_29_september_2013.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

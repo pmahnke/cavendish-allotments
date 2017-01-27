@@ -14,17 +14,6 @@ We tried, and failed, to persuade LBRUT to prune these trees but they will only 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-03-tree_pruning in site.data.2015-05-03-tree_pruning %}
-  <li>
 
-    {{ 2015-05-03-tree_pruning.comment }}
-
-    <cite>{{ 2015-05-03-tree_pruning.author }} on {{ 2015-05-03-tree_pruning.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

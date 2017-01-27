@@ -20,17 +20,6 @@ The mains pressure will be increased, so watering should be quicker.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2008-07-14-water_works_has_started in site.data.2008-07-14-water_works_has_started %}
-  <li>
 
-    {{ 2008-07-14-water_works_has_started.comment }}
-
-    <cite>{{ 2008-07-14-water_works_has_started.author }} on {{ 2008-07-14-water_works_has_started.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

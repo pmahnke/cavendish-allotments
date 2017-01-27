@@ -25,17 +25,6 @@ If you wish to know more, the Marine Conservation Society leads on marine litter
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-10-11-new_found_lands in site.data.2011-10-11-new_found_lands %}
-  <li>
 
-    {{ 2011-10-11-new_found_lands.comment }}
-
-    <cite>{{ 2011-10-11-new_found_lands.author }} on {{ 2011-10-11-new_found_lands.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

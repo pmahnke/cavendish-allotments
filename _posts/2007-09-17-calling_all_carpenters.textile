@@ -12,17 +12,6 @@ Our noticeboard is falling to bits! A request was made to the council but all fu
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-calling_all_carpenters in site.data.2007-09-17-calling_all_carpenters %}
-  <li>
 
-    {{ 2007-09-17-calling_all_carpenters.comment }}
-
-    <cite>{{ 2007-09-17-calling_all_carpenters.author }} on {{ 2007-09-17-calling_all_carpenters.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -18,17 +18,6 @@ Contributions for tea and cake will go towards communal projects such as raised 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-04-bank_holiday_monday_4_may_2015 in site.data.2015-05-04-bank_holiday_monday_4_may_2015 %}
-  <li>
 
-    {{ 2015-05-04-bank_holiday_monday_4_may_2015.comment }}
-
-    <cite>{{ 2015-05-04-bank_holiday_monday_4_may_2015.author }} on {{ 2015-05-04-bank_holiday_monday_4_may_2015.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -23,17 +23,6 @@ The gardening magazines include:
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2016-02-14-the_cavendish_library in site.data.2016-02-14-the_cavendish_library %}
-  <li>
 
-    {{ 2016-02-14-the_cavendish_library.comment }}
-
-    <cite>{{ 2016-02-14-the_cavendish_library.author }} on {{ 2016-02-14-the_cavendish_library.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

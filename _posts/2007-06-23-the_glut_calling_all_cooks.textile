@@ -18,17 +18,6 @@ Top and tail the beans, chop roughly and fry in a little vegetable oil with some
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-06-23-the_glut_calling_all_cooks in site.data.2007-06-23-the_glut_calling_all_cooks %}
-  <li>
 
-    {{ 2007-06-23-the_glut_calling_all_cooks.comment }}
-
-    <cite>{{ 2007-06-23-the_glut_calling_all_cooks.author }} on {{ 2007-06-23-the_glut_calling_all_cooks.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

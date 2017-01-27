@@ -22,17 +22,6 @@ If you have any good ideas for reusing junk, send them to the editor and they'll
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-04-22-use_of_junk_and_waste_material in site.data.2009-04-22-use_of_junk_and_waste_material %}
-  <li>
 
-    {{ 2009-04-22-use_of_junk_and_waste_material.comment }}
-
-    <cite>{{ 2009-04-22-use_of_junk_and_waste_material.author }} on {{ 2009-04-22-use_of_junk_and_waste_material.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -19,17 +19,6 @@ _Funds raised will be used for communal projects_
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-07-09-july_social_19_july_2015_from_3_to_5pm in site.data.2015-07-09-july_social_19_july_2015_from_3_to_5pm %}
-  <li>
 
-    {{ 2015-07-09-july_social_19_july_2015_from_3_to_5pm.comment }}
-
-    <cite>{{ 2015-07-09-july_social_19_july_2015_from_3_to_5pm.author }} on {{ 2015-07-09-july_social_19_july_2015_from_3_to_5pm.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

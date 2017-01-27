@@ -33,18 +33,3 @@ h4. Hedgehog tips
 * Hazards for hedgehogs are strimmers, mowers, pesticide/herbicide chemicals and slug pellets.
 * Organic chemical products are just as bad as non-organic; residues of toxic chemicals have been found in vegetables in areas where chemicals are used; such as sprays and pellets e.g. Glyphosate acid. These chemicals are harmful to us and the food chain.
 * Companion and sacrificial planting are good alternatives, as well as beer traps and other natural methods.
-
-
-
-<!-- Comments -->
-<ul>
-{% for 2016-04-23-help_the_hedgehogs in site.data.2016-04-23-help_the_hedgehogs %}
-  <li>
-
-    {{ 2016-04-23-help_the_hedgehogs.comment }}
-
-    <cite>{{ 2016-04-23-help_the_hedgehogs.author }} on {{ 2016-04-23-help_the_hedgehogs.date }}</cite>
-
-  </li>
-{% endfor %}
-</ul>

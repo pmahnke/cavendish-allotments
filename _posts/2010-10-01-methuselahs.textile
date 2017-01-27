@@ -14,17 +14,6 @@ A recent nationwide study by actuaries on lifespans found that, on average, the 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-10-01-methuselahs in site.data.2010-10-01-methuselahs %}
-  <li>
 
-    {{ 2010-10-01-methuselahs.comment }}
-
-    <cite>{{ 2010-10-01-methuselahs.author }} on {{ 2010-10-01-methuselahs.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

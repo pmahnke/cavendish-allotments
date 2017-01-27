@@ -40,17 +40,6 @@ _Sue (20)_
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-good_crops_bad_crops in site.data.2007-09-17-good_crops_bad_crops %}
-  <li>
 
-    {{ 2007-09-17-good_crops_bad_crops.comment }}
-
-    <cite>{{ 2007-09-17-good_crops_bad_crops.author }} on {{ 2007-09-17-good_crops_bad_crops.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -44,17 +44,6 @@ _Peter Lowman_
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2016-03-05-the_no_dig_method in site.data.2016-03-05-the_no_dig_method %}
-  <li>
 
-    {{ 2016-03-05-the_no_dig_method.comment }}
-
-    <cite>{{ 2016-03-05-the_no_dig_method.author }} on {{ 2016-03-05-the_no_dig_method.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

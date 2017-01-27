@@ -12,17 +12,6 @@ According to The Guardian weather reports, this summer has been the wettest for 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-enemy_no_1 in site.data.2007-09-17-enemy_no_1 %}
-  <li>
 
-    {{ 2007-09-17-enemy_no_1.comment }}
-
-    <cite>{{ 2007-09-17-enemy_no_1.author }} on {{ 2007-09-17-enemy_no_1.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

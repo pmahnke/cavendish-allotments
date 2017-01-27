@@ -29,17 +29,6 @@ In this issue:
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013 in site.data.2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013 %}
-  <li>
 
-    {{ 2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013.comment }}
-
-    <cite>{{ 2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013.author }} on {{ 2013-09-26-cavendish_house_allotment_newsletter_issue_no_18_autumn_2013.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

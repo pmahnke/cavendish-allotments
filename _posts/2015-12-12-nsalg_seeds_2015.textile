@@ -23,17 +23,6 @@ If you are interested get in touch with Toni as soon as possible via "enquiries@
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-12-12-nsalg_seeds_2015 in site.data.2015-12-12-nsalg_seeds_2015 %}
-  <li>
 
-    {{ 2015-12-12-nsalg_seeds_2015.comment }}
-
-    <cite>{{ 2015-12-12-nsalg_seeds_2015.author }} on {{ 2015-12-12-nsalg_seeds_2015.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

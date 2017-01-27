@@ -33,17 +33,6 @@ In this issue:
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012 in site.data.2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012 %}
-  <li>
 
-    {{ 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012.comment }}
-
-    <cite>{{ 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012.author }} on {{ 2013-03-18-cavendish_house_allotment_newsletter_issue_no_17_spring_2012.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

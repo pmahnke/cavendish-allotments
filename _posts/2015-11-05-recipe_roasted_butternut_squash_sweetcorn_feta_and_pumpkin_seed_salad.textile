@@ -33,17 +33,6 @@ date: 2015-11-05 21:43:04
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad in site.data.2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad %}
-  <li>
 
-    {{ 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.comment }}
-
-    <cite>{{ 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.author }} on {{ 2015-11-05-recipe_roasted_butternut_squash_sweetcorn_feta_and_pumpkin_seed_salad.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

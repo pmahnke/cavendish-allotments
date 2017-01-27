@@ -32,19 +32,3 @@ In this issue:
 * Recipes: Asparagus and Gruyere Tart
 
 * <a href="/assets/images/cavendish_newsletter_no19_201405-1.pdf">Download newsletter</a> [pdf]
-
-
-
-
-<!-- Comments -->
-<ul>
-{% for 2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014 in site.data.2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014 %}
-  <li>
-
-    {{ 2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014.comment }}
-
-    <cite>{{ 2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014.author }} on {{ 2014-05-27-cavendish_house_allotment_newsletter_issue_no_19_spring_2014.date }}</cite>
-
-  </li>
-{% endfor %}
-</ul>
