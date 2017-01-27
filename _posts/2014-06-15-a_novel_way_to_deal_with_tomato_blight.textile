@@ -33,17 +33,6 @@ One recent study found that the use of the spray, which can be made at home, res
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2014-06-15-a_novel_way_to_deal_with_tomato_blight in site.data.2014-06-15-a_novel_way_to_deal_with_tomato_blight %}
-  <li>
 
-    {{ 2014-06-15-a_novel_way_to_deal_with_tomato_blight.comment }}
-
-    <cite>{{ 2014-06-15-a_novel_way_to_deal_with_tomato_blight.author }} on {{ 2014-06-15-a_novel_way_to_deal_with_tomato_blight.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -16,17 +16,6 @@ The AGM will be held on *Sunday 23<sup>rd</sup> of November at 3pm* at the Winch
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2008-10-11-agm_2008 in site.data.2008-10-11-agm_2008 %}
-  <li>
 
-    {{ 2008-10-11-agm_2008.comment }}
-
-    <cite>{{ 2008-10-11-agm_2008.author }} on {{ 2008-10-11-agm_2008.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

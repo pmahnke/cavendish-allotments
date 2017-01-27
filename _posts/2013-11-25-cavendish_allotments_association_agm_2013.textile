@@ -79,17 +79,6 @@ Paul thanked everyone for coming and closed the meeting.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2013-11-25-cavendish_allotments_association_agm_2013 in site.data.2013-11-25-cavendish_allotments_association_agm_2013 %}
-  <li>
 
-    {{ 2013-11-25-cavendish_allotments_association_agm_2013.comment }}
-
-    <cite>{{ 2013-11-25-cavendish_allotments_association_agm_2013.author }} on {{ 2013-11-25-cavendish_allotments_association_agm_2013.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

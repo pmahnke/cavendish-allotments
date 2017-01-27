@@ -28,17 +28,6 @@ on behalf of the committee.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2016-03-05-bags_of_composted_stable_manure_2016 in site.data.2016-03-05-bags_of_composted_stable_manure_2016 %}
-  <li>
 
-    {{ 2016-03-05-bags_of_composted_stable_manure_2016.comment }}
-
-    <cite>{{ 2016-03-05-bags_of_composted_stable_manure_2016.author }} on {{ 2016-03-05-bags_of_composted_stable_manure_2016.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

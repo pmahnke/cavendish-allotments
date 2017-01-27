@@ -16,17 +16,6 @@ In the current situation of cuts, we now can expect much less maintenance by the
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-28-the_council_and_us in site.data.2011-04-28-the_council_and_us %}
-  <li>
 
-    {{ 2011-04-28-the_council_and_us.comment }}
-
-    <cite>{{ 2011-04-28-the_council_and_us.author }} on {{ 2011-04-28-the_council_and_us.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -15,17 +15,6 @@ The National Trust says it is to create 1,000 new allotments over the next three
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-04-22-everybodys_doing_it in site.data.2009-04-22-everybodys_doing_it %}
-  <li>
 
-    {{ 2009-04-22-everybodys_doing_it.comment }}
-
-    <cite>{{ 2009-04-22-everybodys_doing_it.author }} on {{ 2009-04-22-everybodys_doing_it.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

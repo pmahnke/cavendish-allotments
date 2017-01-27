@@ -24,17 +24,6 @@ Please take care not to harm beneficial wildlife such as frogs and thrushes by c
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-03-wildlife_update in site.data.2015-05-03-wildlife_update %}
-  <li>
 
-    {{ 2015-05-03-wildlife_update.comment }}
-
-    <cite>{{ 2015-05-03-wildlife_update.author }} on {{ 2015-05-03-wildlife_update.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

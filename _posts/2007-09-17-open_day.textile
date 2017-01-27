@@ -14,17 +14,6 @@ The social event on 1 July was extremely enjoyable with a barbeque, delicious do
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-09-17-open_day in site.data.2007-09-17-open_day %}
-  <li>
 
-    {{ 2007-09-17-open_day.comment }}
-
-    <cite>{{ 2007-09-17-open_day.author }} on {{ 2007-09-17-open_day.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -37,17 +37,6 @@ Please take account of them when you are disposing of waste from your own plot. 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-04-22-welcome_the_new_season in site.data.2009-04-22-welcome_the_new_season %}
-  <li>
 
-    {{ 2009-04-22-welcome_the_new_season.comment }}
-
-    <cite>{{ 2009-04-22-welcome_the_new_season.author }} on {{ 2009-04-22-welcome_the_new_season.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -22,17 +22,6 @@ You can also email us at "enquiries@cavendish-allotments.org.uk":mailto:enquirie
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-03-20-your_2011_committee in site.data.2011-03-20-your_2011_committee %}
-  <li>
 
-    {{ 2011-03-20-your_2011_committee.comment }}
-
-    <cite>{{ 2011-03-20-your_2011_committee.author }} on {{ 2011-03-20-your_2011_committee.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

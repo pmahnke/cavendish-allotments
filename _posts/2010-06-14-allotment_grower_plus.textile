@@ -12,17 +12,6 @@ The Adrian Hall Garden Centre in Feltham has set up a scheme to provide for bona
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-06-14-allotment_grower_plus in site.data.2010-06-14-allotment_grower_plus %}
-  <li>
 
-    {{ 2010-06-14-allotment_grower_plus.comment }}
-
-    <cite>{{ 2010-06-14-allotment_grower_plus.author }} on {{ 2010-06-14-allotment_grower_plus.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

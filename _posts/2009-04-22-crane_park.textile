@@ -12,17 +12,6 @@ In a London-wide competition to gain government funding for its boroughs' local 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-04-22-crane_park in site.data.2009-04-22-crane_park %}
-  <li>
 
-    {{ 2009-04-22-crane_park.comment }}
-
-    <cite>{{ 2009-04-22-crane_park.author }} on {{ 2009-04-22-crane_park.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

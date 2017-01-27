@@ -84,17 +84,6 @@ _The meeting closed with Paul thanking everyone for coming. Refreshments were of
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-02-28-cavendish_allotments_association_agm_2014 in site.data.2015-02-28-cavendish_allotments_association_agm_2014 %}
-  <li>
 
-    {{ 2015-02-28-cavendish_allotments_association_agm_2014.comment }}
-
-    <cite>{{ 2015-02-28-cavendish_allotments_association_agm_2014.author }} on {{ 2015-02-28-cavendish_allotments_association_agm_2014.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

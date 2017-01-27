@@ -13,17 +13,6 @@ Well, not quite yet. But MPs and others have commented recently that millions of
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-03-14-you_will_compost_and_thats_an_order in site.data.2010-03-14-you_will_compost_and_thats_an_order %}
-  <li>
 
-    {{ 2010-03-14-you_will_compost_and_thats_an_order.comment }}
-
-    <cite>{{ 2010-03-14-you_will_compost_and_thats_an_order.author }} on {{ 2010-03-14-you_will_compost_and_thats_an_order.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

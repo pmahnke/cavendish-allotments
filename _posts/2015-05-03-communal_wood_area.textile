@@ -19,17 +19,6 @@ There are 3 bays:
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-03-communal_wood_area in site.data.2015-05-03-communal_wood_area %}
-  <li>
 
-    {{ 2015-05-03-communal_wood_area.comment }}
-
-    <cite>{{ 2015-05-03-communal_wood_area.author }} on {{ 2015-05-03-communal_wood_area.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

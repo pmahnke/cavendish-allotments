@@ -18,17 +18,6 @@ We hope to see you on Sunday the 20<sup>th</sup>.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-06-14-cavendish_allotments_social_day_20_june_2010 in site.data.2010-06-14-cavendish_allotments_social_day_20_june_2010 %}
-  <li>
 
-    {{ 2010-06-14-cavendish_allotments_social_day_20_june_2010.comment }}
-
-    <cite>{{ 2010-06-14-cavendish_allotments_social_day_20_june_2010.author }} on {{ 2010-06-14-cavendish_allotments_social_day_20_june_2010.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

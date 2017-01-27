@@ -13,17 +13,6 @@ We had hoped to open the bays for both depositing green waste and collecting com
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-10-11-the_communal_compost_area in site.data.2011-10-11-the_communal_compost_area %}
-  <li>
 
-    {{ 2011-10-11-the_communal_compost_area.comment }}
-
-    <cite>{{ 2011-10-11-the_communal_compost_area.author }} on {{ 2011-10-11-the_communal_compost_area.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

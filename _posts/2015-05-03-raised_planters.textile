@@ -17,17 +17,6 @@ Contact a committee member as below if you would like to discuss or register int
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-03-raised_planters in site.data.2015-05-03-raised_planters %}
-  <li>
 
-    {{ 2015-05-03-raised_planters.comment }}
-
-    <cite>{{ 2015-05-03-raised_planters.author }} on {{ 2015-05-03-raised_planters.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

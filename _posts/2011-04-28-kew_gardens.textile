@@ -13,17 +13,6 @@ As well as its courses for professionals, Kew also runs short courses for amateu
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-28-kew_gardens in site.data.2011-04-28-kew_gardens %}
-  <li>
 
-    {{ 2011-04-28-kew_gardens.comment }}
-
-    <cite>{{ 2011-04-28-kew_gardens.author }} on {{ 2011-04-28-kew_gardens.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

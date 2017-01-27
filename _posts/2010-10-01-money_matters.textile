@@ -19,17 +19,6 @@ We have recently been notified that this only covers individuals who are members
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-10-01-money_matters in site.data.2010-10-01-money_matters %}
-  <li>
 
-    {{ 2010-10-01-money_matters.comment }}
-
-    <cite>{{ 2010-10-01-money_matters.author }} on {{ 2010-10-01-money_matters.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -22,17 +22,6 @@ There are 3 proposals on which they would like to hear your views before 3rd May
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2016-04-23-moormead_pavilion_consultation in site.data.2016-04-23-moormead_pavilion_consultation %}
-  <li>
 
-    {{ 2016-04-23-moormead_pavilion_consultation.comment }}
-
-    <cite>{{ 2016-04-23-moormead_pavilion_consultation.author }} on {{ 2016-04-23-moormead_pavilion_consultation.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

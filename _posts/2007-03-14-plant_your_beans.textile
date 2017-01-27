@@ -16,19 +16,3 @@ However, help is needed!
 2×2 Opera are currently in need of scenery builders for the afternoon of Sunday 25th March at All Souls Church. If you are handy with a hammer / screwdriver and would like to help, please contact Deborah: deborah.meyer@meyermusic.co.uk
 
 For further details visit www.2×2opera.co.uk
-
-
-<!-- Comments -->
-<ul>
-{% for 2007-03-14-plant_your_beans in site.data.2007-03-14-plant_your_beans %}
-  <li>
-
-    {{ 2007-03-14-plant_your_beans.comment }}
-
-    <cite>{{ 2007-03-14-plant_your_beans.author }} on {{ 2007-03-14-plant_your_beans.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
-
-

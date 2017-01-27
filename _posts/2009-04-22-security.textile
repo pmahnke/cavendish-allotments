@@ -12,17 +12,6 @@ Please lock the gates behind you whenever you enter the site, even if you are wo
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-04-22-security in site.data.2009-04-22-security %}
-  <li>
 
-    {{ 2009-04-22-security.comment }}
-
-    <cite>{{ 2009-04-22-security.author }} on {{ 2009-04-22-security.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

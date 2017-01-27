@@ -14,17 +14,6 @@ It is essential that cans and containers which have been used for any chemicals 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-06-13-use_of_the_water_tanks in site.data.2007-06-13-use_of_the_water_tanks %}
-  <li>
 
-    {{ 2007-06-13-use_of_the_water_tanks.comment }}
-
-    <cite>{{ 2007-06-13-use_of_the_water_tanks.author }} on {{ 2007-06-13-use_of_the_water_tanks.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

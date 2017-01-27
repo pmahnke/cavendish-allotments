@@ -21,17 +21,6 @@ So while dogs are welcome on site, please keep them on a lead.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-11-05-dogs_on_leads_please in site.data.2015-11-05-dogs_on_leads_please %}
-  <li>
 
-    {{ 2015-11-05-dogs_on_leads_please.comment }}
-
-    <cite>{{ 2015-11-05-dogs_on_leads_please.author }} on {{ 2015-11-05-dogs_on_leads_please.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

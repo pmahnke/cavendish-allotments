@@ -14,17 +14,6 @@ Also, you might have noticed, the board itself is in bad shape.  If anyone is ab
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-06-13-the_notice_board in site.data.2007-06-13-the_notice_board %}
-  <li>
 
-    {{ 2007-06-13-the_notice_board.comment }}
-
-    <cite>{{ 2007-06-13-the_notice_board.author }} on {{ 2007-06-13-the_notice_board.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

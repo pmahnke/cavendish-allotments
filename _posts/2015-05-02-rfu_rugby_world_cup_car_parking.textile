@@ -17,17 +17,6 @@ Please let us know your views by contacting a committee member as below.
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2015-05-02-rfu_rugby_world_cup_car_parking in site.data.2015-05-02-rfu_rugby_world_cup_car_parking %}
-  <li>
 
-    {{ 2015-05-02-rfu_rugby_world_cup_car_parking.comment }}
-
-    <cite>{{ 2015-05-02-rfu_rugby_world_cup_car_parking.author }} on {{ 2015-05-02-rfu_rugby_world_cup_car_parking.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

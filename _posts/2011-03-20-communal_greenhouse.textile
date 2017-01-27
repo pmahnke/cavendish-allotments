@@ -11,20 +11,3 @@ The _Cavendish Communal Greenhouse_ has the potential to be a resource shared by
 
 So we can all share these facilities, the committee has the following guidance.  Please
 <a href="/assets/images/CavendishCommunalGreenhouse.pdf">download this file</a>. [pdf]
-
-
-
-
-
-<!-- Comments -->
-<ul>
-{% for 2011-03-20-communal_greenhouse in site.data.2011-03-20-communal_greenhouse %}
-  <li>
-
-    {{ 2011-03-20-communal_greenhouse.comment }}
-
-    <cite>{{ 2011-03-20-communal_greenhouse.author }} on {{ 2011-03-20-communal_greenhouse.date }}</cite>
-
-  </li>
-{% endfor %}
-</ul>

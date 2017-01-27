@@ -12,17 +12,6 @@ If you are clearing out a shed or garage, please don't throw away items which so
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-06-14-looking_ahead_to_summer in site.data.2010-06-14-looking_ahead_to_summer %}
-  <li>
 
-    {{ 2010-06-14-looking_ahead_to_summer.comment }}
-
-    <cite>{{ 2010-06-14-looking_ahead_to_summer.author }} on {{ 2010-06-14-looking_ahead_to_summer.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

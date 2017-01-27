@@ -17,17 +17,6 @@ Come along and meet your fellow plot holders over tea and cake and swap surplus 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2014-06-20-event_reminder_summer_event_29_june_2014 in site.data.2014-06-20-event_reminder_summer_event_29_june_2014 %}
-  <li>
 
-    {{ 2014-06-20-event_reminder_summer_event_29_june_2014.comment }}
-
-    <cite>{{ 2014-06-20-event_reminder_summer_event_29_june_2014.author }} on {{ 2014-06-20-event_reminder_summer_event_29_june_2014.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

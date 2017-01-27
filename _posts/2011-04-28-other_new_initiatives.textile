@@ -18,17 +18,6 @@ A lidded incinerator has been bought, available for any plot-holder to use on th
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-28-other_new_initiatives in site.data.2011-04-28-other_new_initiatives %}
-  <li>
 
-    {{ 2011-04-28-other_new_initiatives.comment }}
-
-    <cite>{{ 2011-04-28-other_new_initiatives.author }} on {{ 2011-04-28-other_new_initiatives.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

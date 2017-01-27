@@ -32,17 +32,6 @@ If you would like to know more about them or report a sighting please contact: "
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-10-11-stag_beetles_and_the_communal_composting_area in site.data.2011-10-11-stag_beetles_and_the_communal_composting_area %}
-  <li>
 
-    {{ 2011-10-11-stag_beetles_and_the_communal_composting_area.comment }}
-
-    <cite>{{ 2011-10-11-stag_beetles_and_the_communal_composting_area.author }} on {{ 2011-10-11-stag_beetles_and_the_communal_composting_area.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

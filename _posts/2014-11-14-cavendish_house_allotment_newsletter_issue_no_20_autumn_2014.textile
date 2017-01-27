@@ -30,17 +30,6 @@ In this issue:
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014 in site.data.2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014 %}
-  <li>
 
-    {{ 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.comment }}
-
-    <cite>{{ 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.author }} on {{ 2014-11-14-cavendish_house_allotment_newsletter_issue_no_20_autumn_2014.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

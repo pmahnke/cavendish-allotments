@@ -12,17 +12,6 @@ Paul and others have worked hard to put up the donated greenhouse. This is inten
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-28-the_new_greenhouse in site.data.2011-04-28-the_new_greenhouse %}
-  <li>
 
-    {{ 2011-04-28-the_new_greenhouse.comment }}
-
-    <cite>{{ 2011-04-28-the_new_greenhouse.author }} on {{ 2011-04-28-the_new_greenhouse.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

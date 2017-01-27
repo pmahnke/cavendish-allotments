@@ -25,17 +25,6 @@ The meeting will take place on Wednesday 23 September at 7 pm in Clarendon Hall,
 <cite>"Richmond upon Thames Liberal Democrats":http://www.twickenhamlibdems.co.uk/news/002327/allotments_making_room_to_grow.html - Sat 19<sup>th</sup> Sep 2009</cite>
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-09-20-allotments_making_room_to_grow in site.data.2009-09-20-allotments_making_room_to_grow %}
-  <li>
 
-    {{ 2009-09-20-allotments_making_room_to_grow.comment }}
-
-    <cite>{{ 2009-09-20-allotments_making_room_to_grow.author }} on {{ 2009-09-20-allotments_making_room_to_grow.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

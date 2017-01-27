@@ -29,17 +29,6 @@ excerpt: |
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2007-03-14-slight_bounty in site.data.2007-03-14-slight_bounty %}
-  <li>
 
-    {{ 2007-03-14-slight_bounty.comment }}
-
-    <cite>{{ 2007-03-14-slight_bounty.author }} on {{ 2007-03-14-slight_bounty.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

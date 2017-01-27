@@ -25,17 +25,6 @@ Things to think about include:
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-10-01-under_glass in site.data.2010-10-01-under_glass %}
-  <li>
 
-    {{ 2010-10-01-under_glass.comment }}
-
-    <cite>{{ 2010-10-01-under_glass.author }} on {{ 2010-10-01-under_glass.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

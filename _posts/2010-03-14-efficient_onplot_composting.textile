@@ -23,17 +23,6 @@ An information sheet on optimum-value composting on the plot has been compiled f
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-03-14-efficient_onplot_composting in site.data.2010-03-14-efficient_onplot_composting %}
-  <li>
 
-    {{ 2010-03-14-efficient_onplot_composting.comment }}
-
-    <cite>{{ 2010-03-14-efficient_onplot_composting.author }} on {{ 2010-03-14-efficient_onplot_composting.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

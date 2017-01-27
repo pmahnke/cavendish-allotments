@@ -9,11 +9,13 @@ excerpt: |
 
     In this issue:
 
-    * Best allotment in the borough 2016
-    * Seasonal Jobs for October and November
-    * Cavendish Allotments Association AGM
-    * On site news
-    * Recipes
+    <ul>
+    	<li>Best allotment in the borough 2016</li>
+    	<li>Seasonal Jobs for October and November</li>
+    	<li>Cavendish Allotments Association <span class="caps">AGM</span></li>
+    	<li>On site news</li>
+    	<li>Recipes</li>
+    </ul>
 
 ---
 

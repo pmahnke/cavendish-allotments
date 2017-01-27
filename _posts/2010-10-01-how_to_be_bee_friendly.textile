@@ -30,17 +30,6 @@ h4. Note
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2010-10-01-how_to_be_bee_friendly in site.data.2010-10-01-how_to_be_bee_friendly %}
-  <li>
 
-    {{ 2010-10-01-how_to_be_bee_friendly.comment }}
-
-    <cite>{{ 2010-10-01-how_to_be_bee_friendly.author }} on {{ 2010-10-01-how_to_be_bee_friendly.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

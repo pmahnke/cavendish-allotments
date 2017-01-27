@@ -14,17 +14,6 @@ Peter Jacques (plot 3) has won a prize in the annual competition run across all 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-10-11-congratulations in site.data.2011-10-11-congratulations %}
-  <li>
 
-    {{ 2011-10-11-congratulations.comment }}
-
-    <cite>{{ 2011-10-11-congratulations.author }} on {{ 2011-10-11-congratulations.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

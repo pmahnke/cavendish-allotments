@@ -12,17 +12,6 @@ We will be having another summer Social Event this year, on Sunday 14 June, from
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2009-04-22-summer_social_event_14_june_2009 in site.data.2009-04-22-summer_social_event_14_june_2009 %}
-  <li>
 
-    {{ 2009-04-22-summer_social_event_14_june_2009.comment }}
-
-    <cite>{{ 2009-04-22-summer_social_event_14_june_2009.author }} on {{ 2009-04-22-summer_social_event_14_june_2009.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

@@ -28,17 +28,6 @@ _Refreshments available_
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2013-09-27-agm_24_november_2013 in site.data.2013-09-27-agm_24_november_2013 %}
-  <li>
 
-    {{ 2013-09-27-agm_24_november_2013.comment }}
-
-    <cite>{{ 2013-09-27-agm_24_november_2013.author }} on {{ 2013-09-27-agm_24_november_2013.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

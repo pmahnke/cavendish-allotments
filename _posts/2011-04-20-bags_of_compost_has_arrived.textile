@@ -14,17 +14,6 @@ All members of the Committee have a key, so just find one of us and we can open 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-20-bags_of_compost_has_arrived in site.data.2011-04-20-bags_of_compost_has_arrived %}
-  <li>
 
-    {{ 2011-04-20-bags_of_compost_has_arrived.comment }}
-
-    <cite>{{ 2011-04-20-bags_of_compost_has_arrived.author }} on {{ 2011-04-20-bags_of_compost_has_arrived.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

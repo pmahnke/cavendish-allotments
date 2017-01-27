@@ -14,17 +14,6 @@ Our social event will be on Sunday 19 June, from 12 noon onwards. As always, the
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2011-04-28-summer_event_19_june_2011 in site.data.2011-04-28-summer_event_19_june_2011 %}
-  <li>
 
-    {{ 2011-04-28-summer_event_19_june_2011.comment }}
-
-    <cite>{{ 2011-04-28-summer_event_19_june_2011.author }} on {{ 2011-04-28-summer_event_19_june_2011.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 

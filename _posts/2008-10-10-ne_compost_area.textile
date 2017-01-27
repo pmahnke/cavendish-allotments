@@ -16,17 +16,6 @@ The work of a few volunteers over the summer has been appreciated but it is now 
 
 
 
-<!-- Comments -->
-<ul>
-{% for 2008-10-10-ne_compost_area in site.data.2008-10-10-ne_compost_area %}
-  <li>
 
-    {{ 2008-10-10-ne_compost_area.comment }}
-
-    <cite>{{ 2008-10-10-ne_compost_area.author }} on {{ 2008-10-10-ne_compost_area.date }}</cite>
-    
-  </li>
-{% endfor %}
-</ul>
 
 
