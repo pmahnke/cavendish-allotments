@@ -11,9 +11,9 @@ date: 2011-01-09 15:54:04
 
 Cavendish Allotments is located between the A316, Hill View Road, Cole Park Road and the River Crane in St Margarets.  The allotment is owned by the London Borough of Richmond upon Thames, but is self run by the members.
 
-h3. Waiting list - CLOSED
+h3. Waiting list
 
-Our waiting is managed by *Richmond Council* and list is _*closed*_ for the foreseeable future as we have approximately seven years of people on the list.
+Our waiting is managed by *Richmond Council*.
 
 If you need to get in touch with the Council, please "see the Council's webpage":http://www.richmond.gov.uk/allotments on Allotments, or use the following contact information.
 
