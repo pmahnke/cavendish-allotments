@@ -1,24 +1,16 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en-GB">
+  {% include head.html %}
+  <body>
 
-{% include head.html %}
-
-<body>
-
+    <!-- header-->
     {% include header.html %}
 
-  <div class="container">
-    <div class="row">
-      <div class="seven columns">
-        {{ content }}
-      </div><!-- end DIV two-third -->
-      <div class="offset-by-one four columns">
-        {% include info.html %}
-      </div><!-- end DIV one-third -->
-    </div><!-- end DIV row -->
-  </div><!-- end DIV container -->
+    <!-- content -->
+    {{ content }}
 
-  {% include footer.html %}
+    <!-- footer -->
+    {% include footer.html %}
 
-</body>
+  </body>
 </html>

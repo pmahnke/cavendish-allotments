@@ -2,16 +2,62 @@
 layout: default
 ---
 
-  <h2>News</h2>
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+      <p>
+        Cavendish Allotments is located between the A316, Hill View Road, Cole Park Road and the River Crane in St Margarets.  The allotment is owned by the London Borough of Richmond upon Thames, but is run by the members.
+      </p>
+      <h2>
+        Waiting list
+      </h2>
+      <p>
+        Our waiting is managed by <strong>Richmond Council</strong>.
+      </p>
+      <p>
+        If you need to get in touch with the Council, please <a href="http://www.richmond.gov.uk/allotments">see the Council's webpage</a> on Allotments, or use the following contact information.
+      </p>
+      <h3>
+        Richmond Council Allotments Officer contact details
+      </h3>
+      <pre>
+        The Allotments Officer
+        London Borough of Richmond upon Thames
+        Civic Centre
+        York Street
+        Twickenham
+        TW1 3BZ
+      </pre>
+      <ul>
+        <li>
+          Telephone: <a href="tel:+442088316110">020 8831 6110</a>
+        </li>
+        <li>
+          Email: <a href="mailto:allotments@richmond.gov.uk">allotments@richmond.gov.uk</a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-4">
+      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.33476114273071295%2C51.45287034468705%2C-0.3206205368041993%2C51.45853951872598&amp;layer=hot&amp;marker=51.45570501971666%2C-0.32769083976745605" style="border: 1px solid black"></iframe>
+      <p>
+        <small>
+          <a href="https://www.openstreetmap.org/?mlat=51.45571&amp;mlon=-0.32769#map=17/51.45571/-0.32769&amp;layers=H">
+            View Larger Map
+          </a>
+        </small>
+      </p>
+    </div>
+  </div>
 
-  <!-- eight main stories -->
-  {% for post in site.posts limit: 8%}
-  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+  <div class="row">
+    <div class="col-8">
+      <h2>
+        Contact details
+      </h2>
+      <p>
+        If you need to get in touch with the the Cavendish Allotment Committee, we have an answer phone at: <a href="tel:+447505668268">07505 668268</a>.  We will attempt to respond to all calls within 48 hours.  You can also email us at <a href="mailto:enquiries@cavendish-allotments.org.uk">enquiries@cavendish-allotments.org.uk</a>.
+      </p>
 
-  {{ post.excerpt | textilize }}
-
-  <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
-
-  <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
-  {% endfor %}
-  <!-- /end eight main stories -->
+    </div>
+  </div>
+</div>
