@@ -1,57 +1,9 @@
 <div class="footer">
   <div class="container">
     <div class="row">
-      <div  class="one-third column">
-        <h3>Navigation</h3>
-        <ul>
-          <li><a href="/" title="return to the homepage">Home</a></li>
-          <li><a href="/advice/" title="">Advice</a></li>
-          <li><a href="/events/" title="">Events</a></li>
-          <li><a href="/information/" title="">Information</a></li>
-          <li><a href="/news/" title="">News</a></li>
-          <li><a href="/archives.html" title="Site archives">Archives</a></li>
-          <li><a href="/2011/01/contact_us.html">Contact us</a></li>
-        </ul>
-      </div><!-- end div footer_nav -->
-
-      <div class="one-third column">
-        <h3><a href="/archives.html" title="Archives by Catagory">Archives</a></h3>
-        <ul>
-          <li><a href="/advice/index.html">advice</a></li>
-          <li><a href="/news/index.html">news</a></li>
-          <li><a href="/events/index.html">events</a></li>
-        </ul>
-
-        <h3>News Feed</h3>
-
-        <ul>
-          <li><a href="/feed.xml">atom</a></li>
-        </ul>
-      </div><!-- end div footer_archives -->
-
-      <div class="one-third column">
-        <h3><label for="search" accesskey="4">Search</label></h3>
-          <form method="get" action="https://www.cavendish-allotments.org.uk/cgi-bin/search.cgi">
-            <input name="a" value="search" type="hidden">
-            <p><input id="search" name="q" size="20"></p>
-            <p><input value="Search" type="submit"></p>
-          </form>
-        </div><!-- end div footer_search -->
-      </div><!-- end DIV row -->
-      <p class="copyright">Copyright &copy; 2007-2018 Cavendish Allotments</p>
-    </div><!-- end DIV container -->
-  </div><!-- end DIV footer -->
-
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-286964-7']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
+      <div  class="col-12">
+        <p class="copyright">Copyright &copy; 2007-{{ site.time | date: '%Y' }} Cavendish Allotments</p>
+      </div>
+    </div>
+  </div>
+</div>

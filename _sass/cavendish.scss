@@ -1,33 +1,17 @@
 // header
 .header {
-  background: #fff url('/assets/images/bean_plant.jpg') left 1px no-repeat;
-  height: 15rem;
-
   h1 {
-    float: right;
     margin-top: 1em;
   }
 }
 
 // footer
 .footer {
-  background: #BEEC46 url('/assets/images/marrow.png') no-repeat bottom right;
-
-  h3 {
-    font-size: 1.25em;
-    margin-top: 2em;
-    text-transform: uppercase;
-  }
-  label {
-    font-weight: normal;
-  }
+  background-color: #BEEC46;
+  min-height: 3rem;
+  vertical-align: middle;
 }
 
-
-a:link,
-a:visited {
-  text-decoration: none;
-}
 
 ul {
   list-style: circle;
@@ -39,10 +23,17 @@ ul {
   }
 }
 
-p {
-  line-height: 1.2em;
+a:link {
+    color: #088A29
 }
 
+a:active {
+    font-weight: 400;
+}
+
+a:visited {
+    color: #045f1b
+}
 
 blockquote {
   color: #222;

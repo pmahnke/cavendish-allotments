@@ -2,11 +2,15 @@
 layout: default
 ---
 
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+
 <h2>Archive of posts from {{ page.date | date: "%B %Y" }}</h2>
 
 {% for post in page.posts limit: 10 %}
 
-    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
     {{ post.excerpt | textilize }}
 
@@ -21,3 +25,6 @@ layout: default
         <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
 </ul>
+</div>
+</div>
+</div>

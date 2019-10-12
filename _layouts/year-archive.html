@@ -2,22 +2,29 @@
 layout: default
 ---
 
-<h2>Archive of posts from {{ page.date | date: "%Y" }}</h2>
+<div class="container">
+  <div class="row">
+    <div class="col-8">
 
-{% for post in page.posts limit: 10 %}
+      <h2>Archive of posts from {{ page.date | date: "%Y" }}</h2>
 
-    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      {% for post in page.posts limit: 10 %}
 
-    {{ post.excerpt | remove:'<div class="letter">' | textilize }}
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
-    <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+        {{ post.excerpt | remove:'<div class="letter">' | textilize }}
 
-{% endfor %}
+          <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
 
-<h3>Older Articles</h3>
+          {% endfor %}
 
-    <ul>
-{% for post in page.posts offset: 10 %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
-{% endfor %}
-</ul>
+          <h3>Older Articles</h3>
+
+          <ul>
+            {% for post in page.posts offset: 10 %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
